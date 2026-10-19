@@ -1,0 +1,262 @@
+[
+ {
+  "name": "Adyen",
+  "ats": "greenhouse",
+  "slug": "adyen"
+ },
+ {
+  "name": "Agoda",
+  "ats": "greenhouse",
+  "slug": "agoda"
+ },
+ {
+  "name": "Airbnb",
+  "ats": "greenhouse",
+  "slug": "airbnb"
+ },
+ {
+  "name": "Airwallex",
+  "ats": "ashby",
+  "slug": "airwallex"
+ },
+ {
+  "name": "Akuna Capital",
+  "ats": "greenhouse",
+  "slug": "akunacapital"
+ },
+ {
+  "name": "Anchorage Digital",
+  "ats": "lever",
+  "slug": "anchorage"
+ },
+ {
+  "name": "Anthropic",
+  "ats": "greenhouse",
+  "slug": "anthropic"
+ },
+ {
+  "name": "Binance",
+  "ats": "greenhouse",
+  "slug": "binance"
+ },
+ {
+  "name": "BitGo",
+  "ats": "greenhouse",
+  "slug": "bitgo"
+ },
+ {
+  "name": "Block",
+  "ats": "greenhouse",
+  "slug": "block"
+ },
+ {
+  "name": "Cloudflare",
+  "ats": "greenhouse",
+  "slug": "cloudflare"
+ },
+ {
+  "name": "Cohere",
+  "ats": "ashby",
+  "slug": "cohere"
+ },
+ {
+  "name": "Coinbase",
+  "ats": "greenhouse",
+  "slug": "coinbase"
+ },
+ {
+  "name": "Coinhako",
+  "ats": "ashby",
+  "slug": "coinhako"
+ },
+ {
+  "name": "Crypto.com",
+  "ats": "lever",
+  "slug": "crypto"
+ },
+ {
+  "name": "Databricks",
+  "ats": "greenhouse",
+  "slug": "databricks"
+ },
+ {
+  "name": "Datadog",
+  "ats": "greenhouse",
+  "slug": "datadog"
+ },
+ {
+  "name": "EBANX",
+  "ats": "greenhouse",
+  "slug": "ebanx"
+ },
+ {
+  "name": "Elastic",
+  "ats": "greenhouse",
+  "slug": "elastic"
+ },
+ {
+  "name": "Figma",
+  "ats": "greenhouse",
+  "slug": "figma"
+ },
+ {
+  "name": "Fireblocks",
+  "ats": "greenhouse",
+  "slug": "fireblocks"
+ },
+ {
+  "name": "Gemini",
+  "ats": "greenhouse",
+  "slug": "gemini"
+ },
+ {
+  "name": "GitLab",
+  "ats": "greenhouse",
+  "slug": "gitlab"
+ },
+ {
+  "name": "HoYoverse",
+  "ats": "ashby",
+  "slug": "hoyoverse"
+ },
+ {
+  "name": "Jane Street",
+  "ats": "greenhouse",
+  "slug": "janestreet"
+ },
+ {
+  "name": "Jump Trading",
+  "ats": "greenhouse",
+  "slug": "jumptrading"
+ },
+ {
+  "name": "Lalamove",
+  "ats": "lever",
+  "slug": "lalamove"
+ },
+ {
+  "name": "Linear",
+  "ats": "ashby",
+  "slug": "linear"
+ },
+ {
+  "name": "Moloco",
+  "ats": "greenhouse",
+  "slug": "moloco"
+ },
+ {
+  "name": "MongoDB",
+  "ats": "greenhouse",
+  "slug": "mongodb"
+ },
+ {
+  "name": "Ninja Van",
+  "ats": "lever",
+  "slug": "ninjavan"
+ },
+ {
+  "name": "Nium",
+  "ats": "lever",
+  "slug": "nium"
+ },
+ {
+  "name": "Okta",
+  "ats": "greenhouse",
+  "slug": "okta"
+ },
+ {
+  "name": "OKX",
+  "ats": "greenhouse",
+  "slug": "okx"
+ },
+ {
+  "name": "OpenAI",
+  "ats": "ashby",
+  "slug": "openai"
+ },
+ {
+  "name": "Palantir",
+  "ats": "lever",
+  "slug": "palantir"
+ },
+ {
+  "name": "Pinterest",
+  "ats": "greenhouse",
+  "slug": "pinterest"
+ },
+ {
+  "name": "Riot Games",
+  "ats": "greenhouse",
+  "slug": "riotgames"
+ },
+ {
+  "name": "Ripple",
+  "ats": "greenhouse",
+  "slug": "ripple"
+ },
+ {
+  "name": "Roblox",
+  "ats": "greenhouse",
+  "slug": "roblox"
+ },
+ {
+  "name": "Sierra",
+  "ats": "ashby",
+  "slug": "sierra"
+ },
+ {
+  "name": "Snowflake",
+  "ats": "ashby",
+  "slug": "snowflake"
+ },
+ {
+  "name": "Squarepoint Capital",
+  "ats": "greenhouse",
+  "slug": "squarepointcapital"
+ },
+ {
+  "name": "Stripe",
+  "ats": "greenhouse",
+  "slug": "stripe"
+ },
+ {
+  "name": "Supabase",
+  "ats": "ashby",
+  "slug": "supabase"
+ },
+ {
+  "name": "Thoughtworks",
+  "ats": "greenhouse",
+  "slug": "thoughtworks"
+ },
+ {
+  "name": "Thunes",
+  "ats": "greenhouse",
+  "slug": "thunes"
+ },
+ {
+  "name": "Twilio",
+  "ats": "greenhouse",
+  "slug": "twilio"
+ },
+ {
+  "name": "Virtu Financial",
+  "ats": "greenhouse",
+  "slug": "virtu"
+ },
+ {
+  "name": "Workato",
+  "ats": "greenhouse",
+  "slug": "workato"
+ },
+ {
+  "name": "WorldQuant",
+  "ats": "greenhouse",
+  "slug": "worldquant"
+ },
+ {
+  "name": "Xendit",
+  "ats": "greenhouse",
+  "slug": "xendit"
+ }
+]
