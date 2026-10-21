@@ -1,5 +1,37 @@
 [
  {
+  "company": "Linear",
+  "title": "Solutions Engineer, APAC",
+  "location": "Singapore / Australia",
+  "url": "https://jobs.ashbyhq.com/linear/d8890a6d-ce76-4c3d-aacc-34c1ed150d91",
+  "posted": "2026-10-21",
+  "ai": false
+ },
+ {
+  "company": "Xendit",
+  "title": "Solutions Engineer",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/xendit/jobs/8021808003",
+  "posted": "2026-10-20",
+  "ai": false
+ },
+ {
+  "company": "Stripe",
+  "title": "Engineering Manager, Money as a Service (MaaS)",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8282169",
+  "posted": "2026-10-20",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Techical Support Engineer",
+  "location": "Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5008266101",
+  "posted": "2026-10-20",
+  "ai": false
+ },
+ {
   "company": "Airwallex",
   "title": "Senior Software Engineer Backend, Billing",
   "location": "SG - Singapore",
@@ -353,6 +385,14 @@
  },
  {
   "company": "Binance",
+  "title": "Finance Engineer",
+  "location": "Hong Kong; Malaysia; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002355101",
+  "posted": "2026-10-14",
+  "ai": false
+ },
+ {
+  "company": "Binance",
   "title": "Data Analyst (12 months contract)",
   "location": "Hong Kong; Malaysia; Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5004445101",
@@ -529,14 +569,6 @@
  },
  {
   "company": "Binance",
-  "title": "Binance Accelerator Programm - Software Engineer (Full-stack / AI-oriented)",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002222101",
-  "posted": "2026-10-13",
-  "ai": true
- },
- {
-  "company": "Binance",
   "title": "Binance Accelerator Program - iOS Architect",
   "location": "Hong Kong; Japan; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002685101",
@@ -673,7 +705,7 @@
  },
  {
   "company": "Binance",
-  "title": "Android Developer - Risk Control",
+  "title": "Android Engineer - Risk Control",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002705101",
   "posted": "2026-10-13",
@@ -753,7 +785,7 @@
  },
  {
   "company": "OKX",
-  "title": "Senior Product Director, AI & Agent (Chatbot)",
+  "title": "Senior Product Director, AI & Agent",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/8018487003",
   "posted": "2026-10-09",
@@ -1261,14 +1293,6 @@
   "location": "Singapore",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8789428002",
   "posted": "2026-09-09",
-  "ai": false
- },
- {
-  "company": "Fireblocks",
-  "title": "Solution Architect, APAC",
-  "location": "Singapore",
-  "url": "https://www.fireblocks.com/careers/position?gh_jid=4711552006",
-  "posted": "2026-09-08",
   "ai": false
  },
  {
@@ -2329,8 +2353,8 @@
  },
  {
   "company": "Squarepoint Capital",
-  "title": "Platform Specialist - PLS",
-  "location": "Montreal, London, New York, Bangalore, Singapore ",
+  "title": "Platform Storage Specialist",
+  "location": "Singapore ",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7907168&gh_jid=7907168",
   "posted": "2026-05-26",
   "ai": false
