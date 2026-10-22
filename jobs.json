@@ -8,6 +8,62 @@
   "ai": false
  },
  {
+  "company": "GitLab",
+  "title": "Senior Solutions Architect",
+  "location": "Remote, Singapore",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8880947002",
+  "posted": "2026-10-21",
+  "ai": false
+ },
+ {
+  "company": "Coinbase",
+  "title": "Software Engineer Intern",
+  "location": "Hybrid - Singapore",
+  "url": "https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873",
+  "posted": "2026-10-21",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Binance Accelerator Program - QA Engineer, Risk",
+  "location": "Australia; Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5009564101",
+  "posted": "2026-10-21",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Binance Accelerator Program (Top Talent Program) – Data Scientist (AI Risk & Fraud Detection)",
+  "location": "Australia; Hong Kong; New Zealand; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5011784101",
+  "posted": "2026-10-21",
+  "ai": true
+ },
+ {
+  "company": "Airwallex",
+  "title": "Staff Data Scientist, Algorithm, Financial Markets",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/b0269bf6-01b3-4793-bd3a-3565d60ed2cc",
+  "posted": "2026-10-21",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Software Engineer, Scale Platform (Frontend)",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/e6ed0945-65a2-40b6-aabe-e28ad025003c",
+  "posted": "2026-10-21",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Software Engineer, Scale (Frontend)",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/a9c09c5d-ab0c-4692-a6c0-d1cdc0107a7c",
+  "posted": "2026-10-21",
+  "ai": false
+ },
+ {
   "company": "Xendit",
   "title": "Solutions Engineer",
   "location": "Singapore, Singapore",
@@ -641,7 +697,7 @@
  },
  {
   "company": "Binance",
-  "title": "Binance Accelerator Program - Applied AI Agent Developer",
+  "title": "Binance Accelerator Program - Applied AI Agent Engineer",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002571101",
   "posted": "2026-10-13",
@@ -689,7 +745,7 @@
  },
  {
   "company": "Binance",
-  "title": "Backend Architect - Pay&Card Tech",
+  "title": "Backend Architect, Binance Pay & Card",
   "location": "Australia; Hong Kong; Singapore; Taiwan; United Arab Emirates",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002465101",
   "posted": "2026-10-13",
@@ -756,14 +812,6 @@
   "title": "Backend Engineer, Java - Web 3 Wallet",
   "location": "Hong Kong; Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002679101",
-  "posted": "2026-10-12",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Staff Data Scientist, Algorithm, Financial Markets",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/b0269bf6-01b3-4793-bd3a-3565d60ed2cc",
   "posted": "2026-10-12",
   "ai": false
  },
@@ -1097,7 +1145,7 @@
  },
  {
   "company": "OKX",
-  "title": "Senior/Staff Software Engineer, C++ - Trading Service",
+  "title": "Senior/Staff Software Engineer, Trading Services",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/8004213003",
   "posted": "2026-09-24",
@@ -1213,14 +1261,6 @@
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/d772acdd-1552-4b87-9d55-b5f7f0d39987",
   "posted": "2026-09-16",
-  "ai": false
- },
- {
-  "company": "Workato",
-  "title": "Senior Data Scientist",
-  "location": "Singapore",
-  "url": "https://www.workato.com/careers?gh_jid=8737586002#open-roles",
-  "posted": "2026-09-15",
   "ai": false
  },
  {
@@ -1636,14 +1676,6 @@
   "title": "Lead Application Security Engineer",
   "location": "Singapore, Singapore",
   "url": "https://www.thoughtworks.com/careers/jobs/8044979?gh_jid=8044979",
-  "posted": "2026-08-12",
-  "ai": false
- },
- {
-  "company": "Cohere",
-  "title": "Forward Deployed Engineer, Infrastructure Specialist (Singapore)",
-  "location": "Singapore / APAC",
-  "url": "https://jobs.ashbyhq.com/cohere/e88931c0-d3fa-4e81-accc-45db823ea616",
   "posted": "2026-08-12",
   "ai": false
  },
@@ -2537,14 +2569,6 @@
  },
  {
   "company": "Airwallex",
-  "title": "Senior Software Engineer, Growth",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/97b1fb70-efd9-4331-87aa-1f9046dba31b",
-  "posted": "2026-04-20",
-  "ai": false
- },
- {
-  "company": "Airwallex",
   "title": "Staff Software Engineer, Growth",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/b0fd93c9-b792-4a96-8828-bae299761a92",
@@ -2929,7 +2953,7 @@
  },
  {
   "company": "OKX",
-  "title": "Senior Software Engineer, Trading Service",
+  "title": "Senior Software Engineer, Trading Services",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/6656607003",
   "posted": "2025-07-22",
@@ -2969,17 +2993,17 @@
  },
  {
   "company": "OKX",
-  "title": "Senior Staff Software Engineer, Trading Service (C++)",
+  "title": "Senior Staff Software Engineer, Trading Services",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/6615074003",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/6610645003",
   "posted": "2025-06-18",
   "ai": false
  },
  {
   "company": "OKX",
-  "title": "Senior Staff Software Engineer, Trading Service",
+  "title": "Senior Staff Software Engineer, Trading Service (C++)",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/6610645003",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/6615074003",
   "posted": "2025-06-18",
   "ai": false
  },
