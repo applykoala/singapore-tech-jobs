@@ -1,5 +1,53 @@
 [
  {
+  "company": "Airwallex",
+  "title": "Software Engineer, Developer Experience",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/3c5176fb-6eee-4bf4-8031-36f0528c71a3",
+  "posted": "2026-10-23",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Engineering Lead, Full Stack, Growth Team",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/96a870c7-9a25-4e8a-8b4d-7ae5456e7475",
+  "posted": "2026-10-23",
+  "ai": false
+ },
+ {
+  "company": "Thoughtworks",
+  "title": "Graduate Systems Support Engineer",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8305353?gh_jid=8305353",
+  "posted": "2026-10-22",
+  "ai": false
+ },
+ {
+  "company": "Stripe",
+  "title": "Engineering Manager, Payments",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8256027",
+  "posted": "2026-10-22",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Engineering Manager, Issuing Platform",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/252a825e-ac40-41fa-b12e-dda400167e68",
+  "posted": "2026-10-22",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Head of Engineering, Payments Platform",
+  "location": "SG - Singapore / US - Seattle / UK - London / US - San Francisco",
+  "url": "https://jobs.ashbyhq.com/airwallex/1df645e6-47a1-4317-808c-8ebc07af9f96",
+  "posted": "2026-10-22",
+  "ai": false
+ },
+ {
   "company": "Linear",
   "title": "Solutions Engineer, APAC",
   "location": "Singapore / Australia",
@@ -562,16 +610,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1216,14 +1264,6 @@
   "ai": false
  },
  {
-  "company": "Adyen",
-  "title": "Technical Support Engineer (Finance)",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/adyen/jobs/8212878",
-  "posted": "2026-09-20",
-  "ai": false
- },
- {
   "company": "Virtu Financial",
   "title": "Electronic Trading Engineer (Retail Routing)",
   "location": "Singapore",
@@ -1536,14 +1576,6 @@
   "ai": false
  },
  {
-  "company": "Elastic",
-  "title": "Senior Customer Architect",
-  "location": "Singapore, SG",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8138584&gh_jid=8138584",
-  "posted": "2026-08-25",
-  "ai": false
- },
- {
   "company": "Airwallex",
   "title": "Senior AI Engineer (Risk & Payments)",
   "location": "SG - Singapore",
@@ -1749,14 +1781,6 @@
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795",
   "posted": "2026-08-05",
-  "ai": false
- },
- {
-  "company": "Stripe",
-  "title": "Engineering Manager, Payments",
-  "location": "Singapore",
-  "url": "https://stripe.com/jobs/search?gh_jid=8104767",
-  "posted": "2026-08-04",
   "ai": false
  },
  {
@@ -2473,7 +2497,7 @@
  },
  {
   "company": "Squarepoint Capital",
-  "title": "Trading Infrastructure Specialist – Graduate Programme",
+  "title": "Trading Infrastructure Specialist – Graduate Program",
   "location": "London, Montreal, Hong Kong, New York, Singapore",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021",
   "posted": "2026-05-05",
@@ -2533,14 +2557,6 @@
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/fa8769f2-0808-4bb1-b254-9af4dbafc84a",
   "posted": "2026-04-23",
-  "ai": false
- },
- {
-  "company": "Stripe",
-  "title": "Engineering Manager, APAC & EMEA Cards",
-  "location": "Singapore",
-  "url": "https://stripe.com/jobs/search?gh_jid=7841757",
-  "posted": "2026-04-22",
   "ai": false
  },
  {
@@ -2673,7 +2689,7 @@
  },
  {
   "company": "OKX",
-  "title": "Senior Engineering Director, Trading Services",
+  "title": "VP/ Senior Engineering Director, Trading Services",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7673170003",
   "posted": "2026-03-20",
@@ -2853,6 +2869,14 @@
   "location": "Singapore",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7479509&gh_jid=7479509",
   "posted": "2025-12-17",
+  "ai": false
+ },
+ {
+  "company": "Riot Games",
+  "title": "Manager, Software Engineering, Publishing Engagement - Publishing Platform (based in Seoul, South Korea)",
+  "location": "Seoul, Korea; Singapore",
+  "url": "https://www.riotgames.com/en/work-with-us/job/7454356?gh_jid=7454356",
+  "posted": "2025-12-10",
   "ai": false
  },
  {
@@ -3101,6 +3125,14 @@
   "location": "Singapore, London, Houston, Montreal",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=6420505&gh_jid=6420505",
   "posted": "2024-12-04",
+  "ai": false
+ },
+ {
+  "company": "Squarepoint Capital",
+  "title": "Software Developer - Risk Technology",
+  "location": "Singapore, Montreal, Bangalore ",
+  "url": "https://www.squarepoint-capital.com/open-opportunities?id=6212106&gh_jid=6212106",
+  "posted": "2024-09-30",
   "ai": false
  },
  {
