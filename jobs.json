@@ -1,5 +1,21 @@
 [
  {
+  "company": "OKX",
+  "title": "Senior Finance Transformation & Strategy PMO (BI / AI)",
+  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8042491003",
+  "posted": "2026-10-23",
+  "ai": true
+ },
+ {
+  "company": "Binance",
+  "title": "Financial Data Engineer, Stock & AI Data",
+  "location": "Australia; Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5014488101",
+  "posted": "2026-10-23",
+  "ai": true
+ },
+ {
   "company": "Airwallex",
   "title": "Software Engineer, Developer Experience",
   "location": "SG - Singapore",
@@ -12,6 +28,14 @@
   "title": "Engineering Lead, Full Stack, Growth Team",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/96a870c7-9a25-4e8a-8b4d-7ae5456e7475",
+  "posted": "2026-10-23",
+  "ai": false
+ },
+ {
+  "company": "Adyen",
+  "title": "Team Lead - Software Engineer",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8264727",
   "posted": "2026-10-23",
   "ai": false
  },
@@ -230,14 +254,6 @@
   "url": "https://www.thoughtworks.com/careers/jobs/8255607?gh_jid=8255607",
   "posted": "2026-10-16",
   "ai": true
- },
- {
-  "company": "Thoughtworks",
-  "title": "Principal Information Security Partner",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8276050?gh_jid=8276050",
-  "posted": "2026-10-16",
-  "ai": false
  },
  {
   "company": "HoYoverse",
@@ -610,16 +626,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1268,14 +1284,6 @@
   "title": "Electronic Trading Engineer (Retail Routing)",
   "location": "Singapore",
   "url": "https://job-boards.greenhouse.io/virtu/jobs/8798302002",
-  "posted": "2026-09-18",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Senior Full-stack Developer (NodeJS)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8200469?gh_jid=8200469",
   "posted": "2026-09-18",
   "ai": false
  },
@@ -1932,14 +1940,6 @@
   "title": "Software Engineer",
   "location": "Singapore",
   "url": "https://www.janestreet.com/join-jane-street/apply/8632392002?gh_jid=8632392002",
-  "posted": "2026-07-21",
-  "ai": false
- },
- {
-  "company": "Adyen",
-  "title": "Team Lead - Software Engineer",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/adyen/jobs/8069237",
   "posted": "2026-07-21",
   "ai": false
  },
