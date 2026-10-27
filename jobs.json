@@ -1,9 +1,65 @@
 [
  {
+  "company": "Thoughtworks",
+  "title": "Associate-Graduate:Developer",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8324032?gh_jid=8324032",
+  "posted": "2026-10-26",
+  "ai": false
+ },
+ {
+  "company": "OKX",
+  "title": "Software Engineer, Mobile (Android)",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8045415003",
+  "posted": "2026-10-26",
+  "ai": false
+ },
+ {
+  "company": "Coinbase",
+  "title": "Regional Security Manager, APAC",
+  "location": "Remote - Singapore",
+  "url": "https://www.coinbase.com/careers/positions/8312623?gh_jid=8312623",
+  "posted": "2026-10-26",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Techops Engineer",
+  "location": "Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5011501101",
+  "posted": "2026-10-26",
+  "ai": false
+ },
+ {
   "company": "Binance",
   "title": "Software Engineer - Blockchain Security (Full-stack)",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002691101",
+  "posted": "2026-10-26",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Senior iOS Engineer, Futures",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002723101",
+  "posted": "2026-10-26",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Binance Accelerator Program - Applied Data Scientist",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5008126101",
+  "posted": "2026-10-26",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Binance Acceleration Program - Product Data Analyst",
+  "location": "Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5013528101",
   "posted": "2026-10-26",
   "ai": false
  },
@@ -217,14 +273,6 @@
  },
  {
   "company": "Airwallex",
-  "title": "Senior Data Scientist, Analytics",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/8e018b65-8a56-4939-9bd4-0d8fba311ee2",
-  "posted": "2026-10-19",
-  "ai": false
- },
- {
-  "company": "Airwallex",
   "title": "Senior Data Engineer, Knowledge Platform, Foundational Data",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/39069d1d-9a56-4ef2-b326-8cc1f46a25f9",
@@ -262,6 +310,14 @@
   "url": "https://www.thoughtworks.com/careers/jobs/8255607?gh_jid=8255607",
   "posted": "2026-10-16",
   "ai": true
+ },
+ {
+  "company": "OKX",
+  "title": "Senior / Staff Engineer, DEX Trading System",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8034335003",
+  "posted": "2026-10-16",
+  "ai": false
  },
  {
   "company": "HoYoverse",
@@ -634,16 +690,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -836,14 +892,6 @@
   "title": "Android Engineer - Risk Control",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002705101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Algorithm Engineer, Market Growth",
-  "location": "Australia; Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002625101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1161,7 +1209,7 @@
  },
  {
   "company": "OKX",
-  "title": "Software Engineer, Mobile(iOS)",
+  "title": "Software Engineer, Mobile (iOS)",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/8005095003",
   "posted": "2026-09-25",
@@ -1576,14 +1624,6 @@
   "ai": true
  },
  {
-  "company": "Stripe",
-  "title": "Specialist Solutions Architect, Payments",
-  "location": "Singapore",
-  "url": "https://stripe.com/jobs/search?gh_jid=8119970",
-  "posted": "2026-08-25",
-  "ai": false
- },
- {
   "company": "MongoDB",
   "title": "Senior Solutions Architect",
   "location": "Singapore",
@@ -1865,14 +1905,6 @@
  },
  {
   "company": "OKX",
-  "title": "Senior Product Manager, Multilingual AI and Evals",
-  "location": "Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/7822538003",
-  "posted": "2026-07-31",
-  "ai": true
- },
- {
-  "company": "OKX",
   "title": "Staff/Senior Java Engineer, OKX Web3 Wallet",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7821268003",
@@ -1913,7 +1945,7 @@
  },
  {
   "company": "OKX",
-  "title": "AI Enablement PMO Director",
+  "title": "AI Enablement Project Director",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7814862003",
   "posted": "2026-07-24",
@@ -2352,14 +2384,6 @@
   "ai": false
  },
  {
-  "company": "Agoda",
-  "title": "Staff/Lead LLM Data Scientist (Singapore based)",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/agoda/jobs/7916604",
-  "posted": "2026-06-09",
-  "ai": true
- },
- {
   "company": "OKX",
   "title": "Staff Data Engineer, Finance Data Platform",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
@@ -2470,14 +2494,6 @@
   "url": "https://job-boards.greenhouse.io/okx/jobs/7736920003",
   "posted": "2026-05-17",
   "ai": false
- },
- {
-  "company": "Agoda",
-  "title": "Staff/Lead LLM Data Scientist (Singapore based)",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/agoda/jobs/7916603",
-  "posted": "2026-05-13",
-  "ai": true
  },
  {
   "company": "Squarepoint Capital",
@@ -2836,14 +2852,6 @@
   "title": "Senior/Staff Engineer, Growth",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7594323003",
-  "posted": "2026-01-16",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Staff Data Scientist, Product Analytics",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/66d926f9-e5e4-4271-963e-d1e05d75aa4d",
   "posted": "2026-01-16",
   "ai": false
  },
@@ -3286,14 +3294,6 @@
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=4906785&gh_jid=4906785",
   "posted": "2023-12-15",
   "ai": false
- },
- {
-  "company": "Agoda",
-  "title": "Staff/Lead LLM Data Scientist (Singapore based)",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/agoda/jobs/5393397",
-  "posted": "2023-09-26",
-  "ai": true
  },
  {
   "company": "Squarepoint Capital",
