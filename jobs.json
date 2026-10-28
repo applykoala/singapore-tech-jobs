@@ -1,5 +1,37 @@
 [
  {
+  "company": "Airwallex",
+  "title": "Senior Product Manager,  Identity & User Security",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/3e50e26a-ea9d-4b63-bdfa-3d3fc6a43908",
+  "posted": "2026-10-28",
+  "ai": false
+ },
+ {
+  "company": "OKX",
+  "title": "Engineering VP / Director",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8045820003",
+  "posted": "2026-10-27",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Binance Accelerator Program – AI Infra Security Engineer",
+  "location": "Australia; Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5015877101",
+  "posted": "2026-10-27",
+  "ai": true
+ },
+ {
+  "company": "Airwallex",
+  "title": "Software Engineer Backend, Billing",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/f4d64c0e-2425-409c-a296-4c4c6b9fe824",
+  "posted": "2026-10-27",
+  "ai": false
+ },
+ {
   "company": "Thoughtworks",
   "title": "Associate-Graduate:Developer",
   "location": "Singapore, Singapore",
@@ -1136,14 +1168,6 @@
   "ai": false
  },
  {
-  "company": "Databricks",
-  "title": "Sr. Forward Deployed Engineer",
-  "location": "Singapore",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8731998002",
-  "posted": "2026-09-30",
-  "ai": false
- },
- {
   "company": "OpenAI",
   "title": "AI Support Engineer - Singapore (Weekend Shift)",
   "location": "Singapore",
@@ -1324,14 +1348,6 @@
   "title": "Staff Engineer, Public Cloud Operations",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/8002221003",
-  "posted": "2026-09-22",
-  "ai": false
- },
- {
-  "company": "Elastic",
-  "title": "Senior Partner Solutions Architect - ASEAN",
-  "location": "Singapore",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8205347&gh_jid=8205347",
   "posted": "2026-09-22",
   "ai": false
  },
@@ -1520,14 +1536,6 @@
   "ai": false
  },
  {
-  "company": "Workato",
-  "title": "Intern, Data Engineering",
-  "location": "Singapore",
-  "url": "https://www.workato.com/careers?gh_jid=8731177002#open-roles",
-  "posted": "2026-09-02",
-  "ai": false
- },
- {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
   "location": "Singapore",
@@ -1537,11 +1545,11 @@
  },
  {
   "company": "Databricks",
-  "title": "Sr. Specialist Solutions Architect",
+  "title": "Sr. Specialist Solutions Architect (AI/ML)",
   "location": "Singapore",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8762362002",
   "posted": "2026-09-02",
-  "ai": false
+  "ai": true
  },
  {
   "company": "OpenAI",
@@ -2160,14 +2168,6 @@
   "ai": false
  },
  {
-  "company": "Databricks",
-  "title": "Sales Dev AI Program Manager",
-  "location": "Singapore",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8582993002",
-  "posted": "2026-06-25",
-  "ai": true
- },
- {
   "company": "Thoughtworks",
   "title": "Lead Developer (NodeJS)",
   "location": "Singapore, Singapore",
@@ -2508,14 +2508,6 @@
   "title": "Senior Software Engineer, Risk",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/a532b09a-bfdc-4537-8bb7-d1c35f5dc0bc",
-  "posted": "2026-05-06",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Senior Product Manager,  Identity & User Security",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/3e50e26a-ea9d-4b63-bdfa-3d3fc6a43908",
   "posted": "2026-05-06",
   "ai": false
  },
