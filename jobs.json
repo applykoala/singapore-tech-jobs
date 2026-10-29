@@ -1,9 +1,65 @@
 [
  {
+  "company": "Okta",
+  "title": "Senior Solutions Engineer - ASEAN",
+  "location": "Singapore",
+  "url": "https://www.okta.com/company/careers/opportunity/8333120?gh_jid=8333120",
+  "posted": "2026-10-29",
+  "ai": false
+ },
+ {
   "company": "Airwallex",
-  "title": "Senior Product Manager,  Identity & User Security",
+  "title": "Senior Network Engineer, Singapore",
   "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/3e50e26a-ea9d-4b63-bdfa-3d3fc6a43908",
+  "url": "https://jobs.ashbyhq.com/airwallex/24be39f7-8a94-42c6-98c8-0a7a2a057242",
+  "posted": "2026-10-29",
+  "ai": false
+ },
+ {
+  "company": "Thoughtworks",
+  "title": "Lead Infrastructure Engineer Consultant",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8324034?gh_jid=8324034",
+  "posted": "2026-10-28",
+  "ai": false
+ },
+ {
+  "company": "Squarepoint Capital",
+  "title": "Senior Quant Researcher - Intraday Statistical Arbitrage",
+  "location": "Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston",
+  "url": "https://www.squarepoint-capital.com/open-opportunities?id=253413&gh_jid=253413",
+  "posted": "2026-10-28",
+  "ai": false
+ },
+ {
+  "company": "Squarepoint Capital",
+  "title": "Senior Quant Researcher - Fixed Income",
+  "location": "Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston",
+  "url": "https://www.squarepoint-capital.com/open-opportunities?id=1163559&gh_jid=1163559",
+  "posted": "2026-10-28",
+  "ai": false
+ },
+ {
+  "company": "Squarepoint Capital",
+  "title": "Senior Quant Researcher - Equity Mid/Low Frequency",
+  "location": "Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston",
+  "url": "https://www.squarepoint-capital.com/open-opportunities?id=253411&gh_jid=253411",
+  "posted": "2026-10-28",
+  "ai": false
+ },
+ {
+  "company": "Squarepoint Capital",
+  "title": "Senior Quant Researcher - CTA/Short-Term",
+  "location": "Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston",
+  "url": "https://www.squarepoint-capital.com/open-opportunities?id=253410&gh_jid=253410",
+  "posted": "2026-10-28",
+  "ai": false
+ },
+ {
+  "company": "Databricks",
+  "title": "Sr. Solutions Engineer (Greater China)",
+  "location": "Singapore",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899597002",
   "posted": "2026-10-28",
   "ai": false
  },
@@ -505,7 +561,7 @@
  },
  {
   "company": "Airwallex",
-  "title": "Staff Mobile Engineer, Spend Foundation",
+  "title": "Staff Mobile Engineer, Foundation",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/8fcbf399-427e-4ebb-a350-6e849a5c25e0",
   "posted": "2026-10-15",
@@ -833,14 +889,6 @@
  },
  {
   "company": "Binance",
-  "title": "Binance Accelerator Program - Data Scientist (Transaction Monitoring)",
-  "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002681101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Binance Accelerator Program - Data Scientist (On Chain background) Fully Remote",
   "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002693101",
@@ -944,14 +992,6 @@
   "ai": true
  },
  {
-  "company": "Squarepoint Capital",
-  "title": "Senior Security Architect",
-  "location": "London, Singapore",
-  "url": "https://www.squarepoint-capital.com/open-opportunities?id=8184856&gh_jid=8184856",
-  "posted": "2026-10-12",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "Software Engineer, Mobile Core (Compliance)",
   "location": "Singapore, Singapore",
@@ -996,14 +1036,6 @@
   "title": "Analytics Engineer",
   "location": "Singapore",
   "url": "https://www.workato.com/careers?gh_jid=8870119002#open-roles",
-  "posted": "2026-10-08",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Lead Infrastructure Engineer Consultant",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8255611?gh_jid=8255611",
   "posted": "2026-10-08",
   "ai": false
  },
@@ -1797,38 +1829,6 @@
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/6543531003",
   "posted": "2026-08-07",
-  "ai": false
- },
- {
-  "company": "Squarepoint Capital",
-  "title": "Senior Quant Researcher - Intraday Statistical Arbitrage",
-  "location": "Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston",
-  "url": "https://www.squarepoint-capital.com/open-opportunities?id=253413&gh_jid=253413",
-  "posted": "2026-08-06",
-  "ai": false
- },
- {
-  "company": "Squarepoint Capital",
-  "title": "Senior Quant Researcher - Fixed Income",
-  "location": "Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston",
-  "url": "https://www.squarepoint-capital.com/open-opportunities?id=1163559&gh_jid=1163559",
-  "posted": "2026-08-06",
-  "ai": false
- },
- {
-  "company": "Squarepoint Capital",
-  "title": "Senior Quant Researcher - Equity Mid/Low Frequency",
-  "location": "Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston",
-  "url": "https://www.squarepoint-capital.com/open-opportunities?id=253411&gh_jid=253411",
-  "posted": "2026-08-06",
-  "ai": false
- },
- {
-  "company": "Squarepoint Capital",
-  "title": "Senior Quant Researcher - CTA/Short-Term",
-  "location": "Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston",
-  "url": "https://www.squarepoint-capital.com/open-opportunities?id=253410&gh_jid=253410",
-  "posted": "2026-08-06",
   "ai": false
  },
  {
@@ -3305,10 +3305,18 @@
  },
  {
   "company": "Squarepoint Capital",
-  "title": "Software Developer - Data Infrastructure",
+  "title": "Software Developer – Internal Compute Frameworks (C++)",
   "location": "London, Montreal, Singapore",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=4992227&gh_jid=4992227",
   "posted": "2023-05-02",
+  "ai": false
+ },
+ {
+  "company": "Jane Street",
+  "title": "Data Centre Engineer",
+  "location": "Singapore",
+  "url": "https://www.janestreet.com/join-jane-street/apply/6102180002?gh_jid=6102180002",
+  "posted": "2023-04-07",
   "ai": false
  },
  {
