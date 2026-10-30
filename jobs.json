@@ -1,9 +1,33 @@
 [
  {
+  "company": "Binance",
+  "title": "Binance Accelerator Program - Data Scientist, LLM Agents & Fraud Detection (P2P)",
+  "location": "Australia; Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5017150101",
+  "posted": "2026-10-30",
+  "ai": true
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Frontend Engineer, Billing",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/739ae3d3-12ca-4f26-bd9a-a80a74c4b0e0",
+  "posted": "2026-10-30",
+  "ai": false
+ },
+ {
   "company": "Okta",
   "title": "Senior Solutions Engineer - ASEAN",
   "location": "Singapore",
   "url": "https://www.okta.com/company/careers/opportunity/8333120?gh_jid=8333120",
+  "posted": "2026-10-29",
+  "ai": false
+ },
+ {
+  "company": "MongoDB",
+  "title": "Senior Solutions Architect",
+  "location": "Singapore",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8331146",
   "posted": "2026-10-29",
   "ai": false
  },
@@ -1784,14 +1808,6 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Software Engineer Intern (Jan to Jun 2027)",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441",
-  "posted": "2026-08-14",
-  "ai": false
- },
- {
   "company": "OpenAI",
   "title": "PCBA Manufacturing Engineer",
   "location": "Singapore",
@@ -1837,14 +1853,6 @@
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/7fda4857-060d-41c6-900e-c72f451f8ce3",
   "posted": "2026-08-06",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Software Engineer Intern (Summer 2027)",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795",
-  "posted": "2026-08-05",
   "ai": false
  },
  {
@@ -2304,14 +2312,6 @@
   "ai": true
  },
  {
-  "company": "Airwallex",
-  "title": "Software Engineer II (iOS), Financial Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/423d791d-f47f-4800-969a-a8ef2a3fc700",
-  "posted": "2026-06-17",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "Senior/Staff Software Engineer, Liquidity Platform",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
@@ -2568,14 +2568,6 @@
   "ai": true
  },
  {
-  "company": "Airwallex",
-  "title": "Senior Software Engineer (iOS), Financial Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/fa8769f2-0808-4bb1-b254-9af4dbafc84a",
-  "posted": "2026-04-23",
-  "ai": false
- },
- {
   "company": "OpenAI",
   "title": "Forward Deployed Engineer - Singapore",
   "location": "Singapore",
@@ -2641,6 +2633,14 @@
  },
  {
   "company": "OKX",
+  "title": "Head of Product, AI and Agent",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/7691998003",
+  "posted": "2026-04-07",
+  "ai": true
+ },
+ {
+  "company": "OKX",
   "title": "Engineering Director, Frontend Business Lead",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7687326003",
@@ -2677,14 +2677,6 @@
   "location": "Singapore",
   "url": "https://www.janestreet.com/join-jane-street/apply/8480752002?gh_jid=8480752002",
   "posted": "2026-03-29",
-  "ai": false
- },
- {
-  "company": "Databricks",
-  "title": "Sr. Manager, Field Engineering",
-  "location": "Singapore",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8438767002",
-  "posted": "2026-03-24",
   "ai": false
  },
  {
@@ -2904,14 +2896,6 @@
   "ai": false
  },
  {
-  "company": "Databricks",
-  "title": "Sr. Manager, Partner Solutions Architect",
-  "location": "Singapore",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8073294002",
-  "posted": "2025-10-28",
-  "ai": false
- },
- {
   "company": "Jump Trading",
   "title": "Quantitative Researcher | Trading Team",
   "location": "Singapore",
@@ -2953,7 +2937,7 @@
  },
  {
   "company": "Airwallex",
-  "title": "Staff Software Engineer, Cards",
+  "title": "Staff Software Engineer, Spend",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/1711508a-927f-48c2-b3ef-0a79ccd0299d",
   "posted": "2025-08-20",
@@ -2964,14 +2948,6 @@
   "title": "Engineering Manager, Financial Platform",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/8323ef8a-a728-41a6-a82d-addb2d645a85",
-  "posted": "2025-08-14",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Engineering Lead, Financial Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/45b65dc1-ecf4-4d10-9e7e-61f433dbd81a",
   "posted": "2025-08-14",
   "ai": false
  },
