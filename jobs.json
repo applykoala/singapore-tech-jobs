@@ -1,5 +1,13 @@
 [
  {
+  "company": "OKX",
+  "title": "Infrastructure Architect",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8108181003",
+  "posted": "2026-10-30",
+  "ai": false
+ },
+ {
   "company": "Binance",
   "title": "Binance Accelerator Program - Data Scientist, LLM Agents & Fraud Detection (P2P)",
   "location": "Australia; Hong Kong; Singapore; Taiwan",
@@ -170,7 +178,7 @@
  {
   "company": "Binance",
   "title": "Binance Acceleration Program - Product Data Analyst",
-  "location": "Singapore",
+  "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5013528101",
   "posted": "2026-10-26",
   "ai": false
@@ -641,14 +649,6 @@
  },
  {
   "company": "Binance",
-  "title": "Research Scientist - LLM Foundation Models",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002639101",
-  "posted": "2026-10-14",
-  "ai": true
- },
- {
-  "company": "Binance",
   "title": "Pioneer Talent Program - Research Data Scientist (APAC Remote)",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002565101",
@@ -761,14 +761,6 @@
  },
  {
   "company": "Binance",
-  "title": "Web/App Test Engineer",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002483101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Senior Data Analyst (AI Compliance)",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002713101",
@@ -802,16 +794,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1405,6 +1397,14 @@
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/8002221003",
   "posted": "2026-09-22",
+  "ai": false
+ },
+ {
+  "company": "Adyen",
+  "title": "Technical Support Engineer (Finance)",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8212878",
+  "posted": "2026-09-20",
   "ai": false
  },
  {
@@ -2016,14 +2016,6 @@
   "ai": false
  },
  {
-  "company": "Databricks",
-  "title": "Manager, Forward Deployed Engineering",
-  "location": "Singapore",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8629997002",
-  "posted": "2026-07-14",
-  "ai": false
- },
- {
   "company": "Airwallex",
   "title": "Senior Software Engineer, Org & Identity",
   "location": "SG - Singapore",
@@ -2173,14 +2165,6 @@
   "location": "Singapore, Hong Kong, Shanghai",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=7809758",
   "posted": "2026-06-25",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Lead Developer (NodeJS)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/7840672?gh_jid=7840672",
-  "posted": "2026-06-24",
   "ai": false
  },
  {
