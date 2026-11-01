@@ -31,5 +31,9 @@ Open an issue with its careers page, or add it to [`companies.json`](companies.j
 I'm a software engineer looking for work in Singapore, and I got tired of checking fifty career pages by hand.
 I keep the roles I'm interested in, my notes on each company and my applications in
 [ApplyKoala](https://applykoala.com), a job tracker I built for my own search.
+If you would rather use a spreadsheet, there is a free
+[job application tracker template](https://applykoala.com/guides/job-application-tracker-template)
+for Excel and Google Sheets. Preparing for an interview? This
+[mock interview prompt](https://applykoala.com/mock-interview) works with ChatGPT or Claude.
 
 Job data belongs to the listed companies. Check the official posting before you apply; roles can close at any time.
