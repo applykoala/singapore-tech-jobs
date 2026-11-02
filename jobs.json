@@ -1,19 +1,35 @@
 [
  {
+  "company": "Snowflake",
+  "title": "Senior AI/ML Architect, Applied Field Engineering/Field CTO",
+  "location": "SG-Singapore",
+  "url": "https://jobs.ashbyhq.com/snowflake/30e6db17-33e6-4c5e-b2d0-8d0a7d5ab60e",
+  "posted": "2026-11-02",
+  "ai": true
+ },
+ {
+  "company": "Pinterest",
+  "title": "Sr. Technical Program Manager",
+  "location": "Singapore, SG",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016646",
+  "posted": "2026-11-02",
+  "ai": false
+ },
+ {
+  "company": "Snowflake",
+  "title": "Senior RVP, Solution Engineering ASEAN",
+  "location": "SG-Singapore",
+  "url": "https://jobs.ashbyhq.com/snowflake/2ebec9d1-055f-4e47-93ae-29ad19e23967",
+  "posted": "2026-11-01",
+  "ai": false
+ },
+ {
   "company": "OKX",
   "title": "Infrastructure Architect",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/8108181003",
   "posted": "2026-10-30",
   "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Data Scientist, LLM Agents & Fraud Detection (P2P)",
-  "location": "Australia; Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5017150101",
-  "posted": "2026-10-30",
-  "ai": true
  },
  {
   "company": "Airwallex",
@@ -537,14 +553,6 @@
  },
  {
   "company": "Binance",
-  "title": "Binance Accelerator Program - LLM Model Training & Data Processing",
-  "location": "Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002455101",
-  "posted": "2026-10-15",
-  "ai": true
- },
- {
-  "company": "Binance",
   "title": "Binance Accelerator Program - Data Scientist (User Growth)",
   "location": "Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002405101",
@@ -728,22 +736,6 @@
   "ai": false
  },
  {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Data Scientist, Analytics",
-  "location": "Australia; Hong Kong; Singapore; Taiwan; United Arab Emirates",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002258101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Backend Engineer, Pay & Card",
-  "location": "Hong Kong; Singapore; Taiwan; Thailand",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002753101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
   "company": "Twilio",
   "title": "Presales Architect",
   "location": "Remote - Singapore",
@@ -794,16 +786,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -972,14 +964,6 @@
   "title": "Backend Architect, Binance Pay & Card",
   "location": "Australia; Hong Kong; Singapore; Taiwan; United Arab Emirates",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002465101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "BAP - Data Analyst",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002393101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1344,14 +1328,6 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Software Engineer II, Liquidity Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/46f4ddee-b6a4-4a36-83e1-5d3749c7e6e7",
-  "posted": "2026-09-24",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "Senior Product Manager, Data",
   "location": "Singapore, Singapore",
@@ -1416,14 +1392,6 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Senior Cloud Engineer (Networking), Infra",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/99c42d56-094d-4faa-9f6a-221714c9a8cf",
-  "posted": "2026-09-18",
-  "ai": false
- },
- {
   "company": "Stripe",
   "title": "Technical Support Engineer, Metronome",
   "location": "Singapore",
@@ -1469,14 +1437,6 @@
   "location": "Bali, Indonesia; Bangkok, Thailand; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/xendit/jobs/7992374003",
   "posted": "2026-09-11",
-  "ai": false
- },
- {
-  "company": "Coinhako",
-  "title": "Data Analyst Intern (Finance) - January to May 2027",
-  "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/coinhako/ca138875-277c-4045-858c-3ee0cd5b44ed",
-  "posted": "2026-09-10",
   "ai": false
  },
  {
@@ -1800,27 +1760,11 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Senior Cloud Networking Engineer",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/0c4933fa-8fbf-4232-908f-c31049bdee58",
-  "posted": "2026-08-17",
-  "ai": false
- },
- {
   "company": "OpenAI",
   "title": "PCBA Manufacturing Engineer",
   "location": "Singapore",
   "url": "https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b",
   "posted": "2026-08-13",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Lead Application Security Engineer",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8044979?gh_jid=8044979",
-  "posted": "2026-08-12",
   "ai": false
  },
  {
@@ -2024,26 +1968,10 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Senior Backend Engineer, Liquidity Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/62989730-2731-4af4-9ff1-97c016207758",
-  "posted": "2026-07-14",
-  "ai": false
- },
- {
   "company": "Stripe",
   "title": "Data Analyst, Payments",
   "location": "Singapore",
   "url": "https://stripe.com/jobs/search?gh_jid=8044924",
-  "posted": "2026-07-13",
-  "ai": false
- },
- {
-  "company": "Coinhako",
-  "title": "Senior Engineer - Trading Desk",
-  "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/coinhako/915a6185-d147-4e2f-9975-8f1071532e59",
   "posted": "2026-07-13",
   "ai": false
  },
@@ -2360,14 +2288,6 @@
   "ai": false
  },
  {
-  "company": "Coinhako",
-  "title": "Head of Engineering",
-  "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/coinhako/1c0945af-6303-48d0-aa33-99072886dfa0",
-  "posted": "2026-06-09",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "Staff Data Engineer, Finance Data Platform",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
@@ -2429,14 +2349,6 @@
   "location": "Singapore ",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7907168&gh_jid=7907168",
   "posted": "2026-05-26",
-  "ai": false
- },
- {
-  "company": "Coinhako",
-  "title": "Senior Engineer - Payment & Wallet",
-  "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/coinhako/d1600f51-72c9-4bf8-ab8e-98d8f46ce56e",
-  "posted": "2026-05-25",
   "ai": false
  },
  {
