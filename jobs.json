@@ -1,5 +1,13 @@
 [
  {
+  "company": "Thoughtworks",
+  "title": "Fullstack Developer (Java, React.js)",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8326928?gh_jid=8326928",
+  "posted": "2026-11-03",
+  "ai": false
+ },
+ {
   "company": "Snowflake",
   "title": "Senior AI/ML Architect, Applied Field Engineering/Field CTO",
   "location": "SG-Singapore",
@@ -8,10 +16,34 @@
   "ai": true
  },
  {
+  "company": "Ripple",
+  "title": "Senior Cloud Architect",
+  "location": "Singapore",
+  "url": "https://ripple.com/careers/all-jobs/job/8346319?gh_jid=8346319",
+  "posted": "2026-11-02",
+  "ai": false
+ },
+ {
   "company": "Pinterest",
   "title": "Sr. Technical Program Manager",
   "location": "Singapore, SG",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016646",
+  "posted": "2026-11-02",
+  "ai": false
+ },
+ {
+  "company": "MongoDB",
+  "title": "Solutions Architect",
+  "location": "Singapore",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8333381",
+  "posted": "2026-11-02",
+  "ai": false
+ },
+ {
+  "company": "Databricks",
+  "title": "Designated Support Engineer - Spark",
+  "location": "Singapore",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002",
   "posted": "2026-11-02",
   "ai": false
  },
@@ -118,14 +150,6 @@
   "url": "https://job-boards.greenhouse.io/okx/jobs/8045820003",
   "posted": "2026-10-27",
   "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program – AI Infra Security Engineer",
-  "location": "Australia; Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5015877101",
-  "posted": "2026-10-27",
-  "ai": true
  },
  {
   "company": "Airwallex",
@@ -302,14 +326,6 @@
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5009564101",
   "posted": "2026-10-21",
   "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program (Top Talent Program) – Data Scientist (AI Risk & Fraud Detection)",
-  "location": "Australia; Hong Kong; New Zealand; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5011784101",
-  "posted": "2026-10-21",
-  "ai": true
  },
  {
   "company": "Airwallex",
@@ -786,16 +802,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -956,14 +972,6 @@
   "title": "Backend Engineer (Java) - KYC Tech",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002387101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Backend Architect, Binance Pay & Card",
-  "location": "Australia; Hong Kong; Singapore; Taiwan; United Arab Emirates",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002465101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1856,14 +1864,6 @@
   "ai": false
  },
  {
-  "company": "Riot Games",
-  "title": "Staff Machine Learning Engineer, Animation - Singapore Efficiency Team",
-  "location": "Singapore",
-  "url": "https://www.riotgames.com/en/work-with-us/job/8078074?gh_jid=8078074",
-  "posted": "2026-07-31",
-  "ai": true
- },
- {
   "company": "OKX",
   "title": "Staff/Senior Java Engineer, OKX Web3 Wallet",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
@@ -2480,19 +2480,19 @@
   "ai": false
  },
  {
+  "company": "Crypto.com",
+  "title": "Growth Data Analyst",
+  "location": "Singapore",
+  "url": "https://jobs.lever.co/crypto/7983ff1a-dd4a-45c2-9f6a-dda28ccca9ce",
+  "posted": "2026-04-21",
+  "ai": false
+ },
+ {
   "company": "Squarepoint Capital",
   "title": "Trade Flow Support - Trading Infrastructure Support Lead",
   "location": "Montreal, London, New York, Singapore ",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=7709566&gh_jid=7709566",
   "posted": "2026-04-20",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Staff Software Engineer, Growth",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/b0fd93c9-b792-4a96-8828-bae299761a92",
-  "posted": "2026-04-17",
   "ai": false
  },
  {
