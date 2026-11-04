@@ -1,11 +1,67 @@
 [
  {
   "company": "Thoughtworks",
+  "title": "Senior Fullstack Developer (Nest.js, Next.js & CICD)",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8326947?gh_jid=8326947",
+  "posted": "2026-11-03",
+  "ai": false
+ },
+ {
+  "company": "Thoughtworks",
+  "title": "Senior Full Stack Developer (Node.js & Cloud)",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8326946?gh_jid=8326946",
+  "posted": "2026-11-03",
+  "ai": false
+ },
+ {
+  "company": "Thoughtworks",
+  "title": "Fullstack Developer (Vue.js, TypeScript, Node.js)",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8326927?gh_jid=8326927",
+  "posted": "2026-11-03",
+  "ai": false
+ },
+ {
+  "company": "Thoughtworks",
+  "title": "Fullstack Developer (React.js, Next.js, Nest.js)",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8326944?gh_jid=8326944",
+  "posted": "2026-11-03",
+  "ai": false
+ },
+ {
+  "company": "Thoughtworks",
   "title": "Fullstack Developer (Java, React.js)",
   "location": "Singapore, Singapore",
   "url": "https://www.thoughtworks.com/careers/jobs/8326928?gh_jid=8326928",
   "posted": "2026-11-03",
   "ai": false
+ },
+ {
+  "company": "Anthropic",
+  "title": "Head of ASEAN, Applied AI",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/anthropic/jobs/5424312008",
+  "posted": "2026-11-03",
+  "ai": true
+ },
+ {
+  "company": "Airwallex",
+  "title": "Staff Data Engineer, Data and AI, Customer Data Platform",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/e77c835b-90e8-4d77-9a44-38d2f6d929fd",
+  "posted": "2026-11-03",
+  "ai": true
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Data Engineer, Data and AI, Customer Data Platform",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/7b252696-914f-49a9-86ff-5a6b10136219",
+  "posted": "2026-11-03",
+  "ai": true
  },
  {
   "company": "Snowflake",
@@ -233,7 +289,7 @@
  },
  {
   "company": "Binance",
-  "title": "Financial Data Engineer, Stock & AI Data",
+  "title": "Financial Data Engineer, Stock & AI Data（APAC - Remote)",
   "location": "Australia; Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5014488101",
   "posted": "2026-10-23",
@@ -385,7 +441,7 @@
  },
  {
   "company": "Stripe",
-  "title": "Solutions Architect Manager, Platforms (APAC)",
+  "title": "Solutions Architect Manager, Platforms (Asia-Pacific)",
   "location": "Singapore",
   "url": "https://stripe.com/jobs/search?gh_jid=8064171",
   "posted": "2026-10-19",
@@ -401,19 +457,11 @@
  },
  {
   "company": "Binance",
-  "title": "Data Scientist (Search & Recommendation)",
+  "title": "Algorithm Engineer - Search & Recommendation（APAC - Remote)",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002683101",
   "posted": "2026-10-19",
   "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Staff Data Engineer, Data and AI, Customer Data Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/10c64a9c-8e6d-44fe-8af6-4cbcf86f9ff0",
-  "posted": "2026-10-19",
-  "ai": true
  },
  {
   "company": "Airwallex",
@@ -432,14 +480,6 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Senior Data Engineer, Data and AI, Customer Data Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/aa8f06d1-cda8-4405-b852-963ed89445a9",
-  "posted": "2026-10-19",
-  "ai": true
- },
- {
   "company": "Binance",
   "title": "LLM Data Scientist/Algorithm Engineer (Top Talent Program)",
   "location": "Australia; Hong Kong; New Zealand; Singapore; Taiwan",
@@ -449,11 +489,11 @@
  },
  {
   "company": "Binance",
-  "title": "Full Stack Engineer (Frontend Oriented) — Identity & Security",
-  "location": "Hong Kong; Singapore; Taiwan; United Arab Emirates",
+  "title": "Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security",
+  "location": "Australia; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5007086101",
   "posted": "2026-10-18",
-  "ai": false
+  "ai": true
  },
  {
   "company": "Thoughtworks",
@@ -600,14 +640,6 @@
   "ai": false
  },
  {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - AI System Performance Engineer (APAC Remote)",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002733101",
-  "posted": "2026-10-15",
-  "ai": true
- },
- {
   "company": "Airwallex",
   "title": "Staff Software Engineer, Ecosystem",
   "location": "SG - Singapore",
@@ -697,14 +729,6 @@
  },
  {
   "company": "Binance",
-  "title": "Market Data Lead",
-  "location": "Hong Kong; Malaysia; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002349101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Finance Engineer",
   "location": "Hong Kong; Malaysia; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002355101",
@@ -740,14 +764,6 @@
   "title": "Binance Accelerator Program - Research On Chain Data Analyst",
   "location": "Hong Kong; Malaysia; Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002563101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Full Stack Engineer (APAC Remote)",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002449101",
   "posted": "2026-10-14",
   "ai": false
  },
@@ -788,14 +804,6 @@
   "title": "Product Manager, AI Agent & Harness",
   "location": "Hong Kong; Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002459101",
-  "posted": "2026-10-13",
-  "ai": true
- },
- {
-  "company": "Binance",
-  "title": "Product Manager - AI",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002703101",
   "posted": "2026-10-13",
   "ai": true
  },
@@ -913,14 +921,6 @@
  },
  {
   "company": "Binance",
-  "title": "Binance Accelerator Program - Data Scientist (On Chain background) Fully Remote",
-  "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002693101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Binance Accelerator Program - Applied AI Application Engineer",
   "location": "Hong Kong; Japan; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002569101",
@@ -996,6 +996,14 @@
   "title": "AI Agent  Engineer",
   "location": "Hong Kong; Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002667101",
+  "posted": "2026-10-13",
+  "ai": true
+ },
+ {
+  "company": "Binance",
+  "title": "AI & Recommendation Product Manager",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002703101",
   "posted": "2026-10-13",
   "ai": true
  },
@@ -1097,7 +1105,7 @@
  },
  {
   "company": "Stripe",
-  "title": "Specialist Solutions Architect, Radar (APAC)",
+  "title": "Specialist Solutions Architect, Radar (Asia-Pacific)",
   "location": "Singapore",
   "url": "https://stripe.com/jobs/search?gh_jid=8225567",
   "posted": "2026-10-06",
@@ -1340,14 +1348,6 @@
   "title": "Senior Product Manager, Data",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/8004107003",
-  "posted": "2026-09-23",
-  "ai": false
- },
- {
-  "company": "Datadog",
-  "title": "Global Safety & Security Manager",
-  "location": "Singapore, Singapore",
-  "url": "https://careers.datadoghq.com/detail/8223272/?gh_jid=8223272",
   "posted": "2026-09-23",
   "ai": false
  },
@@ -1689,7 +1689,7 @@
  },
  {
   "company": "Stripe",
-  "title": "Solutions Architect (Greater China)",
+  "title": "Solutions Architect (China Market)",
   "location": "Singapore",
   "url": "https://stripe.com/jobs/search?gh_jid=8144223",
   "posted": "2026-08-21",
@@ -2081,7 +2081,7 @@
  },
  {
   "company": "Jump Trading",
-  "title": "Site Reliability Engineer | Production Infrastructure",
+  "title": "Site Reliability Engineer",
   "location": "Singapore",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=7809761",
   "posted": "2026-06-25",
@@ -3029,14 +3029,6 @@
   "location": "Singapore",
   "url": "https://www.janestreet.com/join-jane-street/apply/7642974002?gh_jid=7642974002",
   "posted": "2024-09-23",
-  "ai": false
- },
- {
-  "company": "Jump Trading",
-  "title": "Systems Engineer | Production Engineering (Weekend Warrior)",
-  "location": "Sydney or Singapore",
-  "url": "https://www.jumptrading.com/hr/job?gh_jid=6250379",
-  "posted": "2024-09-13",
   "ai": false
  },
  {
