@@ -1,5 +1,29 @@
 [
  {
+  "company": "Sierra",
+  "title": "Software Engineer, Agent",
+  "location": "Singapore",
+  "url": "https://jobs.ashbyhq.com/sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb",
+  "posted": "2026-11-05",
+  "ai": false
+ },
+ {
+  "company": "OpenAI",
+  "title": "AI Deployment Manager - Builder",
+  "location": "Singapore",
+  "url": "https://jobs.ashbyhq.com/openai/c2016d32-1994-471d-8900-1b49259c647c",
+  "posted": "2026-11-05",
+  "ai": true
+ },
+ {
+  "company": "EBANX",
+  "title": "Software Production Engineer | Singapore",
+  "location": "Singapore | Hybrid",
+  "url": "https://job-boards.greenhouse.io/ebanx/jobs/8040041003",
+  "posted": "2026-11-04",
+  "ai": false
+ },
+ {
   "company": "Thoughtworks",
   "title": "Senior Fullstack Developer (Nest.js, Next.js & CICD)",
   "location": "Singapore, Singapore",
@@ -97,7 +121,7 @@
  },
  {
   "company": "Databricks",
-  "title": "Designated Support Engineer - Spark",
+  "title": "Sr. Designated Support Engineer - Spark",
   "location": "Singapore",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002",
   "posted": "2026-11-02",
@@ -504,6 +528,14 @@
   "ai": true
  },
  {
+  "company": "Thoughtworks",
+  "title": "Principal Information Security Partner",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8276050?gh_jid=8276050",
+  "posted": "2026-10-16",
+  "ai": false
+ },
+ {
   "company": "OKX",
   "title": "Senior / Staff Engineer, DEX Trading System",
   "location": "Singapore, Singapore",
@@ -873,22 +905,6 @@
  },
  {
   "company": "Binance",
-  "title": "Binance Accelerator Program - iOS Architect",
-  "location": "Hong Kong; Japan; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002685101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Research Data Scientist",
-  "location": "Hong Kong; Japan; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002567101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Binance Accelerator Program - QA, Coding (Fully Remote)",
   "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002711101",
@@ -910,46 +926,6 @@
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002419101",
   "posted": "2026-10-13",
   "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Full Stack Engineer (AI)",
-  "location": "Hong Kong; Japan; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002443101",
-  "posted": "2026-10-13",
-  "ai": true
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Applied AI Application Engineer",
-  "location": "Hong Kong; Japan; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002569101",
-  "posted": "2026-10-13",
-  "ai": true
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Applied AI Agent Engineer",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002571101",
-  "posted": "2026-10-13",
-  "ai": true
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - AI Intelligence Efficiency Engineer",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002577101",
-  "posted": "2026-10-13",
-  "ai": true
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - AI Engineer, Dev Tools",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002573101",
-  "posted": "2026-10-13",
-  "ai": true
  },
  {
   "company": "Binance",
@@ -1105,7 +1081,7 @@
  },
  {
   "company": "Stripe",
-  "title": "Specialist Solutions Architect, Radar (Asia-Pacific)",
+  "title": "Specialist Solutions Architect, Fraud & Risk (Asia-Pacific)",
   "location": "Singapore",
   "url": "https://stripe.com/jobs/search?gh_jid=8225567",
   "posted": "2026-10-06",
@@ -1621,14 +1597,6 @@
   "location": "Singapore, Singapore",
   "url": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8164166&gh_jid=8164166",
   "posted": "2026-08-30",
-  "ai": false
- },
- {
-  "company": "OpenAI",
-  "title": "Solutions Engineer, Ads Solutions - Singapore",
-  "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/openai/bfd27251-5a50-4050-aa66-596a8db9a7a8",
-  "posted": "2026-08-28",
   "ai": false
  },
  {
@@ -2174,14 +2142,6 @@
   "url": "https://jobs.ashbyhq.com/airwallex/6c29e112-c94c-4346-9721-283aa4f4bcdc",
   "posted": "2026-06-22",
   "ai": false
- },
- {
-  "company": "Riot Games",
-  "title": "Principal Software Engineer - ML Platform Engineer",
-  "location": "Singapore",
-  "url": "https://www.riotgames.com/en/work-with-us/job/8017748?gh_jid=8017748",
-  "posted": "2026-06-19",
-  "ai": true
  },
  {
   "company": "OKX",
