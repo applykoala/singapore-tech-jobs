@@ -16,8 +16,32 @@
   "ai": true
  },
  {
+  "company": "Binance",
+  "title": "Senior Data Engineer - Square (APAC Remote)",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5028320101",
+  "posted": "2026-11-05",
+  "ai": false
+ },
+ {
+  "company": "Agoda",
+  "title": "Staff AI Security Engineer",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/agoda/jobs/8326312",
+  "posted": "2026-11-05",
+  "ai": true
+ },
+ {
+  "company": "Agoda",
+  "title": "Staff AI Security Analyst",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/agoda/jobs/8326318",
+  "posted": "2026-11-05",
+  "ai": true
+ },
+ {
   "company": "EBANX",
-  "title": "Software Production Engineer | Singapore",
+  "title": "Mid-level Software Production Engineer | Singapore",
   "location": "Singapore | Hybrid",
   "url": "https://job-boards.greenhouse.io/ebanx/jobs/8040041003",
   "posted": "2026-11-04",
@@ -25,7 +49,7 @@
  },
  {
   "company": "Thoughtworks",
-  "title": "Senior Fullstack Developer (Nest.js, Next.js & CICD)",
+  "title": "Senior Fullstack Developer (React, Next.js, Nest.js/Node.js)",
   "location": "Singapore, Singapore",
   "url": "https://www.thoughtworks.com/careers/jobs/8326947?gh_jid=8326947",
   "posted": "2026-11-03",
@@ -289,14 +313,6 @@
  },
  {
   "company": "Binance",
-  "title": "Binance Accelerator Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5008126101",
-  "posted": "2026-10-26",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Binance Acceleration Program - Product Data Analyst",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5013528101",
@@ -545,7 +561,7 @@
  },
  {
   "company": "HoYoverse",
-  "title": "Test Development Engineer -Entry Level",
+  "title": "Test Development Engineer - Entry Level",
   "location": "Singapore",
   "url": "https://jobs.ashbyhq.com/hoyoverse/68d044cb-57b9-4fee-a4e3-b35ae4b63f94",
   "posted": "2026-10-16",
@@ -617,57 +633,9 @@
  },
  {
   "company": "Binance",
-  "title": "Frontend Engineer - Earn",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002763101",
-  "posted": "2026-10-15",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Blockchain Engineer - Binance Wallet",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002619101",
-  "posted": "2026-10-15",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - QA Automation",
-  "location": "Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002697101",
-  "posted": "2026-10-15",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Data Scientist (User Growth)",
-  "location": "Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002405101",
-  "posted": "2026-10-15",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Data Scientist (Recommendation/Square Community)",
-  "location": "Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002521101",
-  "posted": "2026-10-15",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Data Scientist (LLM & Trading)",
-  "location": "Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002579101",
-  "posted": "2026-10-15",
-  "ai": true
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Data Analyst",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002311101",
   "posted": "2026-10-15",
   "ai": false
  },
@@ -905,35 +873,11 @@
  },
  {
   "company": "Binance",
-  "title": "Binance Accelerator Program - QA, Coding (Fully Remote)",
-  "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002711101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Binance Accelerator Program - QA (Content)",
   "location": "Hong Kong; Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002373101",
   "posted": "2026-10-13",
   "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Full Stack Engineer (Backend Oriented) Fully Remote",
-  "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002419101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program -  Applied AI Agent Engineer (Top Talent Program)",
-  "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002641101",
-  "posted": "2026-10-13",
-  "ai": true
  },
  {
   "company": "Binance",
@@ -948,14 +892,6 @@
   "title": "Backend Engineer (Java) - KYC Tech",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002387101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Android Engineer - Risk Control",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002705101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1744,14 +1680,6 @@
   "ai": false
  },
  {
-  "company": "Riot Games",
-  "title": "Principal Software Engineer - DevOps / Site Reliability Engineer",
-  "location": "Singapore",
-  "url": "https://www.riotgames.com/en/work-with-us/job/8108097?gh_jid=8108097",
-  "posted": "2026-08-11",
-  "ai": false
- },
- {
   "company": "Airwallex",
   "title": "Engineering Director, Payments Platform",
   "location": "SG - Singapore / US - Seattle / UK - London / US - San Francisco",
@@ -2537,6 +2465,14 @@
  },
  {
   "company": "OKX",
+  "title": "Senior/Staff Java Engineer, Fraud Risk",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/7678342003",
+  "posted": "2026-03-25",
+  "ai": false
+ },
+ {
+  "company": "OKX",
   "title": "Senior /Staff AI Engineer",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7675050003",
@@ -2869,14 +2805,6 @@
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/6615074003",
   "posted": "2025-06-18",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Senior Software Engineer, Financial Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/8208fe0d-6aab-4783-98ff-3bf3c393d67e",
-  "posted": "2025-06-11",
   "ai": false
  },
  {
