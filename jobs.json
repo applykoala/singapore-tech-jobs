@@ -1,9 +1,41 @@
 [
  {
+  "company": "OKX",
+  "title": "Senior Management, Platform & Infrastructure Audit",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8197696003",
+  "posted": "2026-11-06",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Fullstack Engineer - Square (APAC Remote)",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5028202101",
+  "posted": "2026-11-06",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Data Analyst (compliance)",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5015530101",
+  "posted": "2026-11-06",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Data Analyst (AI compliance)",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5024711101",
+  "posted": "2026-11-06",
+  "ai": true
+ },
+ {
   "company": "Sierra",
   "title": "Software Engineer, Agent",
   "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb",
+  "url": "https://jobs.ashbyhq.com/Sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb",
   "posted": "2026-11-05",
   "ai": false
  },
@@ -810,16 +842,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -868,14 +900,6 @@
   "title": "Data Product Manager, Derivatives (12 months contract)",
   "location": "Hong Kong; Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002293101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - QA (Content)",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002373101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1179,7 +1203,7 @@
   "company": "Sierra",
   "title": "Sales Engineering Manager, APJ",
   "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/sierra/460d88d5-6ae9-4cf8-95e8-c6d29aa4e5f2",
+  "url": "https://jobs.ashbyhq.com/Sierra/460d88d5-6ae9-4cf8-95e8-c6d29aa4e5f2",
   "posted": "2026-09-25",
   "ai": false
  },
@@ -1403,7 +1427,7 @@
   "company": "Sierra",
   "title": "Software Engineer, Agent (New Grad 2027)",
   "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce",
+  "url": "https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce",
   "posted": "2026-09-07",
   "ai": false
  },
@@ -1411,7 +1435,7 @@
   "company": "Sierra",
   "title": "Software Engineer Intern, Agent (Summer 2027)",
   "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
+  "url": "https://jobs.ashbyhq.com/Sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
   "posted": "2026-09-07",
   "ai": false
  },
@@ -2123,7 +2147,7 @@
   "company": "Sierra",
   "title": "Software Engineer, Agent (Mandarin Speaking)",
   "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001",
+  "url": "https://jobs.ashbyhq.com/Sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001",
   "posted": "2026-06-12",
   "ai": false
  },
