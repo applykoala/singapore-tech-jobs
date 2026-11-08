@@ -1,5 +1,13 @@
 [
  {
+  "company": "Elastic",
+  "title": "Senior Support Engineer",
+  "location": "Singapore",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8346174&gh_jid=8346174",
+  "posted": "2026-11-07",
+  "ai": false
+ },
+ {
   "company": "OKX",
   "title": "Senior Management, Platform & Infrastructure Audit",
   "location": "Singapore, Singapore",
@@ -842,16 +850,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
