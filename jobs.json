@@ -1,5 +1,29 @@
 [
  {
+  "company": "Binance",
+  "title": "Binance Accelerator Program - Compliance Training (AI)",
+  "location": "Australia; Bahrain; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5024608101",
+  "posted": "2026-11-10",
+  "ai": true
+ },
+ {
+  "company": "Thoughtworks",
+  "title": "Infrastructure Engineer Consultant",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8324042?gh_jid=8324042",
+  "posted": "2026-11-09",
+  "ai": false
+ },
+ {
+  "company": "Nium",
+  "title": "Senior Analyst - Compliance Analytics",
+  "location": "Singapore",
+  "url": "https://jobs.lever.co/nium/0f064170-7681-4e6c-99e6-b2b131be2a37",
+  "posted": "2026-11-09",
+  "ai": false
+ },
+ {
   "company": "Elastic",
   "title": "Senior Support Engineer",
   "location": "Singapore",
@@ -38,6 +62,14 @@
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5024711101",
   "posted": "2026-11-06",
   "ai": true
+ },
+ {
+  "company": "Snowflake",
+  "title": "Account Engineer",
+  "location": "SG-Singapore",
+  "url": "https://jobs.ashbyhq.com/snowflake/6f5862ef-d3c2-48cd-99c0-c79382cc5c32",
+  "posted": "2026-11-05",
+  "ai": false
  },
  {
   "company": "Sierra",
@@ -850,16 +882,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1241,14 +1273,6 @@
  },
  {
   "company": "Thoughtworks",
-  "title": "Senior AI Engineer",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8200470?gh_jid=8200470",
-  "posted": "2026-09-24",
-  "ai": true
- },
- {
-  "company": "Thoughtworks",
   "title": "Lead AIOps Architect",
   "location": "Singapore, Singapore",
   "url": "https://www.thoughtworks.com/careers/jobs/8203546?gh_jid=8203546",
@@ -1262,14 +1286,6 @@
   "url": "https://www.thoughtworks.com/careers/jobs/8203544?gh_jid=8203544",
   "posted": "2026-09-24",
   "ai": true
- },
- {
-  "company": "Thoughtworks",
-  "title": "Infrastructure Engineer Consultant",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8200473?gh_jid=8200473",
-  "posted": "2026-09-24",
-  "ai": false
  },
  {
   "company": "Stripe",
@@ -1896,14 +1912,6 @@
   "ai": false
  },
  {
-  "company": "Stripe",
-  "title": "Data Analyst, Payments",
-  "location": "Singapore",
-  "url": "https://stripe.com/jobs/search?gh_jid=8044924",
-  "posted": "2026-07-13",
-  "ai": false
- },
- {
   "company": "Databricks",
   "title": "Sr. Staff Forward Deployed Engineer",
   "location": "Singapore",
@@ -2201,7 +2209,7 @@
  },
  {
   "company": "OKX",
-  "title": "Application Architect, Java",
+  "title": "Application Architect (Senior Staff Enginer)",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7766838003",
   "posted": "2026-06-09",
@@ -2881,8 +2889,8 @@
  },
  {
   "company": "OKX",
-  "title": "Infrastructure Stability Architect",
-  "location": "Singapore, Singapore",
+  "title": "Infrastructure Stability Architect  (Senior Staff Engineer)",
+  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/6507075003",
   "posted": "2025-03-12",
   "ai": false
