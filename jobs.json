@@ -1,5 +1,37 @@
 [
  {
+  "company": "Airwallex",
+  "title": "Software Engineer Intern (Summer 2027)",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795",
+  "posted": "2026-11-12",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Software Engineer Intern (Jan to Jun 2027)",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441",
+  "posted": "2026-11-12",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Data Scientist, Analytics (Risk & Payments)",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/4401779c-419c-46d4-9c9d-4aea013652a5",
+  "posted": "2026-11-12",
+  "ai": false
+ },
+ {
+  "company": "Snowflake",
+  "title": "Technical Architect",
+  "location": "SG-Singapore",
+  "url": "https://jobs.ashbyhq.com/snowflake/8ca0b89c-45ee-4891-8db0-c7588661986c",
+  "posted": "2026-11-11",
+  "ai": false
+ },
+ {
   "company": "OpenAI",
   "title": "Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore",
   "location": "Singapore",
@@ -8,10 +40,34 @@
   "ai": false
  },
  {
+  "company": "HoYoverse",
+  "title": "Senior Software Engineer (Payment)",
+  "location": "Singapore",
+  "url": "https://jobs.ashbyhq.com/hoyoverse/7a5f141c-c49b-4ba5-9b4e-a3cf3a7c079b",
+  "posted": "2026-11-11",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Software Engineer, Infra (Cloud Security Platform)",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/9d770432-8a34-44d4-9273-6dbce7d93aeb",
+  "posted": "2026-11-11",
+  "ai": false
+ },
+ {
   "company": "Adyen",
   "title": "Technical Support Engineer",
   "location": "Singapore",
   "url": "https://job-boards.greenhouse.io/adyen/jobs/8352219",
+  "posted": "2026-11-11",
+  "ai": false
+ },
+ {
+  "company": "Adyen",
+  "title": "Implementation Engineer",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8370587",
   "posted": "2026-11-11",
   "ai": false
  },
@@ -312,14 +368,6 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Senior Network Engineer, Singapore",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/24be39f7-8a94-42c6-98c8-0a7a2a057242",
-  "posted": "2026-10-29",
-  "ai": false
- },
- {
   "company": "Thoughtworks",
   "title": "Lead Infrastructure Engineer Consultant",
   "location": "Singapore, Singapore",
@@ -480,14 +528,6 @@
   "ai": false
  },
  {
-  "company": "Thoughtworks",
-  "title": "Graduate Systems Support Engineer",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8305353?gh_jid=8305353",
-  "posted": "2026-10-22",
-  "ai": false
- },
- {
   "company": "Stripe",
   "title": "Engineering Manager, Payments",
   "location": "Singapore",
@@ -557,14 +597,6 @@
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/a9c09c5d-ab0c-4692-a6c0-d1cdc0107a7c",
   "posted": "2026-10-21",
-  "ai": false
- },
- {
-  "company": "Xendit",
-  "title": "Solutions Engineer",
-  "location": "Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/xendit/jobs/8021808003",
-  "posted": "2026-10-20",
   "ai": false
  },
  {
@@ -817,22 +849,6 @@
  },
  {
   "company": "Binance",
-  "title": "Pioneer Talent Program - Full Stack Engineer (Front-end Oriented, APAC Remote)",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002447101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Pioneer Talent Program - Full Stack Engineer (Back-end Oriented, APAC Remote)",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002441101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Finance Engineer",
   "location": "Hong Kong; Malaysia; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002355101",
@@ -906,16 +922,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1544,6 +1560,14 @@
   "ai": false
  },
  {
+  "company": "Workato",
+  "title": "Intern, Data Engineering",
+  "location": "Singapore",
+  "url": "https://www.workato.com/careers?gh_jid=8731177002#open-roles",
+  "posted": "2026-09-02",
+  "ai": false
+ },
+ {
   "company": "Stripe",
   "title": "Software Engineer, New Grad",
   "location": "Singapore",
@@ -1909,14 +1933,6 @@
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7749091003",
   "posted": "2026-07-17",
-  "ai": false
- },
- {
-  "company": "BitGo",
-  "title": "Solutions Engineer",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/bitgo/jobs/8637553002",
-  "posted": "2026-07-16",
   "ai": false
  },
  {
@@ -2805,6 +2821,14 @@
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/6656607003",
   "posted": "2025-07-22",
+  "ai": false
+ },
+ {
+  "company": "OKX",
+  "title": "Senior/Staff Engineer, Data Platform Development",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/6651092003",
+  "posted": "2025-07-16",
   "ai": false
  },
  {
