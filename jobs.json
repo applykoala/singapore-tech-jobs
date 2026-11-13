@@ -1,5 +1,53 @@
 [
  {
+  "company": "Thoughtworks",
+  "title": "Senior Infrastructure Engineer (AWS, Azure, GCP, Terraform)",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8370674?gh_jid=8370674",
+  "posted": "2026-11-12",
+  "ai": false
+ },
+ {
+  "company": "Thoughtworks",
+  "title": "Principal Platform Engineer",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8370668?gh_jid=8370668",
+  "posted": "2026-11-12",
+  "ai": false
+ },
+ {
+  "company": "Stripe",
+  "title": "Solutions Architect (Korea Market)",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8354762",
+  "posted": "2026-11-12",
+  "ai": false
+ },
+ {
+  "company": "Stripe",
+  "title": "Integration Reliability Engineer, Technical Operations",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8282171",
+  "posted": "2026-11-12",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Mobile Security Engineer (Android / Web)",
+  "location": "Australia; Hong Kong; Singapore; Taiwan; Thailand",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5029666101",
+  "posted": "2026-11-12",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Full Stack Engineer - Recommendation Engine (APAC Remote)",
+  "location": "Hong Kong; Japan; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5025783101",
+  "posted": "2026-11-12",
+  "ai": false
+ },
+ {
   "company": "Airwallex",
   "title": "Software Engineer Intern (Summer 2027)",
   "location": "SG - Singapore",
@@ -81,7 +129,7 @@
  },
  {
   "company": "Jump Trading",
-  "title": "Cloud Systems Engineer",
+  "title": "Cloud Systems Engineer | Production Engineering",
   "location": "Hong Kong, Singapore ",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=8370626",
   "posted": "2026-11-10",
@@ -922,14 +970,6 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Pioneer Talent Program - Applied Data Scientist",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
@@ -937,7 +977,15 @@
  },
  {
   "company": "Binance",
-  "title": "Pioneer Talent Program - Applied AI Agent/AI Productivity Engineer (Top Talent Program)",
+  "title": "Pioneer Talent Program - Applied Data Scientist",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "posted": "2026-10-13",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Pioneer Talent Program - Applied AI Agent/AI Productivity Engineer (Fully Remote)",
   "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002609101",
   "posted": "2026-10-13",
@@ -1521,7 +1569,7 @@
  },
  {
   "company": "Airwallex",
-  "title": "Product Director, Financial Markets (FX) & Financial Platform",
+  "title": "Product Lead, Financial Markets (FX) & Financial Platform",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/07055859-7ded-4c23-8e2d-fe67c96ea8da",
   "posted": "2026-09-07",
@@ -2049,7 +2097,7 @@
  },
  {
   "company": "Jump Trading",
-  "title": "Site Reliability Engineer",
+  "title": "Site Reliability Engineer | Production Infrastructure",
   "location": "Singapore",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=7809761",
   "posted": "2026-06-25",
@@ -2905,7 +2953,7 @@
  },
  {
   "company": "Jump Trading",
-  "title": "Research Engineer – AI Agents",
+  "title": "Research Engineer | AI Agents",
   "location": "Singapore",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=6881808",
   "posted": "2025-05-12",
