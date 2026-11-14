@@ -1,6 +1,38 @@
 [
  {
   "company": "Thoughtworks",
+  "title": "Lead Platform Engineer",
+  "location": "Singapore, Singapore",
+  "url": "https://www.thoughtworks.com/careers/jobs/8370673?gh_jid=8370673",
+  "posted": "2026-11-13",
+  "ai": false
+ },
+ {
+  "company": "Stripe",
+  "title": "Technical Solutions Engineer",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8368656",
+  "posted": "2026-11-13",
+  "ai": false
+ },
+ {
+  "company": "Stripe",
+  "title": "Solutions Architect, Metronome (Startups)",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8338839",
+  "posted": "2026-11-13",
+  "ai": false
+ },
+ {
+  "company": "Stripe",
+  "title": "Solution Architect, Metronome (AI Native)",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8338845",
+  "posted": "2026-11-13",
+  "ai": true
+ },
+ {
+  "company": "Thoughtworks",
   "title": "Senior Infrastructure Engineer (AWS, Azure, GCP, Terraform)",
   "location": "Singapore, Singapore",
   "url": "https://www.thoughtworks.com/careers/jobs/8370674?gh_jid=8370674",
