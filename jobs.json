@@ -1,5 +1,29 @@
 [
  {
+  "company": "Thunes",
+  "title": "IT Security Specialist",
+  "location": "Singapore, Central, Singapore",
+  "url": "https://www.thunes.com/jobs/8201844003?gh_jid=8201844003",
+  "posted": "2026-11-16",
+  "ai": false
+ },
+ {
+  "company": "Thunes",
+  "title": "AI Engineer",
+  "location": "Singapore, Central, Singapore",
+  "url": "https://www.thunes.com/jobs/8204609003?gh_jid=8204609003",
+  "posted": "2026-11-16",
+  "ai": true
+ },
+ {
+  "company": "Databricks",
+  "title": "Manager, Field Engineering (Launchpad Program)",
+  "location": "Singapore",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8857696002",
+  "posted": "2026-11-15",
+  "ai": false
+ },
+ {
   "company": "Thoughtworks",
   "title": "Lead Platform Engineer",
   "location": "Singapore, Singapore",
@@ -140,6 +164,14 @@
   "title": "Technical Support Engineer",
   "location": "Singapore",
   "url": "https://job-boards.greenhouse.io/adyen/jobs/8352219",
+  "posted": "2026-11-11",
+  "ai": false
+ },
+ {
+  "company": "Adyen",
+  "title": "Implementation Engineer",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8370587",
   "posted": "2026-11-11",
   "ai": false
  },
@@ -953,18 +985,10 @@
  },
  {
   "company": "Binance",
-  "title": "Binance Accelerator Program - Research On Chain Data Analyst",
+  "title": "Binance Accelerator Program - Research Data Analyst",
   "location": "Hong Kong; Malaysia; Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002563101",
   "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Web3 Security Senior Operations Specialist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002439101",
-  "posted": "2026-10-13",
   "ai": false
  },
  {
@@ -1392,14 +1416,6 @@
   "ai": false
  },
  {
-  "company": "Thoughtworks",
-  "title": "Lead AI Engineer",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8203544?gh_jid=8203544",
-  "posted": "2026-09-24",
-  "ai": true
- },
- {
   "company": "Stripe",
   "title": "Financial Data Analyst Intern, Technical Operations",
   "location": "Singapore",
@@ -1480,14 +1496,6 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Software Engineer, Quality",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/d772acdd-1552-4b87-9d55-b5f7f0d39987",
-  "posted": "2026-09-16",
-  "ai": false
- },
- {
   "company": "OpenAI",
   "title": "Applied AI Engineer",
   "location": "Singapore",
@@ -1537,7 +1545,7 @@
  },
  {
   "company": "OpenAI",
-  "title": "Manager, AI Deployment Engineering (Southeast Asia)",
+  "title": "Manager, Applied AI Engineering (Southeast Asia)",
   "location": "Singapore",
   "url": "https://jobs.ashbyhq.com/openai/41df4950-f6b1-4f97-8b29-cd0a11f19e25",
   "posted": "2026-09-09",
@@ -2734,14 +2742,6 @@
   "url": "https://job-boards.greenhouse.io/okx/jobs/7601723003",
   "posted": "2026-01-23",
   "ai": false
- },
- {
-  "company": "Thunes",
-  "title": "AI Engineer",
-  "location": "Singapore, Central, Singapore",
-  "url": "https://www.thunes.com/jobs/7594336003?gh_jid=7594336003",
-  "posted": "2026-01-21",
-  "ai": true
  },
  {
   "company": "OKX",
