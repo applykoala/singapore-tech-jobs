@@ -1,5 +1,13 @@
 [
  {
+  "company": "Airwallex",
+  "title": "Senior Software Engineer, Infrastructure (Cloud Governance)",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/8858b315-3daf-4d13-b88b-e6a3ce4ec6bb",
+  "posted": "2026-11-17",
+  "ai": false
+ },
+ {
   "company": "Thunes",
   "title": "IT Security Specialist",
   "location": "Singapore, Central, Singapore",
@@ -14,6 +22,22 @@
   "url": "https://www.thunes.com/jobs/8204609003?gh_jid=8204609003",
   "posted": "2026-11-16",
   "ai": true
+ },
+ {
+  "company": "OKX",
+  "title": "Staff / Senior Engineer - Compliance, Account",
+  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8204703003",
+  "posted": "2026-11-16",
+  "ai": false
+ },
+ {
+  "company": "OKX",
+  "title": "Senior/Staff Engineer, Core Infrastructure",
+  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8204648003",
+  "posted": "2026-11-16",
+  "ai": false
  },
  {
   "company": "Databricks",
@@ -153,7 +177,7 @@
  },
  {
   "company": "Airwallex",
-  "title": "Senior Software Engineer, Infra (Cloud Security Platform)",
+  "title": "Senior Software Engineer, Infra (Cloud & Security)",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/9d770432-8a34-44d4-9273-6dbce7d93aeb",
   "posted": "2026-11-11",
@@ -533,14 +557,6 @@
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/f4d64c0e-2425-409c-a296-4c4c6b9fe824",
   "posted": "2026-10-27",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Associate-Graduate:Developer",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8324032?gh_jid=8324032",
-  "posted": "2026-10-26",
   "ai": false
  },
  {
@@ -1009,25 +1025,17 @@
  },
  {
   "company": "Binance",
-  "title": "Product Manager, AI Agent & Harness",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002459101",
-  "posted": "2026-10-13",
-  "ai": true
- },
- {
-  "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1297,14 +1305,6 @@
  },
  {
   "company": "Airwallex",
-  "title": "Staff/ Senior Solutions Engineer (APAC)",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/13e7b414-e2f1-4d9d-b162-80eb7d5c18aa",
-  "posted": "2026-10-01",
-  "ai": false
- },
- {
-  "company": "Airwallex",
   "title": "Senior Manager - Solution Engineering (APAC)",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/6740fbbf-da73-4d34-a0a6-056058bdcff2",
@@ -1369,7 +1369,7 @@
  },
  {
   "company": "Stripe",
-  "title": "Data Analyst, Global Growth",
+  "title": "Data Analyst",
   "location": "Singapore",
   "url": "https://stripe.com/jobs/search?gh_jid=8230296",
   "posted": "2026-09-25",
@@ -2032,6 +2032,14 @@
   "ai": false
  },
  {
+  "company": "Stripe",
+  "title": "Data Scientist, Global Growth",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8043052",
+  "posted": "2026-07-08",
+  "ai": false
+ },
+ {
   "company": "OpenAI",
   "title": "Applied AI Engineer, Cyber",
   "location": "Singapore",
@@ -2052,14 +2060,6 @@
   "title": "Senior/Staff Engineer, R&D Efficiency Platform",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7795698003",
-  "posted": "2026-07-06",
-  "ai": false
- },
- {
-  "company": "OKX",
-  "title": "Senior/Staff Engineer, Operations Automation & Cloud Management Platform",
-  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/7795778003",
   "posted": "2026-07-06",
   "ai": false
  },
@@ -2344,14 +2344,6 @@
   "ai": false
  },
  {
-  "company": "Adyen",
-  "title": "Engineering Leader -  Payments APAC",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/adyen/jobs/7275885",
-  "posted": "2026-06-07",
-  "ai": false
- },
- {
   "company": "OpenAI",
   "title": "Manufacturing Test Engineer",
   "location": "Singapore",
@@ -2424,6 +2416,14 @@
   "ai": false
  },
  {
+  "company": "Jump Trading",
+  "title": "Software Engineer | Trading Team",
+  "location": "Shanghai, Hong Kong, Singapore",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=7929540",
+  "posted": "2026-05-15",
+  "ai": false
+ },
+ {
   "company": "Squarepoint Capital",
   "title": "Graduate Quant Developer",
   "location": "London, Montreal, Singapore",
@@ -2448,16 +2448,8 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Director of Product Design - Developer Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/967a6fef-cfb1-4a1b-98c2-50690489bd4e",
-  "posted": "2026-04-30",
-  "ai": false
- },
- {
   "company": "Xendit",
-  "title": "Senior Solutions Engineer",
+  "title": "Principal Solutions Engineer",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/xendit/jobs/7719174003",
   "posted": "2026-04-28",
@@ -2753,7 +2745,7 @@
  },
  {
   "company": "Airwallex",
-  "title": "Senior Backend Engineer, Spend Team (Cards)",
+  "title": "Senior Backend Engineer, Spend",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/8c7f2601-c8c6-44e8-855e-699ad8ba3bda",
   "posted": "2026-01-16",
