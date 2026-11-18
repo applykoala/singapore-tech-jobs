@@ -1,5 +1,29 @@
 [
  {
+  "company": "Elastic",
+  "title": "Senior Solutions Architect",
+  "location": "Singapore",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8382571&gh_jid=8382571",
+  "posted": "2026-11-18",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Software Engineer, Risk",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/c992a940-930c-400f-b73d-1ab303d10b45",
+  "posted": "2026-11-18",
+  "ai": false
+ },
+ {
+  "company": "OKX",
+  "title": "Staff Engineer, Machine Learning & Data Infrastructure",
+  "location": "APAC; Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8206913003",
+  "posted": "2026-11-17",
+  "ai": true
+ },
+ {
   "company": "Airwallex",
   "title": "Senior Software Engineer, Infrastructure (Cloud Governance)",
   "location": "SG - Singapore",
@@ -70,14 +94,6 @@
   "url": "https://stripe.com/jobs/search?gh_jid=8338839",
   "posted": "2026-11-13",
   "ai": false
- },
- {
-  "company": "Stripe",
-  "title": "Solution Architect, Metronome (AI Native)",
-  "location": "Singapore",
-  "url": "https://stripe.com/jobs/search?gh_jid=8338845",
-  "posted": "2026-11-13",
-  "ai": true
  },
  {
   "company": "Thoughtworks",
@@ -377,7 +393,7 @@
  },
  {
   "company": "Thoughtworks",
-  "title": "Fullstack Developer (Vue.js, TypeScript, Node.js)",
+  "title": "Fullstack Developer (Vue.js, Node.js)",
   "location": "Singapore, Singapore",
   "url": "https://www.thoughtworks.com/careers/jobs/8326927?gh_jid=8326927",
   "posted": "2026-11-03",
@@ -1026,14 +1042,6 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
-  "posted": "2026-10-13",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Pioneer Talent Program - Applied Data Scientist",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
@@ -1041,11 +1049,11 @@
  },
  {
   "company": "Binance",
-  "title": "Pioneer Talent Program - Applied AI Agent/AI Productivity Engineer (Fully Remote)",
-  "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002609101",
+  "title": "Pioneer Talent Program - Applied Data Scientist",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
-  "ai": true
+  "ai": false
  },
  {
   "company": "Binance",
@@ -1078,14 +1086,6 @@
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002687101",
   "posted": "2026-10-13",
   "ai": true
- },
- {
-  "company": "Binance",
-  "title": "Data Product Manager, Derivatives (12 months contract)",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002293101",
-  "posted": "2026-10-13",
-  "ai": false
  },
  {
   "company": "Binance",
