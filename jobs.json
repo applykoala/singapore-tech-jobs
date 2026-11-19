@@ -1,5 +1,21 @@
 [
  {
+  "company": "Coinbase",
+  "title": "Senior Software Engineer, Native Mobile - International",
+  "location": "Remote - Singapore",
+  "url": "https://www.coinbase.com/careers/positions/8349028?gh_jid=8349028",
+  "posted": "2026-11-19",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Senior Infrastructure Security Engineer(DevSecOps) - APAC Remote",
+  "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5041041101",
+  "posted": "2026-11-19",
+  "ai": false
+ },
+ {
   "company": "Elastic",
   "title": "Senior Solutions Architect",
   "location": "Singapore",
@@ -8,10 +24,34 @@
   "ai": false
  },
  {
+  "company": "Binance",
+  "title": "Security Architect",
+  "location": "Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5040021101",
+  "posted": "2026-11-18",
+  "ai": false
+ },
+ {
   "company": "Airwallex",
   "title": "Software Engineer, Risk",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/c992a940-930c-400f-b73d-1ab303d10b45",
+  "posted": "2026-11-18",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Engineering Lead, Lending Platform",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/9557ef8e-b2a2-4897-9900-ac1f45428643",
+  "posted": "2026-11-18",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Engineering Lead, Lending",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/5259d830-5b43-4547-9771-d73938ec9587",
   "posted": "2026-11-18",
   "ai": false
  },
@@ -1042,16 +1082,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1086,6 +1126,14 @@
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002687101",
   "posted": "2026-10-13",
   "ai": true
+ },
+ {
+  "company": "Binance",
+  "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
+  "location": "Australia; Europe; Hong Kong; Malaysia; Singapore; Taiwan; United Arab Emirates; United Kingdom",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002663101",
+  "posted": "2026-10-13",
+  "ai": false
  },
  {
   "company": "Binance",
@@ -2254,14 +2302,6 @@
   "url": "https://job-boards.greenhouse.io/okx/jobs/7777028003",
   "posted": "2026-06-17",
   "ai": true
- },
- {
-  "company": "OKX",
-  "title": "Senior/Staff Software Engineer, Liquidity Platform",
-  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/7774178003",
-  "posted": "2026-06-16",
-  "ai": false
  },
  {
   "company": "Sierra",
