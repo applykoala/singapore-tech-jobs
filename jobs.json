@@ -1,5 +1,21 @@
 [
  {
+  "company": "Binance",
+  "title": "TechOps Engineer",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5041062101",
+  "posted": "2026-11-20",
+  "ai": false
+ },
+ {
+  "company": "HoYoverse",
+  "title": "Social Platform Partnerships Manager",
+  "location": "Singapore",
+  "url": "https://jobs.ashbyhq.com/hoyoverse/65352ec1-6d8e-44fd-981b-cb29978548da",
+  "posted": "2026-11-19",
+  "ai": false
+ },
+ {
   "company": "Coinbase",
   "title": "Senior Software Engineer, Native Mobile - International",
   "location": "Remote - Singapore",
@@ -12,6 +28,14 @@
   "title": "Senior Infrastructure Security Engineer(DevSecOps) - APAC Remote",
   "location": "Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5041041101",
+  "posted": "2026-11-19",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Backend Engineer (Java) - KYB Tech",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5008234101",
   "posted": "2026-11-19",
   "ai": false
  },
@@ -592,14 +616,6 @@
   "ai": false
  },
  {
-  "company": "Databricks",
-  "title": "Sr. Solutions Engineer (Greater China)",
-  "location": "Singapore",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8899597002",
-  "posted": "2026-10-28",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "Engineering VP / Director",
   "location": "Singapore, Singapore",
@@ -888,14 +904,6 @@
   "ai": false
  },
  {
-  "company": "HoYoverse",
-  "title": "Test Development Engineer (Payments)",
-  "location": "Singapore",
-  "url": "https://jobs.ashbyhq.com/hoyoverse/2eac9418-9ed3-4b7e-a7bc-5d1b833fc9eb",
-  "posted": "2026-10-16",
-  "ai": false
- },
- {
   "company": "Airwallex",
   "title": "Engineering Director, Org & Identity",
   "location": "SG - Singapore",
@@ -1025,14 +1033,6 @@
  },
  {
   "company": "Binance",
-  "title": "Finance Engineer",
-  "location": "Hong Kong; Malaysia; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002355101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Data Analyst (12 months contract)",
   "location": "Hong Kong; Malaysia; Singapore",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5004445101",
@@ -1044,14 +1044,6 @@
   "title": "Business Intelligence/ Data Analytics Manager",
   "location": "Hong Kong; Malaysia; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002365101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Business Intelligence/ Data Analyst",
-  "location": "Hong Kong; Malaysia; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002737101",
   "posted": "2026-10-14",
   "ai": false
  },
@@ -1082,16 +1074,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -2077,14 +2069,6 @@
   "location": "Singapore",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555674002",
   "posted": "2026-07-09",
-  "ai": false
- },
- {
-  "company": "Stripe",
-  "title": "Data Scientist, Global Growth",
-  "location": "Singapore",
-  "url": "https://stripe.com/jobs/search?gh_jid=8043052",
-  "posted": "2026-07-08",
   "ai": false
  },
  {
