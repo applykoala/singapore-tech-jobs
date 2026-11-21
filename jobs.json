@@ -8,6 +8,14 @@
   "ai": false
  },
  {
+  "company": "Airwallex",
+  "title": "Site Reliability Engineer, Spend",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/36d4b8df-ad02-4e69-9547-1f0b0f7d03da",
+  "posted": "2026-11-20",
+  "ai": false
+ },
+ {
   "company": "HoYoverse",
   "title": "Social Platform Partnerships Manager",
   "location": "Singapore",
@@ -290,7 +298,7 @@
  {
   "company": "Jump Trading",
   "title": "Cloud Systems Engineer | Production Engineering",
-  "location": "Hong Kong, Singapore ",
+  "location": "Hong Kong or Singapore ",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=8370626",
   "posted": "2026-11-10",
   "ai": false
@@ -849,7 +857,7 @@
  },
  {
   "company": "Airwallex",
-  "title": "Senior Data Engineer, Knowledge Platform, Foundational Data",
+  "title": "Senior Data Engineer, Knowledge Platform",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/39069d1d-9a56-4ef2-b326-8cc1f46a25f9",
   "posted": "2026-10-19",
@@ -1074,16 +1082,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1794,7 +1802,7 @@
  {
   "company": "Jump Trading",
   "title": "Quantitative Developer | Trading Team",
-  "location": "Singapore, Hong Kong ",
+  "location": "Singapore or Hong Kong ",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=8105914",
   "posted": "2026-08-24",
   "ai": false
@@ -2169,8 +2177,8 @@
  },
  {
   "company": "Jump Trading",
-  "title": "Senior Software Engineer",
-  "location": "Singapore, Hong Kong, Shanghai",
+  "title": "Senior Software Engineer  | Core Development",
+  "location": "Singapore, Hong Kong or Shanghai",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=7809758",
   "posted": "2026-06-25",
   "ai": false
@@ -2376,14 +2384,6 @@
   "ai": false
  },
  {
-  "company": "WorldQuant",
-  "title": "Quantitative Developer",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4686743006",
-  "posted": "2026-06-04",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "AI Application Architect",
   "location": "Singapore, Singapore",
@@ -2442,7 +2442,7 @@
  {
   "company": "Jump Trading",
   "title": "Software Engineer | Trading Team",
-  "location": "Shanghai, Hong Kong, Singapore",
+  "location": "Shanghai, Hong Kong or Singapore",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=7929540",
   "posted": "2026-05-15",
   "ai": false
@@ -2928,14 +2928,6 @@
   "ai": false
  },
  {
-  "company": "Crypto.com",
-  "title": "Senior DevOps Engineer (Trading Platform)",
-  "location": "Singapore",
-  "url": "https://jobs.lever.co/crypto/a3ac2fc1-37c6-45d3-834e-25e9f94aaf5c",
-  "posted": "2025-06-20",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "Senior Staff Software Engineer, Trading Services",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
@@ -3026,7 +3018,7 @@
  {
   "company": "Jump Trading",
   "title": "Deep Learning Researcher | Trading Team",
-  "location": "Shanghai, Singapore, Hong Kong",
+  "location": "Shanghai, Singapore or Hong Kong",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=6603013",
   "posted": "2025-02-04",
   "ai": true
