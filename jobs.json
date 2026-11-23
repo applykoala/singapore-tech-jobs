@@ -1,5 +1,29 @@
 [
  {
+  "company": "Jump Trading",
+  "title": "Network Engineer",
+  "location": "Singapore",
+  "url": "https://www.jumptrading.com/hr/job?gh_jid=8398057",
+  "posted": "2026-11-23",
+  "ai": false
+ },
+ {
+  "company": "Binance",
+  "title": "Product Manager, AI Agent & Harness",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5025842101",
+  "posted": "2026-11-23",
+  "ai": true
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Software Engineer, Backend - Regulatory Reporting",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/dcd0eab6-0f75-432c-87a6-0f7fe9c4d34c",
+  "posted": "2026-11-23",
+  "ai": false
+ },
+ {
   "company": "Binance",
   "title": "TechOps Engineer",
   "location": "Hong Kong; Singapore; Taiwan",
@@ -97,7 +121,7 @@
  },
  {
   "company": "Airwallex",
-  "title": "Senior Software Engineer, Infrastructure (Cloud Governance)",
+  "title": "Senior Software Engineer, Infrastructure (Cloud Platform)",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/8858b315-3daf-4d13-b88b-e6a3ce4ec6bb",
   "posted": "2026-11-17",
@@ -268,14 +292,6 @@
   "title": "Senior Software Engineer, Infra (Cloud & Security)",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/9d770432-8a34-44d4-9273-6dbce7d93aeb",
-  "posted": "2026-11-11",
-  "ai": false
- },
- {
-  "company": "Adyen",
-  "title": "Technical Support Engineer",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/adyen/jobs/8352219",
   "posted": "2026-11-11",
   "ai": false
  },
@@ -537,7 +553,7 @@
  },
  {
   "company": "MongoDB",
-  "title": "Solutions Architect",
+  "title": "Solutions Architect - Thai Speaking",
   "location": "Singapore",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8333381",
   "posted": "2026-11-02",
@@ -577,7 +593,7 @@
  },
  {
   "company": "MongoDB",
-  "title": "Senior Solutions Architect",
+  "title": "Senior Solutions Architect (Public Sector)",
   "location": "Singapore",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8331146",
   "posted": "2026-10-29",
@@ -1017,14 +1033,6 @@
  },
  {
   "company": "Binance",
-  "title": "Senior QA Engineer (Rust/Java), Margin",
-  "location": "Australia; Hong Kong; Singapore; Taiwan; Thailand",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002262101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Recommendation Engine Backend Engineer (Golang) (APAC Remote)",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002721101",
@@ -1082,16 +1090,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1413,14 +1421,6 @@
   "location": "Singapore",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735828002",
   "posted": "2026-09-27",
-  "ai": false
- },
- {
-  "company": "Stripe",
-  "title": "Data Analyst",
-  "location": "Singapore",
-  "url": "https://stripe.com/jobs/search?gh_jid=8230296",
-  "posted": "2026-09-25",
   "ai": false
  },
  {
@@ -1912,14 +1912,6 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Senior Backend Engineer, Stablecoin Platform",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/7fda4857-060d-41c6-900e-c72f451f8ce3",
-  "posted": "2026-08-06",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "Staff Engineer, Security Platform Development",
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
@@ -1965,14 +1957,6 @@
   "location": "Singapore",
   "url": "https://www.jumptrading.com/hr/job?gh_jid=8027946",
   "posted": "2026-08-03",
-  "ai": false
- },
- {
-  "company": "WorldQuant",
-  "title": "C++ Software Engineer - Data Platform",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4701096006",
-  "posted": "2026-08-02",
   "ai": false
  },
  {
@@ -2365,14 +2349,6 @@
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7765814003",
   "posted": "2026-06-08",
-  "ai": false
- },
- {
-  "company": "WorldQuant",
-  "title": "BRAIN Researcher",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/worldquant/jobs/4250853006",
-  "posted": "2026-06-07",
   "ai": false
  },
  {
