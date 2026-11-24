@@ -2,12 +2,12 @@
 
 Software, AI and data jobs in Singapore, taken straight from the companies' own career pages and refreshed every day.
 
-**411 open roles at 41 companies** · updated 2026-11-23
+**401 open roles at 39 companies** · updated 2026-11-24
 
 Every link goes to the company's official posting. The list is built by [`update.py`](update.py) from the public job boards
 (Greenhouse, Lever, Ashby) of the companies in [`companies.json`](companies.json), and keeps only roles located in Singapore.
 
-- [AI and machine learning roles](#ai-and-machine-learning-roles) (66)
+- [AI and machine learning roles](#ai-and-machine-learning-roles) (69)
 - [All roles](#all-roles)
 - [Add a company](#add-a-company)
 
@@ -15,72 +15,75 @@ Every link goes to the company's official posting. The list is built by [`update
 
 | Company | Role | Location | Link | Posted |
 |---|---|---|---|---|
-| **Binance** | Product Manager, AI Agent & Harness | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5025842101) | today |
-| **OKX** | Staff Engineer, Machine Learning & Data Infrastructure | APAC; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8206913003) | 6d |
-| **Thunes** | AI Engineer | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8204609003?gh_jid=8204609003) | 7d |
-| **Binance** | Data Scientist – Computer Vision / AI Manipulation Detection (Risk AI) | Australia; Hong Kong; Singapore; Taiwan; Thailand | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5032464101) | 13d |
-| **Binance** | Binance Accelerator Program - Compliance Training (AI) | Australia; Bahrain; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5024608101) | 13d |
-| **Binance** | Data Analyst (AI compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5024711101) | 17d |
-| **OpenAI** | AI Deployment Manager - Builder | Singapore | [Apply](https://jobs.ashbyhq.com/openai/c2016d32-1994-471d-8900-1b49259c647c) | 18d |
-| **Agoda** | Staff AI Security Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8326312) | 18d |
-| **Agoda** | Staff AI Security Analyst | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8326318) | 18d |
-| **Anthropic** | Head of ASEAN, Applied AI | Singapore | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5424312008) | 20d |
-| **Airwallex** | Staff Data Engineer, Data and AI, Customer Data Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/e77c835b-90e8-4d77-9a44-38d2f6d929fd) | 20d |
-| **Airwallex** | Senior Data Engineer, Data and AI, Customer Data Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/7b252696-914f-49a9-86ff-5a6b10136219) | 20d |
-| **Snowflake** | Senior AI/ML Architect, Applied Field Engineering/Field CTO | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/30e6db17-33e6-4c5e-b2d0-8d0a7d5ab60e) | 21d |
-| **OKX** | Senior Finance Transformation & Strategy PMO (BI / AI) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8042491003) | 31d |
-| **Binance** | Financial Data Engineer, Stock & AI Data（APAC - Remote) | Australia; Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5014488101) | 31d |
-| **OpenAI** | Applied AI Engineer, Startups (Mandarin-speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/502fcf97-75b2-4e54-9957-a29cee8eb1ca) | 35d |
-| **Binance** | LLM Data Scientist/Algorithm Engineer (Top Talent Program) | Australia; Hong Kong; New Zealand; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5009522101) | 36d |
-| **Binance** | Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security | Australia; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5007086101) | 36d |
-| **Thoughtworks** | Senior Machine Learning Engineer | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8255607?gh_jid=8255607) | 38d |
-| **Binance** | Senior Data Analyst (AI Compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002713101) | 41d |
-| **Binance** | LLM Applied Data Scientist (RAG/ NLP) | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002635101) | 41d |
-| **Binance** | Financial Data Engineer, AI/LLM | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002687101) | 41d |
-| **Binance** | AI Product Manager | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002533101) | 41d |
-| **Binance** | AI Agent  Engineer | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002667101) | 41d |
-| **Binance** | AI & Recommendation Product Manager | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002703101) | 41d |
-| **OKX** | Senior Product Director, AI & Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8018487003) | 45d |
-| **OpenAI** | Applied AI Engineer, Codex | Singapore | [Apply](https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884) | 46d |
-| **Airwallex** | Senior Software Engineer, Machine Learning Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/89fccb81-c8cc-4769-be0c-9ed078e1a03b) | 46d |
-| **Agoda** | Staff Software Engineer, GenAI | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8263843) | 46d |
-| **OpenAI** | AI Support Engineer - Singapore (Weekend Shift) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6) | 55d |
-| **OpenAI** | Applied AI Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba) | 69d |
-| **OKX** | Product Director, Localisation & AI Evals | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7984217003) | 69d |
-| **OpenAI** | Manager, Applied AI Engineering (Southeast Asia) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/41df4950-f6b1-4f97-8b29-cd0a11f19e25) | 75d |
-| **Airwallex** | Senior Product Manager, AI Risk & Onboarding | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6c55b41b-824b-46cd-8590-b9e83eaa5de6) | 77d |
-| **Databricks** | Sr. Specialist Solutions Architect (AI/ML) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8762362002) | 82d |
-| **OpenAI** | AI Support Engineer - Singapore (Korean Speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/c8270289-d73d-4ad6-8cae-2b537f8d9062) | 83d |
-| **OpenAI** | Applied AI Architect | Singapore | [Apply](https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410) | 84d |
-| **Airwallex** | Lead AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/02234e0a-e1fc-4b23-b3e6-513200e4ff80) | 89d |
-| **Airwallex** | Senior AI Engineer (Risk & Payments) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/c7070452-6ec6-443c-8015-db339403634a) | 90d |
-| **Jump Trading** | Campus AI/ML Researcher (Intern) | Hong Kong; Shanghai; Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027938) | 91d |
-| **OKX** | Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7899835003) | 96d |
-| **OKX** | AI Enablement Project Director | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7814862003) | 122d |
-| **OpenAI** | AI Support Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/278990f1-59be-41ee-aad2-a9c69c5c7064) | 124d |
-| **OpenAI** | Applied AI Engineer, Cyber | Singapore | [Apply](https://jobs.ashbyhq.com/openai/29f15e50-1611-4256-afad-03b7df0b7aa7) | 138d |
-| **OKX** | Growth & AI Initiatives Manager 增长与 AI 专项经理 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7762046003) | 144d |
-| **OKX** | Junior Product Manager, DevOps and AI | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7780897003) | 153d |
-| **OKX** | Principal/Senior Product Manager, AI & Web3 Wallet | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777028003) | 159d |
-| **OKX** | AI Application Architect | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7761002003) | 174d |
-| **OKX** | Senior Risk Manager, Trading (AI-Augmented Operations) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7718885003) | 209d |
-| **OKX** | Product Manager / Director, AI Trading | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7712844003) | 213d |
-| **OKX** | Senior/Staff Engineer, AI Agent Development | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7699598003) | 223d |
-| **OKX** | Senior Product Manager, DevOps and AI | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7699601003) | 223d |
-| **OKX** | Head of Product, AI and Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7691998003) | 230d |
-| **OKX** | Vice President, AI Strategy & Transformation | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7684887003) | 237d |
-| **OKX** | Senior /Staff AI Engineer | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7675050003) | 245d |
-| **OKX** | Growth & AI Initiatives Manager | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7668551003) | 245d |
-| **Airwallex** | Senior Data Platform Engineer, Knowledge Platform & AI Enablement | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6e975468-e033-4f50-95fe-0f4351457003) | 262d |
-| **OKX** | Principal AI Engineer, Chatbot Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7648781003) | 266d |
-| **Workato** | Senior Infrastructure Engineer (AI Lab) | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8288630002#open-roles) | 287d |
-| **OKX** | Principal/Senior Product Manager, AI and Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7531921003) | 370d |
-| **OKX** | Principal AI Engineer, AI Agent Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6690158003) | 458d |
-| **Airwallex** | Staff AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/260fdad2-74f5-4b94-b7af-caa7eec0393e) | 551d |
-| **Airwallex** | Senior AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/f5c945c9-dc25-4b35-a6bd-ae2fef539727) | 551d |
-| **Jump Trading** | Research Engineer \| AI Agents | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=6881808) | 560d |
-| **Jump Trading** | Deep Learning Researcher \| Trading Team | Shanghai, Singapore or Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=6603013) | 657d |
-| **Squarepoint Capital** | Junior Quant Researcher - ML Alpha Research | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464) | 865d |
+| **OpenAI** | Manager, Applied AI Architects (Singapore) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/143198ab-45e9-4ece-8604-d402b50cc3a9) | today |
+| **Binance** | AI Security Engineer (APAC Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5030531101) | today |
+| **Binance** | Product Manager, AI Agent & Harness | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5025842101) | 1d |
+| **OKX** | Staff Engineer, Machine Learning & Data Infrastructure | APAC; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8206913003) | 7d |
+| **Thunes** | AI Engineer | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8204609003?gh_jid=8204609003) | 8d |
+| **Stripe** | Solution Architect, Metronome (AI Native) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8338845) | 11d |
+| **Binance** | Data Scientist – Computer Vision / AI Manipulation Detection (Risk AI) | Australia; Hong Kong; Singapore; Taiwan; Thailand | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5032464101) | 14d |
+| **Binance** | Binance Accelerator Program - Compliance Training (AI) | Australia; Bahrain; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5024608101) | 14d |
+| **Binance** | Data Analyst (AI compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5024711101) | 18d |
+| **OpenAI** | AI Deployment Manager - Builder | Singapore | [Apply](https://jobs.ashbyhq.com/openai/c2016d32-1994-471d-8900-1b49259c647c) | 19d |
+| **Agoda** | Staff AI Security Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8326312) | 19d |
+| **Agoda** | Staff AI Security Analyst | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8326318) | 19d |
+| **Anthropic** | Head of ASEAN, Applied AI | Singapore | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5424312008) | 21d |
+| **Airwallex** | Staff Data Engineer, Data and AI, Customer Data Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/e77c835b-90e8-4d77-9a44-38d2f6d929fd) | 21d |
+| **Airwallex** | Senior Data Engineer, Data and AI, Customer Data Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/7b252696-914f-49a9-86ff-5a6b10136219) | 21d |
+| **Snowflake** | Senior AI/ML Architect, Applied Field Engineering/Field CTO | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/30e6db17-33e6-4c5e-b2d0-8d0a7d5ab60e) | 22d |
+| **OKX** | Senior Finance Transformation & Strategy PMO (BI / AI) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8042491003) | 32d |
+| **Binance** | Financial Data Engineer, Stock & AI Data（APAC - Remote) | Australia; Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5014488101) | 32d |
+| **OpenAI** | Applied AI Engineer, Startups (Mandarin-speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/502fcf97-75b2-4e54-9957-a29cee8eb1ca) | 36d |
+| **Binance** | LLM Data Scientist/Algorithm Engineer (Top Talent Program) | Australia; Hong Kong; New Zealand; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5009522101) | 37d |
+| **Binance** | Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security | Australia; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5007086101) | 37d |
+| **Binance** | Senior Data Analyst (AI Compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002713101) | 42d |
+| **Binance** | LLM Applied Data Scientist (RAG/ NLP) | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002635101) | 42d |
+| **Binance** | Financial Data Engineer, AI/LLM | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002687101) | 42d |
+| **Binance** | AI Product Manager | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002533101) | 42d |
+| **Binance** | AI Agent  Engineer | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002667101) | 42d |
+| **Binance** | AI & Recommendation Product Manager | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002703101) | 42d |
+| **OKX** | Senior Product Director, AI & Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8018487003) | 46d |
+| **OpenAI** | Applied AI Engineer, Codex | Singapore | [Apply](https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884) | 47d |
+| **Airwallex** | Senior Software Engineer, Machine Learning Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/89fccb81-c8cc-4769-be0c-9ed078e1a03b) | 47d |
+| **Agoda** | Staff Software Engineer, GenAI | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8263843) | 47d |
+| **Agoda** | Senior AI Security Researcher, Singapore based | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8239196) | 55d |
+| **OpenAI** | AI Support Engineer - Singapore (Weekend Shift) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6) | 56d |
+| **OpenAI** | Applied AI Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba) | 70d |
+| **OKX** | Product Director, Localisation & AI Evals | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7984217003) | 70d |
+| **OpenAI** | Manager, Applied AI Engineering (Southeast Asia) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/41df4950-f6b1-4f97-8b29-cd0a11f19e25) | 76d |
+| **Airwallex** | Senior Product Manager, AI Risk & Onboarding | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6c55b41b-824b-46cd-8590-b9e83eaa5de6) | 78d |
+| **Databricks** | Sr. Specialist Solutions Architect (AI/ML) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8762362002) | 83d |
+| **OpenAI** | AI Support Engineer - Singapore (Korean Speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/c8270289-d73d-4ad6-8cae-2b537f8d9062) | 84d |
+| **OpenAI** | Applied AI Architect | Singapore | [Apply](https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410) | 85d |
+| **Airwallex** | Lead AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/02234e0a-e1fc-4b23-b3e6-513200e4ff80) | 90d |
+| **Airwallex** | Senior AI Engineer (Risk & Payments) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/c7070452-6ec6-443c-8015-db339403634a) | 91d |
+| **Jump Trading** | Campus AI/ML Researcher (Intern) | Hong Kong; Shanghai; Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027938) | 92d |
+| **OKX** | Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7899835003) | 97d |
+| **OKX** | AI Enablement Project Director | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7814862003) | 123d |
+| **OpenAI** | AI Support Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/278990f1-59be-41ee-aad2-a9c69c5c7064) | 125d |
+| **OpenAI** | Applied AI Engineer, Cyber | Singapore | [Apply](https://jobs.ashbyhq.com/openai/29f15e50-1611-4256-afad-03b7df0b7aa7) | 139d |
+| **OKX** | Growth & AI Initiatives Manager 增长与 AI 专项经理 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7762046003) | 145d |
+| **OKX** | Junior Product Manager, DevOps and AI | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7780897003) | 154d |
+| **OKX** | Principal/Senior Product Manager, AI & Web3 Wallet | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777028003) | 160d |
+| **OKX** | AI Application Architect | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7761002003) | 175d |
+| **OKX** | Senior Risk Manager, Trading (AI-Augmented Operations) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7718885003) | 210d |
+| **OKX** | Product Manager / Director, AI Trading | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7712844003) | 214d |
+| **OKX** | Senior/Staff Engineer, AI Agent Development | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7699598003) | 224d |
+| **OKX** | Senior Product Manager, DevOps and AI | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7699601003) | 224d |
+| **OKX** | Head of Product, AI and Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7691998003) | 231d |
+| **OKX** | Vice President, AI Strategy & Transformation | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7684887003) | 238d |
+| **OKX** | Senior /Staff AI Engineer | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7675050003) | 246d |
+| **OKX** | Growth & AI Initiatives Manager | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7668551003) | 246d |
+| **Airwallex** | Senior Data Platform Engineer, Knowledge Platform & AI Enablement | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6e975468-e033-4f50-95fe-0f4351457003) | 263d |
+| **OKX** | Principal AI Engineer, Chatbot Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7648781003) | 267d |
+| **Workato** | Senior Infrastructure Engineer (AI Lab) | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8288630002#open-roles) | 288d |
+| **OKX** | Principal/Senior Product Manager, AI and Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7531921003) | 371d |
+| **OKX** | Principal AI Engineer, AI Agent Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6690158003) | 459d |
+| **Airwallex** | Staff AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/260fdad2-74f5-4b94-b7af-caa7eec0393e) | 552d |
+| **Airwallex** | Senior AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/f5c945c9-dc25-4b35-a6bd-ae2fef539727) | 552d |
+| **Jump Trading** | Research Engineer \| AI Agents | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=6881808) | 561d |
+| **Jump Trading** | Deep Learning Researcher \| Trading Team | Shanghai, Singapore or Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=6603013) | 658d |
+| **Squarepoint Capital** | Junior Quant Researcher - ML Alpha Research | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464) | 866d |
 
 ## All roles
 
@@ -88,417 +91,407 @@ Newest first.
 
 | Company | Role | Location | Link | Posted |
 |---|---|---|---|---|
-| **Jump Trading** | Network Engineer | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8398057) | today |
-| **Binance** | Product Manager, AI Agent & Harness | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5025842101) | today |
-| **Airwallex** | Senior Software Engineer, Backend - Regulatory Reporting | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/dcd0eab6-0f75-432c-87a6-0f7fe9c4d34c) | today |
-| **Binance** | TechOps Engineer | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5041062101) | 3d |
-| **Airwallex** | Site Reliability Engineer, Spend | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/36d4b8df-ad02-4e69-9547-1f0b0f7d03da) | 3d |
-| **HoYoverse** | Social Platform Partnerships Manager | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/65352ec1-6d8e-44fd-981b-cb29978548da) | 4d |
-| **Coinbase** | Senior Software Engineer, Native Mobile - International | Remote - Singapore | [Apply](https://www.coinbase.com/careers/positions/8349028?gh_jid=8349028) | 4d |
-| **Binance** | Senior Infrastructure Security Engineer(DevSecOps) - APAC Remote | Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5041041101) | 4d |
-| **Binance** | Backend Engineer (Java) - KYB Tech | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5008234101) | 4d |
-| **Elastic** | Senior Solutions Architect | Singapore | [Apply](https://jobs.elastic.co/jobs?gh_jid=8382571&gh_jid=8382571) | 5d |
-| **Binance** | Security Architect | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5040021101) | 5d |
-| **Airwallex** | Software Engineer, Risk | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/c992a940-930c-400f-b73d-1ab303d10b45) | 5d |
-| **Airwallex** | Engineering Lead, Lending Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9557ef8e-b2a2-4897-9900-ac1f45428643) | 5d |
-| **Airwallex** | Engineering Lead, Lending | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/5259d830-5b43-4547-9771-d73938ec9587) | 5d |
-| **OKX** | Staff Engineer, Machine Learning & Data Infrastructure | APAC; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8206913003) | 6d |
-| **Airwallex** | Senior Software Engineer, Infrastructure (Cloud Platform) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/8858b315-3daf-4d13-b88b-e6a3ce4ec6bb) | 6d |
-| **Thunes** | IT Security Specialist | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8201844003?gh_jid=8201844003) | 7d |
-| **Thunes** | AI Engineer | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8204609003?gh_jid=8204609003) | 7d |
-| **OKX** | Staff / Senior Engineer - Compliance, Account | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8204703003) | 7d |
-| **OKX** | Senior/Staff Engineer, Core Infrastructure | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8204648003) | 7d |
-| **Databricks** | Manager, Field Engineering (Launchpad Program) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8857696002) | 8d |
-| **Thoughtworks** | Lead Platform Engineer | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8370673?gh_jid=8370673) | 10d |
-| **Stripe** | Technical Solutions Engineer | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8368656) | 10d |
-| **Stripe** | Solutions Architect, Metronome (Startups) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8338839) | 10d |
-| **Thoughtworks** | Senior Infrastructure Engineer (AWS, Azure, GCP, Terraform) | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8370674?gh_jid=8370674) | 11d |
-| **Thoughtworks** | Principal Platform Engineer | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8370668?gh_jid=8370668) | 11d |
-| **Stripe** | Solutions Architect (Korea Market) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8354762) | 11d |
-| **Stripe** | Integration Reliability Engineer, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8282171) | 11d |
-| **Binance** | Mobile Security Engineer (Android / Web) | Australia; Hong Kong; Singapore; Taiwan; Thailand | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5029666101) | 11d |
-| **Binance** | Full Stack Engineer - Recommendation Engine (APAC Remote) | Hong Kong; Japan; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5025783101) | 11d |
-| **Airwallex** | Software Engineer Intern (Summer 2027) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795) | 11d |
-| **Airwallex** | Software Engineer Intern (Jan to Jun 2027) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441) | 11d |
-| **Airwallex** | Senior Data Scientist, Analytics (Risk & Payments) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/4401779c-419c-46d4-9c9d-4aea013652a5) | 11d |
-| **Snowflake** | Technical Architect | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/8ca0b89c-45ee-4891-8db0-c7588661986c) | 12d |
-| **OpenAI** | Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/1ddf1fcf-a647-4016-92c3-2da4b45d1b15) | 12d |
-| **HoYoverse** | Senior Software Engineer (Payment) | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/7a5f141c-c49b-4ba5-9b4e-a3cf3a7c079b) | 12d |
-| **Airwallex** | Senior Software Engineer, Infra (Cloud & Security) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9d770432-8a34-44d4-9273-6dbce7d93aeb) | 12d |
-| **Adyen** | Implementation Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8370587) | 12d |
-| **Stripe** | Specialist Solutions Architect, Crypto and Stablecoins | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8352154) | 13d |
-| **Jump Trading** | Cloud Systems Engineer \| Production Engineering | Hong Kong or Singapore  | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8370626) | 13d |
-| **Binance** | Senior Java Engineer – Fund Security & Account Security (Fiat OnOff-Ramp) | Australia; Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5029390101) | 13d |
-| **Binance** | Data Scientist – Computer Vision / AI Manipulation Detection (Risk AI) | Australia; Hong Kong; Singapore; Taiwan; Thailand | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5032464101) | 13d |
-| **Binance** | Binance Accelerator Program - Compliance Training (AI) | Australia; Bahrain; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5024608101) | 13d |
-| **Airwallex** | Senior Software Engineer, Billing (Frontend) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/739ae3d3-12ca-4f26-bd9a-a80a74c4b0e0) | 13d |
-| **Thoughtworks** | Infrastructure Engineer Consultant | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8324042?gh_jid=8324042) | 14d |
-| **Nium** | Senior Analyst - Compliance Analytics | Singapore | [Apply](https://jobs.lever.co/nium/0f064170-7681-4e6c-99e6-b2b131be2a37) | 14d |
-| **Elastic** | Senior Support Engineer | Singapore | [Apply](https://jobs.elastic.co/jobs?gh_jid=8346174&gh_jid=8346174) | 16d |
-| **OKX** | Senior Management, Platform & Infrastructure Audit | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8197696003) | 17d |
-| **Binance** | Fullstack Engineer - Square (APAC Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5028202101) | 17d |
-| **Binance** | Data Analyst (compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5015530101) | 17d |
-| **Binance** | Data Analyst (AI compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5024711101) | 17d |
-| **Snowflake** | Activation Solution Engineer | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/6f5862ef-d3c2-48cd-99c0-c79382cc5c32) | 18d |
-| **Sierra** | Software Engineer, Agent | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb) | 18d |
-| **OpenAI** | AI Deployment Manager - Builder | Singapore | [Apply](https://jobs.ashbyhq.com/openai/c2016d32-1994-471d-8900-1b49259c647c) | 18d |
-| **Binance** | Senior Data Engineer - Square (APAC Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5028320101) | 18d |
-| **Agoda** | Staff AI Security Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8326312) | 18d |
-| **Agoda** | Staff AI Security Analyst | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8326318) | 18d |
-| **EBANX** | Mid-level Software Production Engineer \| Singapore | Singapore \| Hybrid | [Apply](https://job-boards.greenhouse.io/ebanx/jobs/8040041003) | 19d |
-| **Thoughtworks** | Senior Fullstack Developer (React, Next.js, Nest.js/Node.js) | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8326947?gh_jid=8326947) | 20d |
-| **Thoughtworks** | Senior Full Stack Developer (Node.js & Cloud) | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8326946?gh_jid=8326946) | 20d |
-| **Thoughtworks** | Fullstack Developer (Vue.js, Node.js) | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8326927?gh_jid=8326927) | 20d |
-| **Thoughtworks** | Fullstack Developer (React.js, Next.js, Nest.js) | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8326944?gh_jid=8326944) | 20d |
-| **Thoughtworks** | Fullstack Developer (Java, React.js) | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8326928?gh_jid=8326928) | 20d |
-| **Anthropic** | Head of ASEAN, Applied AI | Singapore | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5424312008) | 20d |
-| **Airwallex** | Staff Data Engineer, Data and AI, Customer Data Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/e77c835b-90e8-4d77-9a44-38d2f6d929fd) | 20d |
-| **Airwallex** | Senior Data Engineer, Data and AI, Customer Data Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/7b252696-914f-49a9-86ff-5a6b10136219) | 20d |
-| **Snowflake** | Senior AI/ML Architect, Applied Field Engineering/Field CTO | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/30e6db17-33e6-4c5e-b2d0-8d0a7d5ab60e) | 21d |
-| **Ripple** | Senior Cloud Architect | Singapore | [Apply](https://ripple.com/careers/all-jobs/job/8346319?gh_jid=8346319) | 21d |
-| **Pinterest** | Sr. Technical Program Manager | Singapore, SG | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8016646) | 21d |
-| **MongoDB** | Solutions Architect - Thai Speaking | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8333381) | 21d |
-| **Databricks** | Sr. Designated Support Engineer - Spark | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002) | 21d |
-| **Snowflake** | Senior RVP, Solution Engineering ASEAN | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/2ebec9d1-055f-4e47-93ae-29ad19e23967) | 22d |
-| **OKX** | Infrastructure Architect | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8108181003) | 24d |
-| **Okta** | Senior Solutions Engineer - ASEAN | Singapore | [Apply](https://www.okta.com/company/careers/opportunity/8333120?gh_jid=8333120) | 25d |
-| **MongoDB** | Senior Solutions Architect (Public Sector) | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8331146) | 25d |
-| **Thoughtworks** | Lead Infrastructure Engineer Consultant | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8324034?gh_jid=8324034) | 26d |
-| **Squarepoint Capital** | Senior Quant Researcher - Intraday Statistical Arbitrage | Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=253413&gh_jid=253413) | 26d |
-| **Squarepoint Capital** | Senior Quant Researcher - Fixed Income | Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=1163559&gh_jid=1163559) | 26d |
-| **Squarepoint Capital** | Senior Quant Researcher - Equity Mid/Low Frequency | Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=253411&gh_jid=253411) | 26d |
-| **Squarepoint Capital** | Senior Quant Researcher - CTA/Short-Term | Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=253410&gh_jid=253410) | 26d |
-| **OKX** | Engineering VP / Director | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8045820003) | 27d |
-| **Airwallex** | Software Engineer Backend, Billing | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/f4d64c0e-2425-409c-a296-4c4c6b9fe824) | 27d |
-| **OKX** | Software Engineer, Mobile (Android) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8045415003) | 28d |
-| **Coinbase** | Regional Security Manager, APAC | Remote - Singapore | [Apply](https://www.coinbase.com/careers/positions/8312623?gh_jid=8312623) | 28d |
-| **Binance** | Techops Engineer | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5011501101) | 28d |
-| **Binance** | Software Engineer - Blockchain Security (Full-stack) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002691101) | 28d |
-| **Binance** | Senior iOS Engineer, Futures | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002723101) | 28d |
-| **Binance** | Binance Acceleration Program - Product Data Analyst | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5013528101) | 28d |
-| **OKX** | Senior Finance Transformation & Strategy PMO (BI / AI) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8042491003) | 31d |
-| **Binance** | Financial Data Engineer, Stock & AI Data（APAC - Remote) | Australia; Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5014488101) | 31d |
-| **Airwallex** | Software Engineer, Developer Experience | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/3c5176fb-6eee-4bf4-8031-36f0528c71a3) | 31d |
-| **Airwallex** | Engineering Lead, Full Stack, Growth Team | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/96a870c7-9a25-4e8a-8b4d-7ae5456e7475) | 31d |
-| **Adyen** | Team Lead - Software Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8264727) | 31d |
-| **Stripe** | Engineering Manager, Payments | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8256027) | 32d |
-| **Airwallex** | Senior Engineering Manager, Issuing Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/252a825e-ac40-41fa-b12e-dda400167e68) | 32d |
-| **Airwallex** | Head of Engineering, Payments Platform | SG - Singapore / US - Seattle / UK - London / US - San Francisco | [Apply](https://jobs.ashbyhq.com/airwallex/1df645e6-47a1-4317-808c-8ebc07af9f96) | 32d |
-| **Linear** | Solutions Engineer, APAC | Singapore / Australia | [Apply](https://jobs.ashbyhq.com/linear/d8890a6d-ce76-4c3d-aacc-34c1ed150d91) | 33d |
-| **GitLab** | Senior Solutions Architect | Remote, Singapore | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8880947002) | 33d |
-| **Coinbase** | Software Engineer Intern | Hybrid - Singapore | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) | 33d |
-| **Airwallex** | Staff Data Scientist, Algorithm, Financial Markets | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/b0269bf6-01b3-4793-bd3a-3565d60ed2cc) | 33d |
-| **Airwallex** | Senior Software Engineer, Scale Platform (Frontend) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/e6ed0945-65a2-40b6-aabe-e28ad025003c) | 33d |
-| **Airwallex** | Senior Software Engineer, Scale (Frontend) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/a9c09c5d-ab0c-4692-a6c0-d1cdc0107a7c) | 33d |
-| **Stripe** | Engineering Manager, Money as a Service (MaaS) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8282169) | 34d |
-| **Binance** | Techical Support Engineer | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5008266101) | 34d |
-| **Airwallex** | Senior Software Engineer Backend, Billing | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9e064013-6286-4984-9541-7bd702286d64) | 34d |
-| **Stripe** | Solutions Architect Manager, Platforms (Asia-Pacific) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8064171) | 35d |
-| **OpenAI** | Applied AI Engineer, Startups (Mandarin-speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/502fcf97-75b2-4e54-9957-a29cee8eb1ca) | 35d |
-| **Binance** | Algorithm Engineer - Search & Recommendation（APAC - Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002683101) | 35d |
-| **Airwallex** | Senior Site Reliability Engineer, Spend | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/b3514b7b-67d3-4f48-b4ae-20e3ad49261c) | 35d |
-| **Airwallex** | Senior Data Engineer, Knowledge Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/39069d1d-9a56-4ef2-b326-8cc1f46a25f9) | 35d |
-| **Binance** | LLM Data Scientist/Algorithm Engineer (Top Talent Program) | Australia; Hong Kong; New Zealand; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5009522101) | 36d |
-| **Binance** | Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security | Australia; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5007086101) | 36d |
-| **Thoughtworks** | Senior Machine Learning Engineer | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8255607?gh_jid=8255607) | 38d |
-| **Thoughtworks** | Principal Information Security Partner | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8276050?gh_jid=8276050) | 38d |
-| **OKX** | Senior / Staff Engineer, DEX Trading System | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8034335003) | 38d |
-| **HoYoverse** | Test Development Engineer - Entry Level | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/68d044cb-57b9-4fee-a4e3-b35ae4b63f94) | 38d |
-| **Airwallex** | Engineering Director, Org & Identity | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/8bb6719a-71ae-48fb-a007-01fd10776587) | 38d |
-| **Thoughtworks** | Senior Infrastructure Engineer (AWS, K8S, GitOps) | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8280701?gh_jid=8280701) | 39d |
-| **Thoughtworks** | Infrastructure Engineer (AWS, Terraform) | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8255609?gh_jid=8255609) | 39d |
-| **Snowflake** | Senior Solution Engineer (Expansion) | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/53062740-a42c-4fd2-8c33-c4d5dbee27bf) | 39d |
-| **Binance** | Senior Frontend Engineer - Web3 Wallet | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002553101) | 39d |
-| **Binance** | Senior Android Developer - Cryptographic | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002707101) | 39d |
-| **Binance** | Senior Algorithmic Trader / Liquidity Researcher | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002369101) | 39d |
-| **Binance** | Blockchain Engineer - Binance Wallet | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002619101) | 39d |
-| **Airwallex** | Staff Software Engineer, Ecosystem | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/acbfa32f-efb7-4ca1-b3f1-dc7060cff75c) | 39d |
-| **Airwallex** | Software Engineer, Ecosystem | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/78947679-269c-427f-9b09-36b716493088) | 39d |
-| **Airwallex** | Senior Software Engineer, Ecosystem | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/d6562166-17e8-4df0-a97c-0596adef6bf6) | 39d |
-| **Airwallex** | Engineering Manager, Issuing Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/a4a0c074-1f3f-4f17-b824-98cae00d8e41) | 39d |
-| **Snowflake** | Senior Solution Engineer, Public Sector | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/a14ea6ec-9be5-4de1-8494-1a044a319c4e) | 40d |
-| **Binance** | Recommendation Engine Backend Engineer (Golang) (APAC Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002721101) | 40d |
-| **Binance** | Pioneer Talent Program - Research Data Scientist (APAC Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002565101) | 40d |
-| **Binance** | Data Analyst (12 months contract) | Hong Kong; Malaysia; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5004445101) | 40d |
-| **Binance** | Business Intelligence/ Data Analytics Manager | Hong Kong; Malaysia; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002365101) | 40d |
-| **Binance** | Binance Accelerator Program - Research Data Analyst | Hong Kong; Malaysia; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002563101) | 40d |
-| **Binance** | Senior Data Analyst (AI Compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002713101) | 41d |
-| **Binance** | Senior Application Security Architect | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002487101) | 41d |
-| **Binance** | Pioneer Talent Program - Applied Data Scientist | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002575101) | 41d |
-| **Binance** | Pioneer Talent Program - Applied Data Scientist | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002729101) | 41d |
-| **Binance** | LLM Applied Data Scientist (RAG/ NLP) | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002635101) | 41d |
-| **Binance** | Java Backend Engineer, Global Travel Rule (GTR) | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002673101) | 41d |
-| **Binance** | Frontend Engineer - KYC | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002661101) | 41d |
-| **Binance** | Financial Data Engineer, AI/LLM | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002687101) | 41d |
-| **Binance** | DevOps Engineer, Blockchain Infra (Fully Remote) | Australia; Europe; Hong Kong; Malaysia; Singapore; Taiwan; United Arab Emirates; United Kingdom | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002663101) | 41d |
-| **Binance** | Backend Engineer (Java) -Trading | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002248101) | 41d |
-| **Binance** | Backend Engineer (Java) - KYC Tech | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002387101) | 41d |
-| **Binance** | AI Product Manager | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002533101) | 41d |
-| **Binance** | AI Agent  Engineer | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002667101) | 41d |
-| **Binance** | AI & Recommendation Product Manager | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002703101) | 41d |
-| **OKX** | Software Engineer, Mobile Core (Compliance) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8026443003) | 42d |
-| **Binance** | Backend Engineer, Java - Web 3 Wallet | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002679101) | 42d |
-| **Thunes** | Software Engineer (B2B/B2X) | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8011541003?gh_jid=8011541003) | 45d |
-| **Thunes** | Senior Software Engineer (B2B/B2X) | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8011534003?gh_jid=8011534003) | 45d |
-| **OKX** | Senior Product Director, AI & Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8018487003) | 45d |
-| **Workato** | Analytics Engineer | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8870119002#open-roles) | 46d |
-| **OpenAI** | Applied AI Engineer, Codex | Singapore | [Apply](https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884) | 46d |
-| **Block** | Foundry Interface Engineer | Singapore, Singapore | [Apply](http://block.xyz/careers/jobs/5445289008?gh_jid=5445289008) | 46d |
-| **Airwallex** | Senior Software Engineer, Machine Learning Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/89fccb81-c8cc-4769-be0c-9ed078e1a03b) | 46d |
-| **Agoda** | Staff Software Engineer, GenAI | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8263843) | 46d |
-| **OKX** | Senior Staff Engineer, Payment | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8016081003) | 47d |
-| **Databricks** | Sr. Solutions Architect (Greater China) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8849932002) | 47d |
-| **Stripe** | Specialist Solutions Architect, Fraud & Risk (Asia-Pacific) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8225567) | 48d |
-| **OKX** | Rust Developer, Exchange OS Trading Engine | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8014194003) | 48d |
-| **MongoDB** | Senior Solutions Architect | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8230043) | 48d |
-| **Crypto.com** | VP, Product Analytics | Singapore | [Apply](https://jobs.lever.co/crypto/be6c09e2-5f24-4a9f-a05f-125301db5097) | 49d |
-| **Airwallex** | Senior Data Scientist, Anaytics (Risk & Compliance) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/70f6500b-5b70-485e-88b0-9ab77d739a7e) | 49d |
-| **Airwallex** | Senior Data Scientist, Analytics (Regulatory Reporting) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/c54f9e87-56f0-4bb1-9dce-fbf3b0b7060c) | 49d |
-| **Riot Games** | Senior Manager, Software Engineering - Teamfight Tactics - Store & Cosmetics | Singapore | [Apply](https://www.riotgames.com/en/work-with-us/job/8221981?gh_jid=8221981) | 50d |
-| **Ripple** | Physical Security Manager, APAC/MENA | Singapore | [Apply](https://ripple.com/careers/all-jobs/job/8245075?gh_jid=8245075) | 53d |
-| **OKX** | Technology and Security Risk Director | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8010225003) | 53d |
-| **Jane Street** | Data Centre Facilities Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8859670002?gh_jid=8859670002) | 53d |
-| **Airwallex** | Senior Manager - Solution Engineering (APAC) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6740fbbf-da73-4d34-a0a6-056058bdcff2) | 53d |
-| **OKX** | Product Lead, Growth Platform | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8009074003) | 54d |
-| **OKX** | Global Financial Operations Platform Director | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8010134003) | 54d |
-| **OpenAI** | AI Support Engineer - Singapore (Weekend Shift) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6) | 55d |
-| **Agoda** | Lead/Principal Data Scientist | Guoco, Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8238989) | 55d |
-| **Twilio** | Solution Engineer | Remote - Singapore | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8114393) | 56d |
-| **Databricks** | Sr. Delivery Solutions Architect | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8849858002) | 56d |
-| **Databricks** | Sr. Delivery Solutions Architect (Greater China Region) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8735828002) | 57d |
-| **Sierra** | Sales Engineering Manager, APJ | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/460d88d5-6ae9-4cf8-95e8-c6d29aa4e5f2) | 59d |
-| **OpenAI** | Dedicated Support Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/85feb543-f234-4db3-9d9c-a6fb195ddc19) | 59d |
-| **OKX** | Software Engineer, Mobile (iOS) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8005095003) | 59d |
-| **OKX** | Senior/Staff Engineer - Web3 - Onchain Data | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7990958003) | 59d |
-| **Thoughtworks** | Lead AIOps Architect | Singapore, Singapore | [Apply](https://www.thoughtworks.com/careers/jobs/8203546?gh_jid=8203546) | 60d |
-| **Stripe** | Financial Data Analyst Intern, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8186442) | 60d |
-| **OKX** | Senior/Staff Software Engineer, Trading Services | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8004213003) | 60d |
-| **OKX** | Senior Product Manager, Data | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8004107003) | 61d |
-| **Agoda** | [Data Scientist] Principal Data Scientist - SG | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8229408) | 61d |
-| **Stripe** | Integration Reliability Engineer, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8186445) | 62d |
-| **Stripe** | Integration Reliability Engineer Intern, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8186367) | 62d |
-| **OKX** | Staff Engineer, Public Cloud Operations | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8002221003) | 62d |
-| **Adyen** | Technical Support Engineer (Finance) | Singapore | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8212878) | 64d |
-| **Virtu Financial** | Electronic Trading Engineer (Retail Routing) | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8798302002) | 66d |
-| **Stripe** | Technical Support Engineer, Metronome | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8171220) | 67d |
-| **OpenAI** | Applied AI Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba) | 69d |
-| **OKX** | Product Director, Localisation & AI Evals | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7984217003) | 69d |
-| **Xendit** | UX Researcher | Bangkok, Thailand; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/xendit/jobs/7992382003) | 73d |
-| **Xendit** | Product Manager - Developer Experience | Bali, Indonesia; Bangkok, Thailand; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/xendit/jobs/7992374003) | 73d |
-| **Roblox** | Head of Developer Relations, SEA and OCE | Singapore | [Apply](https://careers.roblox.com/jobs/8164394?gh_jid=8164394) | 75d |
-| **OpenAI** | Quality Engineer, Rack Infrastructure & Site Operations | Singapore | [Apply](https://jobs.ashbyhq.com/openai/b71906c2-51a9-4ad7-a744-2390ccdc1ad8) | 75d |
-| **OpenAI** | Manager, Applied AI Engineering (Southeast Asia) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/41df4950-f6b1-4f97-8b29-cd0a11f19e25) | 75d |
-| **Databricks** | Sr. Solutions Architect | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8789428002) | 75d |
-| **Stripe** | Software Engineer, Intern | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) | 77d |
-| **Sierra** | Software Engineer, Agent (New Grad 2027) | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) | 77d |
-| **Sierra** | Software Engineer Intern, Agent (Summer 2027) | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17) | 77d |
-| **Datadog** | Director, Sales Engineering - ASEAN | Singapore, Singapore | [Apply](https://careers.datadoghq.com/detail/8172864/?gh_jid=8172864) | 77d |
-| **Airwallex** | Senior Product Manager, AI Risk & Onboarding | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6c55b41b-824b-46cd-8590-b9e83eaa5de6) | 77d |
-| **Airwallex** | Product Lead, Financial Markets (FX) & Financial Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/07055859-7ded-4c23-8e2d-fe67c96ea8da) | 77d |
-| **OpenAI** | Senior Support Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/b3e5fcf7-50ad-4765-ac03-ac71e8b20cb8) | 80d |
-| **Datadog** | Senior Partner Manager - Channels (Security) | Singapore, Singapore | [Apply](https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588) | 80d |
-| **Databricks** | Sr. Solutions Engineer | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8783420002) | 81d |
-| **Databricks** | Solutions Architect | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8783421002) | 81d |
-| **Workato** | Intern, Data Engineering | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8731177002#open-roles) | 82d |
-| **Stripe** | Software Engineer, New Grad | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8160776) | 82d |
-| **Databricks** | Sr. Specialist Solutions Architect (AI/ML) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8762362002) | 82d |
-| **OpenAI** | AI Support Engineer - Singapore (Korean Speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/c8270289-d73d-4ad6-8cae-2b537f8d9062) | 83d |
-| **Airwallex** | Staff Data Scientist, Algorithm (Risk Product – AML & Financial Crime) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/3644405e-f350-4a3a-bb53-54bfb9400efe) | 83d |
-| **Airwallex** | Senior Salesforce Engineer, Growth | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/4647580d-7a98-4881-9aa7-aa3db4cecde5) | 83d |
-| **OpenAI** | Applied AI Architect | Singapore | [Apply](https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410) | 84d |
-| **Jane Street** | Software Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8646746002?gh_jid=8646746002) | 84d |
-| **Gemini** | Senior Software Engineer, Invest / Trade (Full Stack, React) | Singapore, Singapore | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8164166&gh_jid=8164166) | 85d |
-| **OKX** | Staff Software Engineer, Mobile Security | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795765003) | 87d |
-| **OKX** | Software / Senior Software Engineer, Mobile | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7978927003) | 89d |
-| **Airwallex** | Lead AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/02234e0a-e1fc-4b23-b3e6-513200e4ff80) | 89d |
-| **MongoDB** | Senior Solutions Architect | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8152623) | 90d |
-| **Airwallex** | Senior AI Engineer (Risk & Payments) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/c7070452-6ec6-443c-8015-db339403634a) | 90d |
-| **Jump Trading** | Quantitative Developer \| Trading Team | Singapore or Hong Kong  | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8105914) | 91d |
-| **Jump Trading** | Campus AI/ML Researcher (Intern) | Hong Kong; Shanghai; Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027938) | 91d |
-| **Stripe** | Solutions Architect (China Market) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8144223) | 94d |
-| **Coinbase** | Senior Data Scientist | Remote - Singapore | [Apply](https://www.coinbase.com/careers/positions/8147917?gh_jid=8147917) | 94d |
-| **Thunes** | Software Engineering Lead (Core) | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/7869356003?gh_jid=7869356003) | 95d |
-| **Thunes** | Senior Software Engineer (Core) | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/7869355003?gh_jid=7869355003) | 95d |
-| **Jane Street** | Network Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8693539002?gh_jid=8693539002) | 95d |
-| **Ripple** | Staff Cloud Architect | Singapore | [Apply](https://ripple.com/careers/all-jobs/job/7685310?gh_jid=7685310) | 96d |
-| **OKX** | Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7899835003) | 96d |
-| **Airwallex** | Staff Product Security Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/1b63af30-7155-4ecb-af13-12f934dd8ad3) | 96d |
-| **GitLab** | Senior Solutions Architect (Singapore) | Remote, Singapore | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8627768002) | 98d |
-| **OpenAI** | PCBA Manufacturing Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b) | 102d |
-| **Airwallex** | Engineering Director, Payments Platform | SG - Singapore / US - Seattle / UK - London / US - San Francisco | [Apply](https://jobs.ashbyhq.com/airwallex/17fa30b4-c813-461a-acff-f2f2e23c31d6) | 104d |
-| **OKX** | Senior/Staff Engineer - Trading Exchange Middle Platform- Market Analysis | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6543531003) | 108d |
-| **OKX** | Staff Engineer, Security Platform Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7825508003) | 111d |
-| **Fireblocks** | Technical Support Engineer, APAC | Singapore | [Apply](https://www.fireblocks.com/careers/position?gh_jid=4701844006) | 111d |
-| **Jump Trading** | Campus Systems Engineer (Intern) | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) | 112d |
-| **Jump Trading** | Campus Quantitative Researcher (Intern) | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027939) | 112d |
-| **Jump Trading** | Campus Python Software Engineer (Intern) | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027955) | 112d |
-| **Jump Trading** | Campus C++ Software Engineer (Intern) | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027946) | 112d |
-| **OKX** | Staff/Senior Java Engineer, OKX Web3 Wallet | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7821268003) | 116d |
-| **Adyen** | Compliance Officer - Financial & Data Integrity Programs | Singapore | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8055561) | 116d |
-| **Squarepoint Capital** | Software Developer - Data Reliability | London, Warsaw, Singapore, Bangalore, Montreal | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8092644&gh_jid=8092644) | 118d |
-| **Squarepoint Capital** | Software Developer - Data Platform |  London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8092777&gh_jid=8092777) | 118d |
-| **Airwallex** | Senior Data Scientist, Analytics (Lending) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/341d23f4-f254-4a2b-a75c-eb267eedfffc) | 118d |
-| **OKX** | AI Enablement Project Director | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7814862003) | 122d |
-| **Squarepoint Capital** | Junior SRE | New York, London, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6380892&gh_jid=6380892) | 123d |
-| **OpenAI** | AI Support Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/278990f1-59be-41ee-aad2-a9c69c5c7064) | 124d |
-| **Airwallex** | Senior Data Scientist, Algorithm (Lending & Onboarding) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9a620994-db83-4dca-b9bd-0e5c792cf2f3) | 124d |
-| **Jane Street** | Software Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8632392002?gh_jid=8632392002) | 125d |
-| **OKX** | Senior Java Backend Engineer — Asset & Earn | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7749091003) | 129d |
-| **Airwallex** | Senior Software Engineer, Org & Identity | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/aa6d6432-8871-4aea-9c8c-50f60e2bffa2) | 132d |
-| **Databricks** | Sr. Staff Forward Deployed Engineer | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8555674002) | 137d |
-| **OpenAI** | Applied AI Engineer, Cyber | Singapore | [Apply](https://jobs.ashbyhq.com/openai/29f15e50-1611-4256-afad-03b7df0b7aa7) | 138d |
-| **OKX** | Senior/Staff Engineer, Security Platform Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795714003) | 140d |
-| **OKX** | Senior/Staff Engineer, R&D Efficiency Platform | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795698003) | 140d |
-| **OKX** | Product Manager, R&D Efficiency Platform | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795777003) | 140d |
-| **OKX** | Big Data Engineer, Web3 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795796003) | 140d |
-| **WorldQuant** | Senior C++ Software Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4451658006) | 144d |
-| **OKX** | Growth & AI Initiatives Manager 增长与 AI 专项经理 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7762046003) | 144d |
-| **OKX** | Principal/Senior Mobile Engineer, Trading Strategies, CEX | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7789825003) | 146d |
-| **OKX** | Senior Staff Software Engineer, Mobile Infrastructure | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777031003) | 147d |
-| **OKX** | Engineering Director, Mobile Infrastructure | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777037003) | 147d |
-| **MongoDB** | Advisory Solutions Architect | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8023912) | 150d |
-| **Jump Trading** | Site Reliability Engineer \| Production Infrastructure | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7809761) | 151d |
-| **Jump Trading** | Senior Software Engineer  \| Core Development | Singapore, Hong Kong or Shanghai | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7809758) | 151d |
-| **OKX** | Senior/Staff Data Engineer, Risk Control | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7783020003) | 152d |
-| **Airwallex** | Senior Mobile Engineer (iOS), Global Payments | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/a06a8ae0-1328-424a-ae5f-e0bfaa5dbf1a) | 152d |
-| **OKX** | Junior Product Manager, DevOps and AI | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7780897003) | 153d |
-| **Airwallex** | Senior Product Manager, Liquidity Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/879ff772-adc3-4873-a011-09bc1f747b8d) | 153d |
-| **OKX** | Software Engineer, Mobile, Web3 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777043003) | 154d |
-| **OKX** | Engineering Director, Mobile, Web3 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7778747003) | 154d |
-| **Airwallex** | Staff Software Engineer, Lending Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/4a1e2e02-59c0-4c96-bc86-4164609eedfb) | 154d |
-| **Airwallex** | Staff Software Engineer, Lending | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/078de7a5-2f5b-4420-ba5c-8d82a2110548) | 154d |
-| **Airwallex** | Senior Software Engineer, Lending Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/0887ecca-15c1-479b-b4be-b0cb705d168a) | 154d |
-| **Airwallex** | Senior Software Engineer, Lending | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6c29e112-c94c-4346-9721-283aa4f4bcdc) | 154d |
-| **OKX** | Senior Staff Software Engineer, Mobile | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777048003) | 157d |
-| **OKX** | Engineering Director, Mobile (iOS/Android) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777137003) | 157d |
-| **OKX** | Tech Governance - Security Compliance & Governance Engineer | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777063003) | 158d |
-| **OKX** | Principal/Senior Product Manager, AI & Web3 Wallet | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777028003) | 159d |
-| **Sierra** | Software Engineer, Agent (Mandarin Speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001) | 164d |
-| **Databricks** | Solutions Architect (Lakebase) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8567985002) | 165d |
-| **OKX** | Staff/Senior Staff Engineer, Kubernetes | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7767880003) | 166d |
-| **OKX** | Principal/Senior Software Engineer, Mobile, CEX | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7768121003) | 166d |
-| **OKX** | DevOps / Site Reliability Engineer | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7767872003) | 166d |
-| **OKX** | Staff/Senior Staff Engineer, Public Cloud Operations | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7767815003) | 167d |
-| **OKX** | Application Architect (Senior Staff Enginer) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7766838003) | 167d |
-| **OKX** | Staff Data Engineer, Finance Data Platform | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7765811003) | 168d |
-| **OKX** | Senior Data Engineer, Compliance Data Platform | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7765814003) | 168d |
-| **OpenAI** | Manufacturing Test Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/94172ebc-2219-40b4-ae04-c10be0fd2158) | 171d |
-| **OKX** | AI Application Architect | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7761002003) | 174d |
-| **Squarepoint Capital** | Platform Storage Specialist | Singapore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7907168&gh_jid=7907168) | 181d |
-| **Airwallex** | Staff Data Platform Engineer, Knowledge Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/5fa97d90-9c8c-452a-9ec0-d0949ec10ae0) | 185d |
-| **OKX** | (Senior) Data Infra Product Manager, On Chain (Algorithm and Search) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7742384003) | 186d |
-| **Datadog** | Manager II, Services Architect | Singapore, Singapore | [Apply](https://careers.datadoghq.com/detail/7939294/?gh_jid=7939294) | 187d |
-| **OKX** | Product Manager / Director, Trading Infrastructure | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7739030003) | 188d |
-| **OKX** | Principal / Staff Engineer - Compliance | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7736920003) | 190d |
-| **Jump Trading** | Software Engineer \| Trading Team | Shanghai, Hong Kong or Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7929540) | 192d |
-| **Squarepoint Capital** | Graduate Quant Developer | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610) | 195d |
-| **Airwallex** | Senior Software Engineer, Risk | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/a532b09a-bfdc-4537-8bb7-d1c35f5dc0bc) | 201d |
-| **Squarepoint Capital** | Trading Infrastructure Specialist – Graduate Program | London, Montreal, Hong Kong, New York, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021) | 202d |
-| **Xendit** | Principal Solutions Engineer | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/xendit/jobs/7719174003) | 209d |
-| **OKX** | Senior Risk Manager, Trading (AI-Augmented Operations) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7718885003) | 209d |
-| **OKX** | Staff/Senior Staff Frontend Engineer - Growth | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7712939003) | 213d |
-| **OKX** | Staff/Senior Staff Frontend Engineer - Customer Genius & BOSS | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7712938003) | 213d |
-| **OKX** | Product Manager / Director, AI Trading | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7712844003) | 213d |
-| **OpenAI** | Forward Deployed Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/4c078f82-93b9-427c-8fd8-95de198884b4) | 216d |
-| **Jane Street** | Cybersecurity Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8057314002?gh_jid=8057314002) | 216d |
-| **Crypto.com** | Growth Data Analyst | Singapore | [Apply](https://jobs.lever.co/crypto/7983ff1a-dd4a-45c2-9f6a-dda28ccca9ce) | 216d |
-| **Squarepoint Capital** | Trade Flow Support - Trading Infrastructure Support Lead | Montreal, London, New York, Singapore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7709566&gh_jid=7709566) | 217d |
-| **OKX** | Senior/Staff Engineer, AI Agent Development | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7699598003) | 223d |
-| **OKX** | Senior Product Manager, DevOps and AI | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7699601003) | 223d |
-| **Workato** | Senior Software Engineer (Golang - Platform team) | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8499680002#open-roles) | 228d |
-| **Airwallex** | Staff Data Scientist, Algorithm (Payments Fraud & Optimization) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/089d131a-0b3c-4f5d-9eb4-db8643eb42fc) | 229d |
-| **OKX** | Head of Product, AI and Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7691998003) | 230d |
-| **OKX** | Engineering Director, Frontend Business Lead | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7687326003) | 235d |
-| **OKX** | Engineering Director, Frontend | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7687329003) | 235d |
-| **OKX** | Vice President, AI Strategy & Transformation | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7684887003) | 237d |
-| **Jane Street** | Network Engineer, Security | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8480752002?gh_jid=8480752002) | 239d |
-| **OKX** | Senior/Staff Java Engineer, Fraud Risk | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7678342003) | 243d |
-| **OKX** | Senior /Staff AI Engineer | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7675050003) | 245d |
-| **OKX** | Growth & AI Initiatives Manager | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7668551003) | 245d |
-| **OKX** | VP/ Senior Engineering Director, Trading Services | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7673170003) | 248d |
-| **WorldQuant** | Software Engineering Lead (MetaTech) | Singapore | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4661177006) | 249d |
-| **OKX** | (Senior) Data Infra Product Manager, On Chain (Web3) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7671639003) | 249d |
-| **Airwallex** | Staff Corporate Security Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/57669e71-5a32-46a6-8821-e672bc57c774) | 256d |
-| **Airwallex** | Staff Software Engineer,  Risk | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9ff4c0f1-d279-40c4-8dfd-beba4ba69815) | 262d |
-| **Airwallex** | Senior Data Platform Engineer, Knowledge Platform & AI Enablement | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6e975468-e033-4f50-95fe-0f4351457003) | 262d |
-| **Airwallex** | (Senior) iOS Engineer, Mobile - Identity & Org | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/0248185e-80e7-49e5-bef2-269323b4c0c4) | 265d |
-| **OKX** | Principal Engineer, Agent Infrastructure & Memory Architecture | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7648794003) | 266d |
-| **OKX** | Principal AI Engineer, Chatbot Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7648781003) | 266d |
-| **OpenAI** | Product Manufacturing Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/cb9280db-df39-4c88-b411-5fdf149a6e52) | 277d |
-| **Workato** | Senior Infrastructure Engineer (AI Lab) | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8288630002#open-roles) | 287d |
-| **OKX** | Senior/Staff Engineer, Decentralize Exchange (DEX) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7611329003) | 297d |
-| **OKX** | Senior Java Engineer, OKX Pay Smart Account Team | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7596531003) | 300d |
-| **OKX** | Senior/Staff Data Engineer, Analytics and Reporting | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7601762003) | 304d |
-| **OKX** | Data Engineer, Product Data Development | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7601723003) | 304d |
-| **OKX** | Senior/Staff Engineer, Growth | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7594323003) | 311d |
-| **Airwallex** | Senior Backend Engineer, Spend | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/8c7f2601-c8c6-44e8-855e-699ad8ba3bda) | 311d |
-| **Palantir** | Software Engineer, Internship | Singapore, Singapore | [Apply](https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1) | 313d |
-| **OKX** | Senior Data Scientist, Risk (Risk Strategy) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7575853003) | 325d |
-| **Squarepoint Capital** | Senior Information Security Engineer | Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7479509&gh_jid=7479509) | 341d |
-| **Riot Games** | Manager, Software Engineering, Publishing Engagement - Publishing Platform (based in Seoul, South Korea) | Seoul, Korea; Singapore | [Apply](https://www.riotgames.com/en/work-with-us/job/7454356?gh_jid=7454356) | 348d |
-| **OKX** | Principal/Senior Product Manager, AI and Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7531921003) | 370d |
-| **Jane Street** | Facilities Operations Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8210335002?gh_jid=8210335002) | 389d |
-| **Jump Trading** | Quantitative Researcher \| Trading Team | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=5870589) | 425d |
-| **Airwallex** | Engineering Manager, Org & Identity | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/65c33a72-d6e5-4fe3-b39b-048b08e411e0) | 434d |
-| **Jane Street** | FIX Onboarding and Connectivity Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8159216002?gh_jid=8159216002) | 438d |
-| **Airwallex** | Engineering Lead / Manager, KYC | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/f217b125-5639-4e88-befd-7b070cc1b701) | 440d |
-| **OKX** | Principal AI Engineer, AI Agent Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6690158003) | 458d |
-| **Airwallex** | Staff Software Engineer, Spend | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/1711508a-927f-48c2-b3ef-0a79ccd0299d) | 460d |
-| **Airwallex** | Engineering Manager, Financial Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/8323ef8a-a728-41a6-a82d-addb2d645a85) | 466d |
-| **OKX** | Senior Staff Software Engineer, Trading Service (Retail Trading) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6664617003) | 482d |
-| **OKX** | Senior Software Engineer, Trading Services | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6656607003) | 489d |
-| **OKX** | Senior/Staff Engineer, Data Platform Development | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6651092003) | 495d |
-| **Squarepoint Capital** | Network Specialist - Security | Montreal, New York, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7068120&gh_jid=7068120) | 497d |
-| **OKX** | Senior Product Manager - Risk Platform | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6642975003) | 503d |
-| **Agoda** | Lead Data Scientist - (Singapore Based) | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/7009865) | 516d |
-| **OKX** | Senior Staff Software Engineer, Trading Services | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6610645003) | 523d |
-| **OKX** | Senior Staff Software Engineer, Trading Service (C++) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6615074003) | 523d |
-| **Airwallex** | Staff AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/260fdad2-74f5-4b94-b7af-caa7eec0393e) | 551d |
-| **Airwallex** | Senior AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/f5c945c9-dc25-4b35-a6bd-ae2fef539727) | 551d |
-| **OKX** | Staff Engineer, Middleware | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6576781003) | 557d |
-| **Jump Trading** | Research Engineer \| AI Agents | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=6881808) | 560d |
-| **OKX** | Engineering Director, DBA | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6569486003) | 564d |
-| **OKX** | Staff / Senior Staff Software Engineer, Matching Engine | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6543530003) | 587d |
-| **OKX** | Infrastructure Stability Architect  (Senior Staff Engineer) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6507075003) | 621d |
-| **Akuna Capital** | Systems Engineer | Singapore | [Apply](https://www.akunacapital.com/careers/job/6632731/?gh_jid=6632731) | 647d |
-| **Palantir** | Production Engineer - Database Operations | Singapore, Singapore | [Apply](https://jobs.lever.co/palantir/c80690ca-704b-46c2-9d95-e4f6e98ce4e2) | 655d |
-| **Jump Trading** | Deep Learning Researcher \| Trading Team | Shanghai, Singapore or Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=6603013) | 657d |
-| **WorldQuant** | Quantitative Developer | Singapore | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4435904006) | 675d |
-| **Squarepoint Capital** | Trade Flow Support - Trading Infrastructure Support | Singapore, London, Houston, Montreal | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6420505&gh_jid=6420505) | 719d |
-| **Squarepoint Capital** | Software Developer - Risk Technology | Singapore, Montreal, Bangalore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6212106&gh_jid=6212106) | 784d |
-| **Palantir** | Software Engineer, New Grad | Singapore, Singapore | [Apply](https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e) | 790d |
-| **Jane Street** | Cybersecurity Engineer - Detection and Response | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/7642974002?gh_jid=7642974002) | 791d |
-| **Virtu Financial** | 2027 Internship - Quantitative Researcher (PhD) | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/7617953002) | 815d |
-| **Squarepoint Capital** | Platform Application Specialist | Montreal, New York, Houston, Boston, Singapore, Hong Kong, London | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6212084&gh_jid=6212084) | 817d |
-| **Squarepoint Capital** | Intern Software Developer - Singapore - 2027 | Singapore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998) | 817d |
-| **Squarepoint Capital** | Junior Platform Specialist | Montreal, London, Singapore, Warsaw, Houston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6099903&gh_jid=6099903) | 837d |
-| **Squarepoint Capital** | Platform Compute Specialist | Montreal, New York, London, Singapore, Bangalore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6119781&gh_jid=6119781) | 851d |
-| **Squarepoint Capital** | Junior Quant Researcher - ML Alpha Research | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464) | 865d |
-| **Squarepoint Capital** | Junior Software Developer - Front-end | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6034447&gh_jid=6034447) | 885d |
-| **Squarepoint Capital** | Junior Software Developer (KDB+/Q) | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6040773&gh_jid=6040773) | 885d |
-| **Squarepoint Capital** | Junior Software Developer (C++) | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6040731&gh_jid=6040731) | 885d |
-| **Squarepoint Capital** | Junior Software Developer (Python) | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6033550&gh_jid=6033550) | 892d |
-| **Squarepoint Capital** | Junior Quant Developer | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6034466&gh_jid=6034466) | 892d |
-| **Squarepoint Capital** | Graduate Software Developer | London, Montreal, Singapore, Warsaw | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910) | 892d |
-| **Squarepoint Capital** | Software Developer - Internal Compute Frameworks (Rust) | London, Montreal, Singapore, Warsaw | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=5986280&gh_jid=5986280) | 909d |
-| **Jane Street** | Senior Network Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/7284911002?gh_jid=7284911002) | 981d |
-| **Squarepoint Capital** | Software Developer - Internal Compute Frameworks (Python) | London, Montreal, Singapore, Warsaw | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=4906785&gh_jid=4906785) | 1074d |
-| **Squarepoint Capital** | Software Developer - Risk Reliability | Singapore, Montreal , London | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=5384579&gh_jid=5384579) | 1155d |
-| **Squarepoint Capital** | Intern Quant Researcher | London, Paris, New York, Singapore, Hong Kong | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) | 1236d |
-| **Squarepoint Capital** | Software Developer – Internal Compute Frameworks (C++) | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=4992227&gh_jid=4992227) | 1301d |
-| **Jane Street** | Data Centre Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/6102180002?gh_jid=6102180002) | 1326d |
-| **Virtu Financial** | 2027 Internship – Core Operations Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/6329460002) | 1561d |
-| **Squarepoint Capital** | Software Developer - Data Products and Services | Montreal, London, Singapore, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=4346989&gh_jid=4346989) | 1614d |
-| **Jane Street** | Production Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/5807405002?gh_jid=5807405002) | 1778d |
-| **Jane Street** | Software Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/5791948002?gh_jid=5791948002) | 1790d |
-| **Jane Street** | Linux Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/5701269002?gh_jid=5701269002) | 1833d |
-| **Virtu Financial** | 2027 Internship – Software Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/5513756002) | 1910d |
-| **Squarepoint Capital** | Quant Developer (KDB) | London, Montreal, Singapore, Honk Kong | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=3277003&gh_jid=3277003) | 1966d |
-| **Squarepoint Capital** | Software Developer - Core Data | Singapore, Hong Kong, Montreal, London | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=1468761&gh_jid=1468761) | 2184d |
-| **Virtu Financial** | Core Developer - China Desk | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/4678573002) | 2447d |
-| **Squarepoint Capital** | Quant Developer (Python) | London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=1433622&gh_jid=1433622) | 2588d |
-| **Squarepoint Capital** | Senior Quant Researcher - Volatility | Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=253414&gh_jid=253414) | 2736d |
-| **Squarepoint Capital** | Junior Quant Researcher | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376) | 2791d |
+| **Twilio** | Presales Architect | Remote - Singapore | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8405829) | today |
+| **Twilio** | Presales Architect | Remote - Singapore | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8405801) | today |
+| **OpenAI** | Manager, Applied AI Architects (Singapore) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/143198ab-45e9-4ece-8604-d402b50cc3a9) | today |
+| **Binance** | AI Security Engineer (APAC Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5030531101) | today |
+| **Jump Trading** | Network Engineer | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8398057) | 1d |
+| **Binance** | Product Manager, AI Agent & Harness | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5025842101) | 1d |
+| **Airwallex** | Senior Software Engineer, Backend - Regulatory Reporting | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/dcd0eab6-0f75-432c-87a6-0f7fe9c4d34c) | 1d |
+| **Binance** | TechOps Engineer | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5041062101) | 4d |
+| **Airwallex** | Site Reliability Engineer, Spend | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/36d4b8df-ad02-4e69-9547-1f0b0f7d03da) | 4d |
+| **HoYoverse** | Social Platform Partnerships Manager | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/65352ec1-6d8e-44fd-981b-cb29978548da) | 5d |
+| **Coinbase** | Senior Software Engineer, Native Mobile - International | Remote - Singapore | [Apply](https://www.coinbase.com/careers/positions/8349028?gh_jid=8349028) | 5d |
+| **Binance** | Senior Infrastructure Security Engineer(DevSecOps) - APAC Remote | Australia; Hong Kong; Malaysia; New Zealand; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5041041101) | 5d |
+| **Binance** | Backend Engineer (Java) - KYB Tech | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5008234101) | 5d |
+| **Elastic** | Senior Solutions Architect | Singapore | [Apply](https://jobs.elastic.co/jobs?gh_jid=8382571&gh_jid=8382571) | 6d |
+| **Binance** | Security Architect | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5040021101) | 6d |
+| **Airwallex** | Software Engineer, Risk | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/c992a940-930c-400f-b73d-1ab303d10b45) | 6d |
+| **Airwallex** | Engineering Lead, Lending Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9557ef8e-b2a2-4897-9900-ac1f45428643) | 6d |
+| **Airwallex** | Engineering Lead, Lending | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/5259d830-5b43-4547-9771-d73938ec9587) | 6d |
+| **OKX** | Staff Engineer, Machine Learning & Data Infrastructure | APAC; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8206913003) | 7d |
+| **Airwallex** | Senior Software Engineer, Infrastructure (Cloud Platform) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/8858b315-3daf-4d13-b88b-e6a3ce4ec6bb) | 7d |
+| **Thunes** | IT Security Specialist | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8201844003?gh_jid=8201844003) | 8d |
+| **Thunes** | AI Engineer | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8204609003?gh_jid=8204609003) | 8d |
+| **OKX** | Staff / Senior Engineer - Compliance, Account | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8204703003) | 8d |
+| **OKX** | Senior/Staff Engineer, Core Infrastructure | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8204648003) | 8d |
+| **Databricks** | Manager, Field Engineering (Launchpad Program) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8857696002) | 9d |
+| **Stripe** | Technical Solutions Engineer | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8368656) | 11d |
+| **Stripe** | Solutions Architect, Metronome (Startups) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8338839) | 11d |
+| **Stripe** | Solution Architect, Metronome (AI Native) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8338845) | 11d |
+| **Stripe** | Solutions Architect (Korea Market) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8354762) | 12d |
+| **Stripe** | Integration Reliability Engineer, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8282171) | 12d |
+| **Binance** | Mobile Security Engineer (Android / Web) | Australia; Hong Kong; Singapore; Taiwan; Thailand | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5029666101) | 12d |
+| **Binance** | Full Stack Engineer - Recommendation Engine (APAC Remote) | Hong Kong; Japan; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5025783101) | 12d |
+| **Airwallex** | Software Engineer Intern (Summer 2027) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795) | 12d |
+| **Airwallex** | Software Engineer Intern (Jan to Jun 2027) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441) | 12d |
+| **Airwallex** | Senior Data Scientist, Analytics (Risk & Payments) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/4401779c-419c-46d4-9c9d-4aea013652a5) | 12d |
+| **Snowflake** | Technical Architect | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/8ca0b89c-45ee-4891-8db0-c7588661986c) | 13d |
+| **OpenAI** | Manager, Deployment Lead, Forward Deployed Engineering (FDE) - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/1ddf1fcf-a647-4016-92c3-2da4b45d1b15) | 13d |
+| **HoYoverse** | Senior Software Engineer (Payment) | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/7a5f141c-c49b-4ba5-9b4e-a3cf3a7c079b) | 13d |
+| **Airwallex** | Senior Software Engineer, Infra (Cloud & Security) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9d770432-8a34-44d4-9273-6dbce7d93aeb) | 13d |
+| **Adyen** | Implementation Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8370587) | 13d |
+| **Stripe** | Specialist Solutions Architect, Crypto and Stablecoins | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8352154) | 14d |
+| **Jump Trading** | Cloud Systems Engineer \| Production Engineering | Hong Kong or Singapore  | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8370626) | 14d |
+| **Binance** | Senior Java Engineer – Fund Security & Account Security (Fiat OnOff-Ramp) | Australia; Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5029390101) | 14d |
+| **Binance** | Data Scientist – Computer Vision / AI Manipulation Detection (Risk AI) | Australia; Hong Kong; Singapore; Taiwan; Thailand | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5032464101) | 14d |
+| **Binance** | Binance Accelerator Program - Compliance Training (AI) | Australia; Bahrain; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5024608101) | 14d |
+| **Airwallex** | Senior Software Engineer, Billing (Frontend) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/739ae3d3-12ca-4f26-bd9a-a80a74c4b0e0) | 14d |
+| **Nium** | Senior Analyst - Compliance Analytics | Singapore | [Apply](https://jobs.lever.co/nium/0f064170-7681-4e6c-99e6-b2b131be2a37) | 15d |
+| **Elastic** | Senior Support Engineer | Singapore | [Apply](https://jobs.elastic.co/jobs?gh_jid=8346174&gh_jid=8346174) | 17d |
+| **OKX** | Senior Management, Platform & Infrastructure Audit | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8197696003) | 18d |
+| **Binance** | Fullstack Engineer - Square (APAC Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5028202101) | 18d |
+| **Binance** | Data Analyst (compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5015530101) | 18d |
+| **Binance** | Data Analyst (AI compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5024711101) | 18d |
+| **Snowflake** | Activation Solution Engineer | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/6f5862ef-d3c2-48cd-99c0-c79382cc5c32) | 19d |
+| **Sierra** | Software Engineer, Agent | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/43e6eda7-6e46-43e8-82a5-6e5035f063bb) | 19d |
+| **OpenAI** | AI Deployment Manager - Builder | Singapore | [Apply](https://jobs.ashbyhq.com/openai/c2016d32-1994-471d-8900-1b49259c647c) | 19d |
+| **Binance** | Senior Data Engineer - Square (APAC Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5028320101) | 19d |
+| **Agoda** | Staff AI Security Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8326312) | 19d |
+| **Agoda** | Staff AI Security Analyst | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8326318) | 19d |
+| **EBANX** | Mid-level Software Production Engineer \| Singapore | Singapore \| Hybrid | [Apply](https://job-boards.greenhouse.io/ebanx/jobs/8040041003) | 20d |
+| **Anthropic** | Head of ASEAN, Applied AI | Singapore | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5424312008) | 21d |
+| **Airwallex** | Staff Data Engineer, Data and AI, Customer Data Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/e77c835b-90e8-4d77-9a44-38d2f6d929fd) | 21d |
+| **Airwallex** | Senior Data Engineer, Data and AI, Customer Data Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/7b252696-914f-49a9-86ff-5a6b10136219) | 21d |
+| **Snowflake** | Senior AI/ML Architect, Applied Field Engineering/Field CTO | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/30e6db17-33e6-4c5e-b2d0-8d0a7d5ab60e) | 22d |
+| **Ripple** | Senior Cloud Architect | Singapore | [Apply](https://ripple.com/careers/all-jobs/job/8346319?gh_jid=8346319) | 22d |
+| **Pinterest** | Sr. Technical Program Manager | Singapore, SG | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8016646) | 22d |
+| **MongoDB** | Solutions Architect - Thai Speaking | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8333381) | 22d |
+| **Databricks** | Sr. Designated Support Engineer - Spark | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002) | 22d |
+| **Snowflake** | Senior RVP, Solution Engineering ASEAN | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/2ebec9d1-055f-4e47-93ae-29ad19e23967) | 23d |
+| **OKX** | Infrastructure Architect | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8108181003) | 25d |
+| **Okta** | Senior Solutions Engineer - ASEAN | Singapore | [Apply](https://www.okta.com/company/careers/opportunity/8333120?gh_jid=8333120) | 26d |
+| **MongoDB** | Senior Solutions Architect (Public Sector) | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8331146) | 26d |
+| **Squarepoint Capital** | Senior Quant Researcher - Intraday Statistical Arbitrage | Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=253413&gh_jid=253413) | 27d |
+| **Squarepoint Capital** | Senior Quant Researcher - Fixed Income | Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=1163559&gh_jid=1163559) | 27d |
+| **Squarepoint Capital** | Senior Quant Researcher - Equity Mid/Low Frequency | Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=253411&gh_jid=253411) | 27d |
+| **Squarepoint Capital** | Senior Quant Researcher - CTA/Short-Term | Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Bangalore, Dubai, Geneva, Hong Kong, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=253410&gh_jid=253410) | 27d |
+| **OKX** | Engineering VP / Director | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8045820003) | 28d |
+| **Airwallex** | Software Engineer Backend, Billing | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/f4d64c0e-2425-409c-a296-4c4c6b9fe824) | 28d |
+| **OKX** | Software Engineer, Mobile (Android) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8045415003) | 29d |
+| **Coinbase** | Regional Security Manager, APAC | Remote - Singapore | [Apply](https://www.coinbase.com/careers/positions/8312623?gh_jid=8312623) | 29d |
+| **Binance** | Techops Engineer | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5011501101) | 29d |
+| **Binance** | Software Engineer - Blockchain Security (Full-stack) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002691101) | 29d |
+| **Binance** | Senior iOS Engineer, Futures | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002723101) | 29d |
+| **Binance** | Binance Acceleration Program - Product Data Analyst | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5013528101) | 29d |
+| **OKX** | Senior Finance Transformation & Strategy PMO (BI / AI) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8042491003) | 32d |
+| **Binance** | Financial Data Engineer, Stock & AI Data（APAC - Remote) | Australia; Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5014488101) | 32d |
+| **Airwallex** | Software Engineer, Developer Experience | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/3c5176fb-6eee-4bf4-8031-36f0528c71a3) | 32d |
+| **Airwallex** | Engineering Lead, Full Stack, Growth Team | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/96a870c7-9a25-4e8a-8b4d-7ae5456e7475) | 32d |
+| **Adyen** | Team Lead - Software Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8264727) | 32d |
+| **Stripe** | Engineering Manager, Payments | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8256027) | 33d |
+| **Airwallex** | Senior Engineering Manager, Issuing Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/252a825e-ac40-41fa-b12e-dda400167e68) | 33d |
+| **Airwallex** | Head of Engineering, Payments Platform | SG - Singapore / US - Seattle / UK - London / US - San Francisco | [Apply](https://jobs.ashbyhq.com/airwallex/1df645e6-47a1-4317-808c-8ebc07af9f96) | 33d |
+| **Linear** | Solutions Engineer, APAC | Singapore / Australia | [Apply](https://jobs.ashbyhq.com/linear/d8890a6d-ce76-4c3d-aacc-34c1ed150d91) | 34d |
+| **GitLab** | Senior Solutions Architect | Remote, Singapore | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8880947002) | 34d |
+| **Coinbase** | Software Engineer Intern | Hybrid - Singapore | [Apply](https://www.coinbase.com/careers/positions/8175873?gh_jid=8175873) | 34d |
+| **Airwallex** | Staff Data Scientist, Algorithm, Financial Markets | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/b0269bf6-01b3-4793-bd3a-3565d60ed2cc) | 34d |
+| **Airwallex** | Senior Software Engineer, Scale Platform (Frontend) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/e6ed0945-65a2-40b6-aabe-e28ad025003c) | 34d |
+| **Airwallex** | Senior Software Engineer, Scale (Frontend) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/a9c09c5d-ab0c-4692-a6c0-d1cdc0107a7c) | 34d |
+| **Stripe** | Engineering Manager, Money as a Service (MaaS) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8282169) | 35d |
+| **Binance** | Techical Support Engineer | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5008266101) | 35d |
+| **Airwallex** | Senior Software Engineer Backend, Billing | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9e064013-6286-4984-9541-7bd702286d64) | 35d |
+| **Stripe** | Solutions Architect Manager, Platforms (Asia-Pacific) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8064171) | 36d |
+| **OpenAI** | Applied AI Engineer, Startups (Mandarin-speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/502fcf97-75b2-4e54-9957-a29cee8eb1ca) | 36d |
+| **Binance** | Algorithm Engineer - Search & Recommendation（APAC - Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002683101) | 36d |
+| **Airwallex** | Senior Site Reliability Engineer, Spend | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/b3514b7b-67d3-4f48-b4ae-20e3ad49261c) | 36d |
+| **Airwallex** | Senior Data Engineer, Knowledge Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/39069d1d-9a56-4ef2-b326-8cc1f46a25f9) | 36d |
+| **Binance** | LLM Data Scientist/Algorithm Engineer (Top Talent Program) | Australia; Hong Kong; New Zealand; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5009522101) | 37d |
+| **Binance** | Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security | Australia; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5007086101) | 37d |
+| **OKX** | Senior / Staff Engineer, DEX Trading System | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8034335003) | 39d |
+| **HoYoverse** | Test Development Engineer - Entry Level | Singapore | [Apply](https://jobs.ashbyhq.com/hoyoverse/68d044cb-57b9-4fee-a4e3-b35ae4b63f94) | 39d |
+| **Airwallex** | Engineering Director, Org & Identity | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/8bb6719a-71ae-48fb-a007-01fd10776587) | 39d |
+| **Snowflake** | Senior Solution Engineer (Expansion) | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/53062740-a42c-4fd2-8c33-c4d5dbee27bf) | 40d |
+| **Binance** | Senior Frontend Engineer - Web3 Wallet | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002553101) | 40d |
+| **Binance** | Senior Android Developer - Cryptographic | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002707101) | 40d |
+| **Binance** | Senior Algorithmic Trader / Liquidity Researcher | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002369101) | 40d |
+| **Binance** | Blockchain Engineer - Binance Wallet | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002619101) | 40d |
+| **Airwallex** | Staff Software Engineer, Ecosystem | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/acbfa32f-efb7-4ca1-b3f1-dc7060cff75c) | 40d |
+| **Airwallex** | Software Engineer, Ecosystem | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/78947679-269c-427f-9b09-36b716493088) | 40d |
+| **Airwallex** | Senior Software Engineer, Ecosystem | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/d6562166-17e8-4df0-a97c-0596adef6bf6) | 40d |
+| **Airwallex** | Engineering Manager, Issuing Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/a4a0c074-1f3f-4f17-b824-98cae00d8e41) | 40d |
+| **Snowflake** | Senior Solution Engineer, Public Sector | SG-Singapore | [Apply](https://jobs.ashbyhq.com/snowflake/a14ea6ec-9be5-4de1-8494-1a044a319c4e) | 41d |
+| **Binance** | Pioneer Talent Program - Research Data Scientist (APAC Remote) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002565101) | 41d |
+| **Binance** | Data Analyst (12 months contract) | Hong Kong; Malaysia; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5004445101) | 41d |
+| **Binance** | Business Intelligence/ Data Analytics Manager | Hong Kong; Malaysia; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002365101) | 41d |
+| **Binance** | Binance Accelerator Program - Research Data Analyst | Hong Kong; Malaysia; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002563101) | 41d |
+| **Binance** | Senior Data Analyst (AI Compliance) | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002713101) | 42d |
+| **Binance** | Senior Application Security Architect | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002487101) | 42d |
+| **Binance** | Pioneer Talent Program - Applied Data Scientist | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002729101) | 42d |
+| **Binance** | Pioneer Talent Program - Applied Data Scientist | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002575101) | 42d |
+| **Binance** | LLM Applied Data Scientist (RAG/ NLP) | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002635101) | 42d |
+| **Binance** | Java Backend Engineer, Global Travel Rule (GTR) | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002673101) | 42d |
+| **Binance** | Frontend Engineer - KYC | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002661101) | 42d |
+| **Binance** | Financial Data Engineer, AI/LLM | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002687101) | 42d |
+| **Binance** | Backend Engineer (Java) -Trading | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002248101) | 42d |
+| **Binance** | Backend Engineer (Java) - KYC Tech | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002387101) | 42d |
+| **Binance** | AI Product Manager | Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002533101) | 42d |
+| **Binance** | AI Agent  Engineer | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002667101) | 42d |
+| **Binance** | AI & Recommendation Product Manager | Hong Kong; Singapore; Taiwan | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002703101) | 42d |
+| **OKX** | Software Engineer, Mobile Core (Compliance) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8026443003) | 43d |
+| **Binance** | Backend Engineer, Java - Web 3 Wallet | Hong Kong; Singapore | [Apply](https://job-boards.eu.greenhouse.io/binance/jobs/5002679101) | 43d |
+| **Thunes** | Software Engineer (B2B/B2X) | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8011541003?gh_jid=8011541003) | 46d |
+| **Thunes** | Senior Software Engineer (B2B/B2X) | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/8011534003?gh_jid=8011534003) | 46d |
+| **OKX** | Senior Product Director, AI & Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8018487003) | 46d |
+| **Workato** | Analytics Engineer | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8870119002#open-roles) | 47d |
+| **OpenAI** | Applied AI Engineer, Codex | Singapore | [Apply](https://jobs.ashbyhq.com/openai/02ec1893-17df-420c-8d19-48eca8edd884) | 47d |
+| **Block** | Foundry Interface Engineer | Singapore, Singapore | [Apply](http://block.xyz/careers/jobs/5445289008?gh_jid=5445289008) | 47d |
+| **Airwallex** | Senior Software Engineer, Machine Learning Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/89fccb81-c8cc-4769-be0c-9ed078e1a03b) | 47d |
+| **Agoda** | Staff Software Engineer, GenAI | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8263843) | 47d |
+| **OKX** | Senior Staff Engineer, Payment | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8016081003) | 48d |
+| **Databricks** | Sr. Solutions Architect (Greater China) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8849932002) | 48d |
+| **Stripe** | Specialist Solutions Architect, Fraud & Risk (Asia-Pacific) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8225567) | 49d |
+| **OKX** | Rust Developer, Exchange OS Trading Engine | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8014194003) | 49d |
+| **MongoDB** | Senior Solutions Architect | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8230043) | 49d |
+| **Crypto.com** | VP, Product Analytics | Singapore | [Apply](https://jobs.lever.co/crypto/be6c09e2-5f24-4a9f-a05f-125301db5097) | 50d |
+| **Airwallex** | Senior Data Scientist, Anaytics (Risk & Compliance) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/70f6500b-5b70-485e-88b0-9ab77d739a7e) | 50d |
+| **Airwallex** | Senior Data Scientist, Analytics (Regulatory Reporting) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/c54f9e87-56f0-4bb1-9dce-fbf3b0b7060c) | 50d |
+| **Riot Games** | Senior Manager, Software Engineering - Teamfight Tactics - Store & Cosmetics | Singapore | [Apply](https://www.riotgames.com/en/work-with-us/job/8221981?gh_jid=8221981) | 51d |
+| **Ripple** | Physical Security Manager, APAC/MENA | Singapore | [Apply](https://ripple.com/careers/all-jobs/job/8245075?gh_jid=8245075) | 54d |
+| **OKX** | Technology and Security Risk Director | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8010225003) | 54d |
+| **Jane Street** | Data Centre Facilities Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8859670002?gh_jid=8859670002) | 54d |
+| **Airwallex** | Senior Manager - Solution Engineering (APAC) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6740fbbf-da73-4d34-a0a6-056058bdcff2) | 54d |
+| **OKX** | Product Lead, Growth Platform | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8009074003) | 55d |
+| **OKX** | Global Financial Operations Platform Director | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8010134003) | 55d |
+| **Agoda** | Senior AI Security Researcher, Singapore based | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8239196) | 55d |
+| **OpenAI** | AI Support Engineer - Singapore (Weekend Shift) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/bfd83255-8491-4c92-be4d-04dd0911cbe6) | 56d |
+| **Agoda** | Lead/Principal Data Scientist | Guoco, Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8238989) | 56d |
+| **Twilio** | Solution Engineer | Remote - Singapore | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8114393) | 57d |
+| **Databricks** | Sr. Delivery Solutions Architect | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8849858002) | 57d |
+| **Databricks** | Sr. Delivery Solutions Architect (Greater China Region) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8735828002) | 58d |
+| **Sierra** | Sales Engineering Manager, APJ | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/460d88d5-6ae9-4cf8-95e8-c6d29aa4e5f2) | 60d |
+| **OpenAI** | Dedicated Support Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/85feb543-f234-4db3-9d9c-a6fb195ddc19) | 60d |
+| **OKX** | Software Engineer, Mobile (iOS) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8005095003) | 60d |
+| **OKX** | Senior/Staff Engineer - Web3 - Onchain Data | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7990958003) | 60d |
+| **Stripe** | Financial Data Analyst Intern, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8186442) | 61d |
+| **OKX** | Senior/Staff Software Engineer, Trading Services | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8004213003) | 61d |
+| **OKX** | Senior Product Manager, Data | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8004107003) | 62d |
+| **Agoda** | [Data Scientist] Principal Data Scientist - SG | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/8229408) | 62d |
+| **Stripe** | Integration Reliability Engineer, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8186445) | 63d |
+| **Stripe** | Integration Reliability Engineer Intern, Technical Operations | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8186367) | 63d |
+| **OKX** | Staff Engineer, Public Cloud Operations | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/8002221003) | 63d |
+| **Adyen** | Technical Support Engineer (Finance) | Singapore | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8212878) | 65d |
+| **Virtu Financial** | Electronic Trading Engineer (Retail Routing) | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8798302002) | 67d |
+| **Stripe** | Technical Support Engineer, Metronome | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8171220) | 68d |
+| **OpenAI** | Applied AI Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba) | 70d |
+| **OKX** | Product Director, Localisation & AI Evals | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7984217003) | 70d |
+| **Xendit** | UX Researcher | Bangkok, Thailand; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/xendit/jobs/7992382003) | 74d |
+| **Xendit** | Product Manager - Developer Experience | Bali, Indonesia; Bangkok, Thailand; Jakarta, Indonesia; Kuala Lumpur, Malaysia; Manila, Philippines; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/xendit/jobs/7992374003) | 74d |
+| **Roblox** | Head of Developer Relations, SEA and OCE | Singapore | [Apply](https://careers.roblox.com/jobs/8164394?gh_jid=8164394) | 76d |
+| **OpenAI** | Quality Engineer, Rack Infrastructure & Site Operations | Singapore | [Apply](https://jobs.ashbyhq.com/openai/b71906c2-51a9-4ad7-a744-2390ccdc1ad8) | 76d |
+| **OpenAI** | Manager, Applied AI Engineering (Southeast Asia) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/41df4950-f6b1-4f97-8b29-cd0a11f19e25) | 76d |
+| **Databricks** | Sr. Solutions Architect | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8789428002) | 76d |
+| **Stripe** | Software Engineer, Intern | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8130883) | 78d |
+| **Sierra** | Software Engineer, Agent (New Grad 2027) | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/79953d72-60d4-43e0-8c8c-6eccda422dce) | 78d |
+| **Sierra** | Software Engineer Intern, Agent (Summer 2027) | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17) | 78d |
+| **Datadog** | Director, Sales Engineering - ASEAN | Singapore, Singapore | [Apply](https://careers.datadoghq.com/detail/8172864/?gh_jid=8172864) | 78d |
+| **Airwallex** | Senior Product Manager, AI Risk & Onboarding | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6c55b41b-824b-46cd-8590-b9e83eaa5de6) | 78d |
+| **Airwallex** | Product Lead, Financial Markets (FX) & Financial Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/07055859-7ded-4c23-8e2d-fe67c96ea8da) | 78d |
+| **OpenAI** | Senior Support Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/b3e5fcf7-50ad-4765-ac03-ac71e8b20cb8) | 81d |
+| **Datadog** | Senior Partner Manager - Channels (Security) | Singapore, Singapore | [Apply](https://careers.datadoghq.com/detail/8164588/?gh_jid=8164588) | 81d |
+| **Databricks** | Sr. Solutions Engineer | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8783420002) | 82d |
+| **Databricks** | Solutions Architect | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8783421002) | 82d |
+| **Workato** | Intern, Data Engineering | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8731177002#open-roles) | 83d |
+| **Databricks** | Sr. Specialist Solutions Architect (AI/ML) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8762362002) | 83d |
+| **OpenAI** | AI Support Engineer - Singapore (Korean Speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/openai/c8270289-d73d-4ad6-8cae-2b537f8d9062) | 84d |
+| **Airwallex** | Staff Data Scientist, Algorithm (Risk Product – AML & Financial Crime) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/3644405e-f350-4a3a-bb53-54bfb9400efe) | 84d |
+| **Airwallex** | Senior Salesforce Engineer, Growth | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/4647580d-7a98-4881-9aa7-aa3db4cecde5) | 84d |
+| **OpenAI** | Applied AI Architect | Singapore | [Apply](https://jobs.ashbyhq.com/openai/b8fbe6d1-6363-4366-8484-de32cf4d1410) | 85d |
+| **Jane Street** | Software Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8646746002?gh_jid=8646746002) | 85d |
+| **Gemini** | Senior Software Engineer, Invest / Trade (Full Stack, React) | Singapore, Singapore | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8164166&gh_jid=8164166) | 86d |
+| **OKX** | Staff Software Engineer, Mobile Security | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795765003) | 88d |
+| **OKX** | Software / Senior Software Engineer, Mobile | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7978927003) | 90d |
+| **Airwallex** | Lead AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/02234e0a-e1fc-4b23-b3e6-513200e4ff80) | 90d |
+| **MongoDB** | Senior Solutions Architect | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8152623) | 91d |
+| **Airwallex** | Senior AI Engineer (Risk & Payments) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/c7070452-6ec6-443c-8015-db339403634a) | 91d |
+| **Jump Trading** | Quantitative Developer \| Trading Team | Singapore or Hong Kong  | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8105914) | 92d |
+| **Jump Trading** | Campus AI/ML Researcher (Intern) | Hong Kong; Shanghai; Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027938) | 92d |
+| **Stripe** | Solutions Architect (China Market) | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8144223) | 95d |
+| **Coinbase** | Senior Data Scientist | Remote - Singapore | [Apply](https://www.coinbase.com/careers/positions/8147917?gh_jid=8147917) | 95d |
+| **Thunes** | Software Engineering Lead (Core) | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/7869356003?gh_jid=7869356003) | 96d |
+| **Thunes** | Senior Software Engineer (Core) | Singapore, Central, Singapore | [Apply](https://www.thunes.com/jobs/7869355003?gh_jid=7869355003) | 96d |
+| **Jane Street** | Network Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8693539002?gh_jid=8693539002) | 96d |
+| **Ripple** | Staff Cloud Architect | Singapore | [Apply](https://ripple.com/careers/all-jobs/job/7685310?gh_jid=7685310) | 97d |
+| **OKX** | Senior Product Manager, AI Risk Strategy (Buy/Sell Crypto) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7899835003) | 97d |
+| **Airwallex** | Staff Product Security Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/1b63af30-7155-4ecb-af13-12f934dd8ad3) | 97d |
+| **GitLab** | Senior Solutions Architect (Singapore) | Remote, Singapore | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8627768002) | 99d |
+| **OpenAI** | PCBA Manufacturing Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/a547274b-246c-41a0-8590-a874fcc6f28b) | 103d |
+| **Airwallex** | Engineering Director, Payments Platform | SG - Singapore / US - Seattle / UK - London / US - San Francisco | [Apply](https://jobs.ashbyhq.com/airwallex/17fa30b4-c813-461a-acff-f2f2e23c31d6) | 105d |
+| **OKX** | Senior/Staff Engineer - Trading Exchange Middle Platform- Market Analysis | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6543531003) | 109d |
+| **OKX** | Staff Engineer, Security Platform Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7825508003) | 112d |
+| **Jump Trading** | Campus Systems Engineer (Intern) | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027952) | 113d |
+| **Jump Trading** | Campus Quantitative Researcher (Intern) | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027939) | 113d |
+| **Jump Trading** | Campus Python Software Engineer (Intern) | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027955) | 113d |
+| **Jump Trading** | Campus C++ Software Engineer (Intern) | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=8027946) | 113d |
+| **OKX** | Staff/Senior Java Engineer, OKX Web3 Wallet | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7821268003) | 117d |
+| **Adyen** | Compliance Officer - Financial & Data Integrity Programs | Singapore | [Apply](https://job-boards.greenhouse.io/adyen/jobs/8055561) | 117d |
+| **Squarepoint Capital** | Software Developer - Data Reliability | London, Warsaw, Singapore, Bangalore, Montreal | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8092644&gh_jid=8092644) | 119d |
+| **Squarepoint Capital** | Software Developer - Data Platform |  London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=8092777&gh_jid=8092777) | 119d |
+| **Airwallex** | Senior Data Scientist, Analytics (Lending) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/341d23f4-f254-4a2b-a75c-eb267eedfffc) | 119d |
+| **OKX** | AI Enablement Project Director | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7814862003) | 123d |
+| **Squarepoint Capital** | Junior SRE | New York, London, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6380892&gh_jid=6380892) | 124d |
+| **OpenAI** | AI Support Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/278990f1-59be-41ee-aad2-a9c69c5c7064) | 125d |
+| **Airwallex** | Senior Data Scientist, Algorithm (Lending & Onboarding) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9a620994-db83-4dca-b9bd-0e5c792cf2f3) | 125d |
+| **Jane Street** | Software Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8632392002?gh_jid=8632392002) | 126d |
+| **OKX** | Senior Java Backend Engineer — Asset & Earn | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7749091003) | 130d |
+| **Airwallex** | Senior Software Engineer, Org & Identity | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/aa6d6432-8871-4aea-9c8c-50f60e2bffa2) | 133d |
+| **Databricks** | Sr. Staff Forward Deployed Engineer | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8555674002) | 138d |
+| **Stripe** | Data Scientist | Singapore | [Apply](https://stripe.com/jobs/search?gh_jid=8043052) | 139d |
+| **OpenAI** | Applied AI Engineer, Cyber | Singapore | [Apply](https://jobs.ashbyhq.com/openai/29f15e50-1611-4256-afad-03b7df0b7aa7) | 139d |
+| **OKX** | Senior/Staff Engineer, Security Platform Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795714003) | 141d |
+| **OKX** | Senior/Staff Engineer, R&D Efficiency Platform | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795698003) | 141d |
+| **OKX** | Product Manager, R&D Efficiency Platform | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795777003) | 141d |
+| **OKX** | Big Data Engineer, Web3 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7795796003) | 141d |
+| **WorldQuant** | Senior C++ Software Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4451658006) | 145d |
+| **OKX** | Growth & AI Initiatives Manager 增长与 AI 专项经理 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7762046003) | 145d |
+| **OKX** | Principal/Senior Mobile Engineer, Trading Strategies, CEX | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7789825003) | 147d |
+| **OKX** | Senior Staff Software Engineer, Mobile Infrastructure | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777031003) | 148d |
+| **OKX** | Engineering Director, Mobile Infrastructure | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777037003) | 148d |
+| **MongoDB** | Advisory Solutions Architect | Singapore | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8023912) | 151d |
+| **Jump Trading** | Site Reliability Engineer \| Production Infrastructure | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7809761) | 152d |
+| **Jump Trading** | Senior Software Engineer  \| Core Development | Singapore, Hong Kong or Shanghai | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7809758) | 152d |
+| **OKX** | Senior/Staff Data Engineer, Risk Control | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7783020003) | 153d |
+| **Airwallex** | Senior Mobile Engineer (iOS), Global Payments | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/a06a8ae0-1328-424a-ae5f-e0bfaa5dbf1a) | 153d |
+| **OKX** | Junior Product Manager, DevOps and AI | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7780897003) | 154d |
+| **Airwallex** | Senior Product Manager, Liquidity Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/879ff772-adc3-4873-a011-09bc1f747b8d) | 154d |
+| **OKX** | Software Engineer, Mobile, Web3 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777043003) | 155d |
+| **OKX** | Engineering Director, Mobile, Web3 | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7778747003) | 155d |
+| **Airwallex** | Staff Software Engineer, Lending Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/4a1e2e02-59c0-4c96-bc86-4164609eedfb) | 155d |
+| **Airwallex** | Staff Software Engineer, Lending | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/078de7a5-2f5b-4420-ba5c-8d82a2110548) | 155d |
+| **Airwallex** | Senior Software Engineer, Lending Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/0887ecca-15c1-479b-b4be-b0cb705d168a) | 155d |
+| **Airwallex** | Senior Software Engineer, Lending | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6c29e112-c94c-4346-9721-283aa4f4bcdc) | 155d |
+| **OKX** | Senior Staff Software Engineer, Mobile | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777048003) | 158d |
+| **OKX** | Engineering Director, Mobile (iOS/Android) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777137003) | 158d |
+| **OKX** | Tech Governance - Security Compliance & Governance Engineer | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777063003) | 159d |
+| **OKX** | Principal/Senior Product Manager, AI & Web3 Wallet | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7777028003) | 160d |
+| **Sierra** | Software Engineer, Agent (Mandarin Speaking) | Singapore | [Apply](https://jobs.ashbyhq.com/Sierra/b37a6f9e-53c7-4c47-beb5-1ab4451f3001) | 165d |
+| **Databricks** | Solutions Architect (Lakebase) | Singapore | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8567985002) | 166d |
+| **OKX** | Staff/Senior Staff Engineer, Kubernetes | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7767880003) | 167d |
+| **OKX** | Principal/Senior Software Engineer, Mobile, CEX | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7768121003) | 167d |
+| **OKX** | DevOps / Site Reliability Engineer | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7767872003) | 167d |
+| **OKX** | Staff/Senior Staff Engineer, Public Cloud Operations | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7767815003) | 168d |
+| **OKX** | Application Architect (Senior Staff Enginer) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7766838003) | 168d |
+| **OKX** | Staff Data Engineer, Finance Data Platform | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7765811003) | 169d |
+| **OKX** | Senior Data Engineer, Compliance Data Platform | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7765814003) | 169d |
+| **OpenAI** | Manufacturing Test Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/94172ebc-2219-40b4-ae04-c10be0fd2158) | 172d |
+| **OKX** | AI Application Architect | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7761002003) | 175d |
+| **Squarepoint Capital** | Platform Storage Specialist | Singapore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7907168&gh_jid=7907168) | 182d |
+| **Airwallex** | Staff Data Platform Engineer, Knowledge Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/5fa97d90-9c8c-452a-9ec0-d0949ec10ae0) | 186d |
+| **OKX** | (Senior) Data Infra Product Manager, On Chain (Algorithm and Search) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7742384003) | 187d |
+| **Datadog** | Manager II, Services Architect | Singapore, Singapore | [Apply](https://careers.datadoghq.com/detail/7939294/?gh_jid=7939294) | 188d |
+| **OKX** | Product Manager / Director, Trading Infrastructure | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7739030003) | 189d |
+| **OKX** | Principal / Staff Engineer - Compliance | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7736920003) | 191d |
+| **Jump Trading** | Software Engineer \| Trading Team | Shanghai, Hong Kong or Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=7929540) | 193d |
+| **Squarepoint Capital** | Graduate Quant Developer | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7918610&gh_jid=7918610) | 196d |
+| **Airwallex** | Senior Software Engineer, Risk | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/a532b09a-bfdc-4537-8bb7-d1c35f5dc0bc) | 202d |
+| **Squarepoint Capital** | Trading Infrastructure Specialist – Graduate Program | London, Montreal, Hong Kong, New York, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7757021&gh_jid=7757021) | 203d |
+| **Xendit** | Principal Solutions Engineer | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/xendit/jobs/7719174003) | 210d |
+| **OKX** | Senior Risk Manager, Trading (AI-Augmented Operations) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7718885003) | 210d |
+| **OKX** | Staff/Senior Staff Frontend Engineer - Growth | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7712939003) | 214d |
+| **OKX** | Staff/Senior Staff Frontend Engineer - Customer Genius & BOSS | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7712938003) | 214d |
+| **OKX** | Product Manager / Director, AI Trading | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7712844003) | 214d |
+| **OpenAI** | Forward Deployed Engineer - Singapore | Singapore | [Apply](https://jobs.ashbyhq.com/openai/4c078f82-93b9-427c-8fd8-95de198884b4) | 217d |
+| **Jane Street** | Cybersecurity Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8057314002?gh_jid=8057314002) | 217d |
+| **Crypto.com** | Growth Data Analyst | Singapore | [Apply](https://jobs.lever.co/crypto/7983ff1a-dd4a-45c2-9f6a-dda28ccca9ce) | 217d |
+| **Squarepoint Capital** | Trade Flow Support - Trading Infrastructure Support Lead | Montreal, London, New York, Singapore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7709566&gh_jid=7709566) | 218d |
+| **OKX** | Senior/Staff Engineer, AI Agent Development | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7699598003) | 224d |
+| **OKX** | Senior Product Manager, DevOps and AI | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7699601003) | 224d |
+| **Workato** | Senior Software Engineer (Golang - Platform team) | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8499680002#open-roles) | 229d |
+| **Airwallex** | Staff Data Scientist, Algorithm (Payments Fraud & Optimization) | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/089d131a-0b3c-4f5d-9eb4-db8643eb42fc) | 230d |
+| **OKX** | Head of Product, AI and Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7691998003) | 231d |
+| **OKX** | Engineering Director, Frontend Business Lead | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7687326003) | 236d |
+| **OKX** | Engineering Director, Frontend | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7687329003) | 236d |
+| **OKX** | Vice President, AI Strategy & Transformation | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7684887003) | 238d |
+| **Jane Street** | Network Engineer, Security | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8480752002?gh_jid=8480752002) | 240d |
+| **OKX** | Senior/Staff Java Engineer, Fraud Risk | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7678342003) | 244d |
+| **OKX** | Senior /Staff AI Engineer | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7675050003) | 246d |
+| **OKX** | Growth & AI Initiatives Manager | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7668551003) | 246d |
+| **OKX** | VP/ Senior Engineering Director, Trading Services | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7673170003) | 249d |
+| **Agoda** | Agoda Tech - Software Engineering & Engineering Management roles (Sushmi) | Bangkok, Gurgaon, Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/7737436) | 249d |
+| **WorldQuant** | Software Engineering Lead (MetaTech) | Singapore | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4661177006) | 250d |
+| **OKX** | (Senior) Data Infra Product Manager, On Chain (Web3) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7671639003) | 250d |
+| **Airwallex** | Staff Corporate Security Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/57669e71-5a32-46a6-8821-e672bc57c774) | 257d |
+| **Airwallex** | Staff Software Engineer,  Risk | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/9ff4c0f1-d279-40c4-8dfd-beba4ba69815) | 263d |
+| **Airwallex** | Senior Data Platform Engineer, Knowledge Platform & AI Enablement | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/6e975468-e033-4f50-95fe-0f4351457003) | 263d |
+| **Airwallex** | (Senior) iOS Engineer, Mobile - Identity & Org | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/0248185e-80e7-49e5-bef2-269323b4c0c4) | 266d |
+| **OKX** | Principal Engineer, Agent Infrastructure & Memory Architecture | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7648794003) | 267d |
+| **OKX** | Principal AI Engineer, Chatbot Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7648781003) | 267d |
+| **OpenAI** | Product Manufacturing Engineer | Singapore | [Apply](https://jobs.ashbyhq.com/openai/cb9280db-df39-4c88-b411-5fdf149a6e52) | 278d |
+| **Workato** | Senior Infrastructure Engineer (AI Lab) | Singapore | [Apply](https://www.workato.com/careers?gh_jid=8288630002#open-roles) | 288d |
+| **OKX** | Senior/Staff Engineer, Decentralize Exchange (DEX) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7611329003) | 298d |
+| **OKX** | Senior Java Engineer, OKX Pay Smart Account Team | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7596531003) | 301d |
+| **OKX** | Senior/Staff Data Engineer, Analytics and Reporting | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7601762003) | 305d |
+| **OKX** | Data Engineer, Product Data Development | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7601723003) | 305d |
+| **OKX** | Senior/Staff Engineer, Growth | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7594323003) | 312d |
+| **Airwallex** | Senior Backend Engineer, Spend | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/8c7f2601-c8c6-44e8-855e-699ad8ba3bda) | 312d |
+| **Palantir** | Software Engineer, Internship | Singapore, Singapore | [Apply](https://jobs.lever.co/palantir/3531977a-9b2f-40a0-a486-4eeb38e75fc1) | 314d |
+| **OKX** | Senior Data Scientist, Risk (Risk Strategy) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7575853003) | 326d |
+| **Squarepoint Capital** | Senior Information Security Engineer | Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7479509&gh_jid=7479509) | 342d |
+| **Riot Games** | Manager, Software Engineering, Publishing Engagement - Publishing Platform (based in Seoul, South Korea) | Seoul, Korea; Singapore | [Apply](https://www.riotgames.com/en/work-with-us/job/7454356?gh_jid=7454356) | 349d |
+| **OKX** | Senior/Staff Engineer, Data Governance | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7535733003) | 369d |
+| **OKX** | Principal/Senior Product Manager, AI and Agent | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/7531921003) | 371d |
+| **Jane Street** | Facilities Operations Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8210335002?gh_jid=8210335002) | 390d |
+| **Jump Trading** | Quantitative Researcher \| Trading Team | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=5870589) | 426d |
+| **Airwallex** | Engineering Manager, Org & Identity | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/65c33a72-d6e5-4fe3-b39b-048b08e411e0) | 435d |
+| **Jane Street** | FIX Onboarding and Connectivity Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/8159216002?gh_jid=8159216002) | 439d |
+| **Airwallex** | Engineering Lead / Manager, KYC | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/f217b125-5639-4e88-befd-7b070cc1b701) | 441d |
+| **OKX** | Principal AI Engineer, AI Agent Development | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6690158003) | 459d |
+| **Airwallex** | Staff Software Engineer, Spend | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/1711508a-927f-48c2-b3ef-0a79ccd0299d) | 461d |
+| **Airwallex** | Engineering Manager, Financial Platform | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/8323ef8a-a728-41a6-a82d-addb2d645a85) | 467d |
+| **OKX** | Senior Staff Software Engineer, Trading Service (Retail Trading) | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6664617003) | 483d |
+| **OKX** | Senior Software Engineer, Trading Services | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6656607003) | 490d |
+| **OKX** | Senior/Staff Engineer, Data Platform Development | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6651092003) | 496d |
+| **Squarepoint Capital** | Network Specialist - Security | Montreal, New York, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=7068120&gh_jid=7068120) | 498d |
+| **Agoda** | Lead Data Scientist - (Singapore Based) | Singapore | [Apply](https://job-boards.greenhouse.io/agoda/jobs/7009865) | 517d |
+| **OKX** | Senior Staff Software Engineer, Trading Services | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6610645003) | 524d |
+| **OKX** | Senior Staff Software Engineer, Trading Service (C++) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6615074003) | 524d |
+| **Airwallex** | Staff AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/260fdad2-74f5-4b94-b7af-caa7eec0393e) | 552d |
+| **Airwallex** | Senior AI Engineer | SG - Singapore | [Apply](https://jobs.ashbyhq.com/airwallex/f5c945c9-dc25-4b35-a6bd-ae2fef539727) | 552d |
+| **OKX** | Staff Engineer, Middleware | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6576781003) | 558d |
+| **Jump Trading** | Research Engineer \| AI Agents | Singapore | [Apply](https://www.jumptrading.com/hr/job?gh_jid=6881808) | 561d |
+| **OKX** | Engineering Director, DBA | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6569486003) | 565d |
+| **OKX** | Staff / Senior Staff Software Engineer, Matching Engine | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6543530003) | 588d |
+| **OKX** | Infrastructure Stability Architect  (Senior Staff Engineer) | Hong Kong, Hong Kong SAR; Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6507075003) | 622d |
+| **OKX** | Senior Product Manager - Risk Platform | Singapore, Singapore | [Apply](https://job-boards.greenhouse.io/okx/jobs/6498663003) | 630d |
+| **Akuna Capital** | Systems Engineer | Singapore | [Apply](https://www.akunacapital.com/careers/job/6632731/?gh_jid=6632731) | 648d |
+| **Palantir** | Production Engineer - Database Operations | Singapore, Singapore | [Apply](https://jobs.lever.co/palantir/c80690ca-704b-46c2-9d95-e4f6e98ce4e2) | 656d |
+| **Jump Trading** | Deep Learning Researcher \| Trading Team | Shanghai, Singapore or Hong Kong | [Apply](https://www.jumptrading.com/hr/job?gh_jid=6603013) | 658d |
+| **WorldQuant** | Quantitative Developer | Singapore | [Apply](https://job-boards.greenhouse.io/worldquant/jobs/4435904006) | 676d |
+| **Squarepoint Capital** | Trade Flow Support - Trading Infrastructure Support | Singapore, London, Houston, Montreal | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6420505&gh_jid=6420505) | 720d |
+| **Squarepoint Capital** | Software Developer - Risk Technology | Singapore, Montreal, Bangalore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6212106&gh_jid=6212106) | 785d |
+| **Palantir** | Software Engineer, New Grad | Singapore, Singapore | [Apply](https://jobs.lever.co/palantir/2458ba08-de79-4e8f-b553-060f9568727e) | 791d |
+| **Jane Street** | Cybersecurity Engineer - Detection and Response | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/7642974002?gh_jid=7642974002) | 792d |
+| **Virtu Financial** | 2027 Internship - Quantitative Researcher (PhD) | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/7617953002) | 816d |
+| **Squarepoint Capital** | Platform Application Specialist | Montreal, New York, Houston, Boston, Singapore, Hong Kong, London | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6212084&gh_jid=6212084) | 818d |
+| **Squarepoint Capital** | Intern Software Developer - Singapore - 2027 | Singapore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6201998&gh_jid=6201998) | 818d |
+| **Squarepoint Capital** | Junior Platform Specialist | Montreal, London, Singapore, Warsaw, Houston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6099903&gh_jid=6099903) | 838d |
+| **Squarepoint Capital** | Platform Compute Specialist | Montreal, New York, London, Singapore, Bangalore  | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6119781&gh_jid=6119781) | 852d |
+| **Squarepoint Capital** | Junior Quant Researcher - ML Alpha Research | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6069464&gh_jid=6069464) | 866d |
+| **Squarepoint Capital** | Junior Software Developer - Front-end | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6034447&gh_jid=6034447) | 886d |
+| **Squarepoint Capital** | Junior Software Developer (KDB+/Q) | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6040773&gh_jid=6040773) | 886d |
+| **Squarepoint Capital** | Junior Software Developer (C++) | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6040731&gh_jid=6040731) | 886d |
+| **Squarepoint Capital** | Junior Software Developer (Python) | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6033550&gh_jid=6033550) | 893d |
+| **Squarepoint Capital** | Junior Quant Developer | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6034466&gh_jid=6034466) | 893d |
+| **Squarepoint Capital** | Graduate Software Developer | London, Montreal, Singapore, Warsaw | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=6040910&gh_jid=6040910) | 893d |
+| **Squarepoint Capital** | Software Developer - Internal Compute Frameworks (Rust) | London, Montreal, Singapore, Warsaw | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=5986280&gh_jid=5986280) | 910d |
+| **Jane Street** | Senior Network Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/7284911002?gh_jid=7284911002) | 982d |
+| **Squarepoint Capital** | Software Developer - Internal Compute Frameworks (Python) | London, Montreal, Singapore, Warsaw | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=4906785&gh_jid=4906785) | 1075d |
+| **Squarepoint Capital** | Software Developer - Risk Reliability | Singapore, Montreal , London | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=5384579&gh_jid=5384579) | 1156d |
+| **Squarepoint Capital** | Intern Quant Researcher | London, Paris, New York, Singapore, Hong Kong | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=243853&gh_jid=243853) | 1237d |
+| **Squarepoint Capital** | Software Developer – Internal Compute Frameworks (C++) | London, Montreal, Singapore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=4992227&gh_jid=4992227) | 1302d |
+| **Jane Street** | Data Centre Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/6102180002?gh_jid=6102180002) | 1327d |
+| **Virtu Financial** | 2027 Internship – Core Operations Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/6329460002) | 1562d |
+| **Squarepoint Capital** | Software Developer - Data Products and Services | Montreal, London, Singapore, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=4346989&gh_jid=4346989) | 1615d |
+| **Jane Street** | Production Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/5807405002?gh_jid=5807405002) | 1779d |
+| **Jane Street** | Software Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/5791948002?gh_jid=5791948002) | 1791d |
+| **Jane Street** | Linux Engineer | Singapore | [Apply](https://www.janestreet.com/join-jane-street/apply/5701269002?gh_jid=5701269002) | 1834d |
+| **Virtu Financial** | 2027 Internship – Software Engineer | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/5513756002) | 1911d |
+| **Squarepoint Capital** | Quant Developer (KDB) | London, Montreal, Singapore, Honk Kong | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=3277003&gh_jid=3277003) | 1967d |
+| **Squarepoint Capital** | Software Developer - Core Data | Singapore, Hong Kong, Montreal, London | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=1468761&gh_jid=1468761) | 2185d |
+| **Virtu Financial** | Core Developer - China Desk | Singapore | [Apply](https://job-boards.greenhouse.io/virtu/jobs/4678573002) | 2448d |
+| **Squarepoint Capital** | Quant Developer (Python) | London, Montreal, Warsaw, Hong Kong, Singapore, Madrid, Houston, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=1433622&gh_jid=1433622) | 2589d |
+| **Squarepoint Capital** | Senior Quant Researcher - Volatility | Bangalore, Dubai, Geneva, Hong Kong, Houston, London, Madrid, Montreal, New York, Paris, Singapore, Zug, Boston | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=253414&gh_jid=253414) | 2737d |
+| **Squarepoint Capital** | Junior Quant Researcher | London, New York, Singapore, Boston, Paris, Zug, Geneva, Hong Kong, Bangalore | [Apply](https://www.squarepoint-capital.com/open-opportunities?id=239376&gh_jid=239376) | 2792d |
 
 ## Add a company
 

@@ -1,5 +1,37 @@
 [
  {
+  "company": "Twilio",
+  "title": "Presales Architect",
+  "location": "Remote - Singapore",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8405829",
+  "posted": "2026-11-24",
+  "ai": false
+ },
+ {
+  "company": "Twilio",
+  "title": "Presales Architect",
+  "location": "Remote - Singapore",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8405801",
+  "posted": "2026-11-24",
+  "ai": false
+ },
+ {
+  "company": "OpenAI",
+  "title": "Manager, Applied AI Architects (Singapore)",
+  "location": "Singapore",
+  "url": "https://jobs.ashbyhq.com/openai/143198ab-45e9-4ece-8604-d402b50cc3a9",
+  "posted": "2026-11-24",
+  "ai": true
+ },
+ {
+  "company": "Binance",
+  "title": "AI Security Engineer (APAC Remote)",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5030531101",
+  "posted": "2026-11-24",
+  "ai": true
+ },
+ {
   "company": "Jump Trading",
   "title": "Network Engineer",
   "location": "Singapore",
@@ -168,14 +200,6 @@
   "ai": false
  },
  {
-  "company": "Thoughtworks",
-  "title": "Lead Platform Engineer",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8370673?gh_jid=8370673",
-  "posted": "2026-11-13",
-  "ai": false
- },
- {
   "company": "Stripe",
   "title": "Technical Solutions Engineer",
   "location": "Singapore",
@@ -192,20 +216,12 @@
   "ai": false
  },
  {
-  "company": "Thoughtworks",
-  "title": "Senior Infrastructure Engineer (AWS, Azure, GCP, Terraform)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8370674?gh_jid=8370674",
-  "posted": "2026-11-12",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Principal Platform Engineer",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8370668?gh_jid=8370668",
-  "posted": "2026-11-12",
-  "ai": false
+  "company": "Stripe",
+  "title": "Solution Architect, Metronome (AI Native)",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8338845",
+  "posted": "2026-11-13",
+  "ai": true
  },
  {
   "company": "Stripe",
@@ -352,14 +368,6 @@
   "ai": false
  },
  {
-  "company": "Thoughtworks",
-  "title": "Infrastructure Engineer Consultant",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8324042?gh_jid=8324042",
-  "posted": "2026-11-09",
-  "ai": false
- },
- {
   "company": "Nium",
   "title": "Senior Analyst - Compliance Analytics",
   "location": "Singapore",
@@ -464,46 +472,6 @@
   "ai": false
  },
  {
-  "company": "Thoughtworks",
-  "title": "Senior Fullstack Developer (React, Next.js, Nest.js/Node.js)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8326947?gh_jid=8326947",
-  "posted": "2026-11-03",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Senior Full Stack Developer (Node.js & Cloud)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8326946?gh_jid=8326946",
-  "posted": "2026-11-03",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Fullstack Developer (Vue.js, Node.js)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8326927?gh_jid=8326927",
-  "posted": "2026-11-03",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Fullstack Developer (React.js, Next.js, Nest.js)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8326944?gh_jid=8326944",
-  "posted": "2026-11-03",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Fullstack Developer (Java, React.js)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8326928?gh_jid=8326928",
-  "posted": "2026-11-03",
-  "ai": false
- },
- {
   "company": "Anthropic",
   "title": "Head of ASEAN, Applied AI",
   "location": "Singapore",
@@ -597,14 +565,6 @@
   "location": "Singapore",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8331146",
   "posted": "2026-10-29",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Lead Infrastructure Engineer Consultant",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8324034?gh_jid=8324034",
-  "posted": "2026-10-28",
   "ai": false
  },
  {
@@ -896,22 +856,6 @@
   "ai": true
  },
  {
-  "company": "Thoughtworks",
-  "title": "Senior Machine Learning Engineer",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8255607?gh_jid=8255607",
-  "posted": "2026-10-16",
-  "ai": true
- },
- {
-  "company": "Thoughtworks",
-  "title": "Principal Information Security Partner",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8276050?gh_jid=8276050",
-  "posted": "2026-10-16",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "Senior / Staff Engineer, DEX Trading System",
   "location": "Singapore, Singapore",
@@ -933,22 +877,6 @@
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/8bb6719a-71ae-48fb-a007-01fd10776587",
   "posted": "2026-10-16",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Senior Infrastructure Engineer (AWS, K8S, GitOps)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8280701?gh_jid=8280701",
-  "posted": "2026-10-15",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Infrastructure Engineer (AWS, Terraform)",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8255609?gh_jid=8255609",
-  "posted": "2026-10-15",
   "ai": false
  },
  {
@@ -1033,14 +961,6 @@
  },
  {
   "company": "Binance",
-  "title": "Recommendation Engine Backend Engineer (Golang) (APAC Remote)",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002721101",
-  "posted": "2026-10-14",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Pioneer Talent Program - Research Data Scientist (APAC Remote)",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002565101",
@@ -1090,16 +1010,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
@@ -1134,14 +1054,6 @@
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002687101",
   "posted": "2026-10-13",
   "ai": true
- },
- {
-  "company": "Binance",
-  "title": "DevOps Engineer, Blockchain Infra (Fully Remote)",
-  "location": "Australia; Europe; Hong Kong; Malaysia; Singapore; Taiwan; United Arab Emirates; United Kingdom",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002663101",
-  "posted": "2026-10-13",
-  "ai": false
  },
  {
   "company": "Binance",
@@ -1384,6 +1296,14 @@
   "ai": false
  },
  {
+  "company": "Agoda",
+  "title": "Senior AI Security Researcher, Singapore based",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/agoda/jobs/8239196",
+  "posted": "2026-09-30",
+  "ai": true
+ },
+ {
   "company": "OpenAI",
   "title": "AI Support Engineer - Singapore (Weekend Shift)",
   "location": "Singapore",
@@ -1453,14 +1373,6 @@
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7990958003",
   "posted": "2026-09-25",
-  "ai": false
- },
- {
-  "company": "Thoughtworks",
-  "title": "Lead AIOps Architect",
-  "location": "Singapore, Singapore",
-  "url": "https://www.thoughtworks.com/careers/jobs/8203546?gh_jid=8203546",
-  "posted": "2026-09-24",
   "ai": false
  },
  {
@@ -1696,14 +1608,6 @@
   "ai": false
  },
  {
-  "company": "Stripe",
-  "title": "Software Engineer, New Grad",
-  "location": "Singapore",
-  "url": "https://stripe.com/jobs/search?gh_jid=8160776",
-  "posted": "2026-09-02",
-  "ai": false
- },
- {
   "company": "Databricks",
   "title": "Sr. Specialist Solutions Architect (AI/ML)",
   "location": "Singapore",
@@ -1920,14 +1824,6 @@
   "ai": false
  },
  {
-  "company": "Fireblocks",
-  "title": "Technical Support Engineer, APAC",
-  "location": "Singapore",
-  "url": "https://www.fireblocks.com/careers/position?gh_jid=4701844006",
-  "posted": "2026-08-04",
-  "ai": false
- },
- {
   "company": "Jump Trading",
   "title": "Campus Systems Engineer (Intern)",
   "location": "Singapore",
@@ -2061,6 +1957,14 @@
   "location": "Singapore",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8555674002",
   "posted": "2026-07-09",
+  "ai": false
+ },
+ {
+  "company": "Stripe",
+  "title": "Data Scientist",
+  "location": "Singapore",
+  "url": "https://stripe.com/jobs/search?gh_jid=8043052",
+  "posted": "2026-07-08",
   "ai": false
  },
  {
@@ -2624,6 +2528,14 @@
   "ai": false
  },
  {
+  "company": "Agoda",
+  "title": "Agoda Tech - Software Engineering & Engineering Management roles (Sushmi)",
+  "location": "Bangkok, Gurgaon, Singapore",
+  "url": "https://job-boards.greenhouse.io/agoda/jobs/7737436",
+  "posted": "2026-03-20",
+  "ai": false
+ },
+ {
   "company": "WorldQuant",
   "title": "Software Engineering Lead (MetaTech)",
   "location": "Singapore",
@@ -2785,6 +2697,14 @@
  },
  {
   "company": "OKX",
+  "title": "Senior/Staff Engineer, Data Governance",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/7535733003",
+  "posted": "2025-11-20",
+  "ai": false
+ },
+ {
+  "company": "OKX",
   "title": "Principal/Senior Product Manager, AI and Agent",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7531921003",
@@ -2888,14 +2808,6 @@
   "ai": false
  },
  {
-  "company": "OKX",
-  "title": "Senior Product Manager - Risk Platform",
-  "location": "Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/6642975003",
-  "posted": "2025-07-08",
-  "ai": false
- },
- {
   "company": "Agoda",
   "title": "Lead Data Scientist - (Singapore Based)",
   "location": "Singapore",
@@ -2973,6 +2885,14 @@
   "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/6507075003",
   "posted": "2025-03-12",
+  "ai": false
+ },
+ {
+  "company": "OKX",
+  "title": "Senior Product Manager - Risk Platform",
+  "location": "Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/6498663003",
+  "posted": "2025-03-04",
   "ai": false
  },
  {
