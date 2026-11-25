@@ -1,5 +1,37 @@
 [
  {
+  "company": "Airwallex",
+  "title": "Software Engineer II - Financial Platform",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/64f4b43e-586e-4a9f-b96f-f9725f4ba1b9",
+  "posted": "2026-11-25",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Software Engineer, Global Payments",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/d2770857-8f59-487e-9622-5c7ea64a54be",
+  "posted": "2026-11-25",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Software Engineer, Backend - Org & Identity, SG",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/0a383ae1-654d-4537-a1de-3151e50a35da",
+  "posted": "2026-11-25",
+  "ai": false
+ },
+ {
+  "company": "Airwallex",
+  "title": "Senior Software Engineer - Financial Platform",
+  "location": "SG - Singapore",
+  "url": "https://jobs.ashbyhq.com/airwallex/45b65dc1-ecf4-4d10-9e7e-61f433dbd81a",
+  "posted": "2026-11-25",
+  "ai": false
+ },
+ {
   "company": "Twilio",
   "title": "Presales Architect",
   "location": "Remote - Singapore",
@@ -25,9 +57,33 @@
  },
  {
   "company": "Binance",
+  "title": "Recommendation Engine & Audio Backend Engineer (Golang) (APAC Remote)",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5021408101",
+  "posted": "2026-11-24",
+  "ai": false
+ },
+ {
+  "company": "Binance",
   "title": "AI Security Engineer (APAC Remote)",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5030531101",
+  "posted": "2026-11-24",
+  "ai": true
+ },
+ {
+  "company": "Binance",
+  "title": "AI Engineer （internal tool)",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5041060101",
+  "posted": "2026-11-24",
+  "ai": true
+ },
+ {
+  "company": "Agoda",
+  "title": "Staff AI Security Researcher, Singapore based",
+  "location": "Guoco, Singapore",
+  "url": "https://job-boards.greenhouse.io/agoda/jobs/8323409",
   "posted": "2026-11-24",
   "ai": true
  },
@@ -257,22 +313,6 @@
  },
  {
   "company": "Airwallex",
-  "title": "Software Engineer Intern (Summer 2027)",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/6cdb0f39-234a-4234-b1f1-cb48a1fa2795",
-  "posted": "2026-11-12",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Software Engineer Intern (Jan to Jun 2027)",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/39651124-122a-4033-91a2-af2687b83441",
-  "posted": "2026-11-12",
-  "ai": false
- },
- {
-  "company": "Airwallex",
   "title": "Senior Data Scientist, Analytics (Risk & Payments)",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/4401779c-419c-46d4-9c9d-4aea013652a5",
@@ -308,6 +348,14 @@
   "title": "Senior Software Engineer, Infra (Cloud & Security)",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/9d770432-8a34-44d4-9273-6dbce7d93aeb",
+  "posted": "2026-11-11",
+  "ai": false
+ },
+ {
+  "company": "Adyen",
+  "title": "Technical Support Engineer",
+  "location": "Singapore",
+  "url": "https://job-boards.greenhouse.io/adyen/jobs/8352219",
   "posted": "2026-11-11",
   "ai": false
  },
@@ -433,7 +481,7 @@
  },
  {
   "company": "OpenAI",
-  "title": "AI Deployment Manager - Builder",
+  "title": "AI Deployment Manager",
   "location": "Singapore",
   "url": "https://jobs.ashbyhq.com/openai/c2016d32-1994-471d-8900-1b49259c647c",
   "posted": "2026-11-05",
@@ -522,7 +570,7 @@
  {
   "company": "MongoDB",
   "title": "Solutions Architect - Thai Speaking",
-  "location": "Singapore",
+  "location": "Malaysia; Singapore",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8333381",
   "posted": "2026-11-02",
   "ai": false
@@ -849,7 +897,7 @@
  },
  {
   "company": "Binance",
-  "title": "Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security",
+  "title": "Full Stack Engineer (Web,Frontend Oriented) — AI Facial Recognition, Identity & Security (Fully Remote)",
   "location": "Australia; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5007086101",
   "posted": "2026-10-18",
@@ -1210,7 +1258,7 @@
  {
   "company": "MongoDB",
   "title": "Senior Solutions Architect",
-  "location": "Singapore",
+  "location": "Malaysia; Singapore",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8230043",
   "posted": "2026-10-06",
   "ai": false
@@ -1333,14 +1381,6 @@
   "location": "Singapore",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8849858002",
   "posted": "2026-09-28",
-  "ai": false
- },
- {
-  "company": "Databricks",
-  "title": "Sr. Delivery Solutions Architect (Greater China Region)",
-  "location": "Singapore",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8735828002",
-  "posted": "2026-09-27",
   "ai": false
  },
  {
