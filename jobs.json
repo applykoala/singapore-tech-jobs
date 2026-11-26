@@ -1,5 +1,37 @@
 [
  {
+  "company": "Squarepoint Capital",
+  "title": "Senior Quant Researcher - Portfolio Optimization",
+  "location": "Geneva, Hong Kong, London, Paris, Singapore, Zug",
+  "url": "https://www.squarepoint-capital.com/open-opportunities?id=8370429&gh_jid=8370429",
+  "posted": "2026-11-26",
+  "ai": false
+ },
+ {
+  "company": "OKX",
+  "title": "Senior Product Manager, DevOps and AI Agent",
+  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8217487003",
+  "posted": "2026-11-26",
+  "ai": true
+ },
+ {
+  "company": "Databricks",
+  "title": "Solutions Architect",
+  "location": "Singapore",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937350002",
+  "posted": "2026-11-25",
+  "ai": false
+ },
+ {
+  "company": "Databricks",
+  "title": "Manager, Field Engineering (Greater China)",
+  "location": "Singapore",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8963204002",
+  "posted": "2026-11-25",
+  "ai": false
+ },
+ {
   "company": "Airwallex",
   "title": "Software Engineer II - Financial Platform",
   "location": "SG - Singapore",
@@ -385,25 +417,9 @@
  },
  {
   "company": "Binance",
-  "title": "Senior Java Engineer – Fund Security & Account Security (Fiat OnOff-Ramp)",
-  "location": "Australia; Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5029390101",
-  "posted": "2026-11-10",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Data Scientist – Computer Vision / AI Manipulation Detection (Risk AI)",
   "location": "Australia; Hong Kong; Singapore; Taiwan; Thailand",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5032464101",
-  "posted": "2026-11-10",
-  "ai": true
- },
- {
-  "company": "Binance",
-  "title": "Binance Accelerator Program - Compliance Training (AI)",
-  "location": "Australia; Bahrain; Hong Kong; New Zealand; Singapore; Taiwan; United Arab Emirates",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5024608101",
   "posted": "2026-11-10",
   "ai": true
  },
@@ -581,14 +597,6 @@
   "location": "Singapore",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8907735002",
   "posted": "2026-11-02",
-  "ai": false
- },
- {
-  "company": "Snowflake",
-  "title": "Senior RVP, Solution Engineering ASEAN",
-  "location": "SG-Singapore",
-  "url": "https://jobs.ashbyhq.com/snowflake/2ebec9d1-055f-4e47-93ae-29ad19e23967",
-  "posted": "2026-11-01",
   "ai": false
  },
  {
@@ -969,14 +977,6 @@
  },
  {
   "company": "Airwallex",
-  "title": "Staff Software Engineer, Ecosystem",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/acbfa32f-efb7-4ca1-b3f1-dc7060cff75c",
-  "posted": "2026-10-15",
-  "ai": false
- },
- {
-  "company": "Airwallex",
   "title": "Software Engineer, Ecosystem",
   "location": "SG - Singapore",
   "url": "https://jobs.ashbyhq.com/airwallex/78947679-269c-427f-9b09-36b716493088",
@@ -1038,14 +1038,6 @@
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002563101",
   "posted": "2026-10-14",
   "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Senior Data Analyst (AI Compliance)",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002713101",
-  "posted": "2026-10-13",
-  "ai": true
  },
  {
   "company": "Binance",
@@ -2128,14 +2120,6 @@
   "ai": false
  },
  {
-  "company": "OKX",
-  "title": "Junior Product Manager, DevOps and AI",
-  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/7780897003",
-  "posted": "2026-06-23",
-  "ai": true
- },
- {
   "company": "Airwallex",
   "title": "Senior Product Manager, Liquidity Platform",
   "location": "SG - Singapore",
@@ -2336,14 +2320,6 @@
   "ai": false
  },
  {
-  "company": "Datadog",
-  "title": "Manager II, Services Architect",
-  "location": "Singapore, Singapore",
-  "url": "https://careers.datadoghq.com/detail/7939294/?gh_jid=7939294",
-  "posted": "2026-05-20",
-  "ai": false
- },
- {
   "company": "OKX",
   "title": "Product Manager / Director, Trading Infrastructure",
   "location": "Singapore, Singapore",
@@ -2468,14 +2444,6 @@
   "title": "Senior/Staff Engineer, AI Agent Development",
   "location": "Singapore, Singapore",
   "url": "https://job-boards.greenhouse.io/okx/jobs/7699598003",
-  "posted": "2026-04-14",
-  "ai": true
- },
- {
-  "company": "OKX",
-  "title": "Senior Product Manager, DevOps and AI",
-  "location": "Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/7699601003",
   "posted": "2026-04-14",
   "ai": true
  },
