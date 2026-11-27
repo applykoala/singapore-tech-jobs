@@ -1,9 +1,33 @@
 [
  {
+  "company": "Thunes",
+  "title": "Product Manager - AI & Automation",
+  "location": "Singapore, Central, Singapore",
+  "url": "https://www.thunes.com/jobs/8207888003?gh_jid=8207888003",
+  "posted": "2026-11-27",
+  "ai": true
+ },
+ {
+  "company": "OKX",
+  "title": "Senior Product Manager, Localization Platform and Quality",
+  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8218197003",
+  "posted": "2026-11-27",
+  "ai": false
+ },
+ {
   "company": "Squarepoint Capital",
   "title": "Senior Quant Researcher - Portfolio Optimization",
   "location": "Geneva, Hong Kong, London, Paris, Singapore, Zug",
   "url": "https://www.squarepoint-capital.com/open-opportunities?id=8370429&gh_jid=8370429",
+  "posted": "2026-11-26",
+  "ai": false
+ },
+ {
+  "company": "OKX",
+  "title": "Staff / Senior Staff Engineer, BOSS Operation Platform",
+  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
+  "url": "https://job-boards.greenhouse.io/okx/jobs/8217522003",
   "posted": "2026-11-26",
   "ai": false
  },
@@ -14,6 +38,14 @@
   "url": "https://job-boards.greenhouse.io/okx/jobs/8217487003",
   "posted": "2026-11-26",
   "ai": true
+ },
+ {
+  "company": "Binance",
+  "title": "Senior Product Manager, Trading & Data",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5047657101",
+  "posted": "2026-11-26",
+  "ai": false
  },
  {
   "company": "Databricks",
@@ -148,14 +180,6 @@
   "title": "TechOps Engineer",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5041062101",
-  "posted": "2026-11-20",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Site Reliability Engineer, Spend",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/36d4b8df-ad02-4e69-9547-1f0b0f7d03da",
   "posted": "2026-11-20",
   "ai": false
  },
@@ -816,22 +840,6 @@
   "ai": false
  },
  {
-  "company": "Airwallex",
-  "title": "Senior Software Engineer, Scale Platform (Frontend)",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/e6ed0945-65a2-40b6-aabe-e28ad025003c",
-  "posted": "2026-10-21",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Senior Software Engineer, Scale (Frontend)",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/a9c09c5d-ab0c-4692-a6c0-d1cdc0107a7c",
-  "posted": "2026-10-21",
-  "ai": false
- },
- {
   "company": "Stripe",
   "title": "Engineering Manager, Money as a Service (MaaS)",
   "location": "Singapore",
@@ -876,14 +884,6 @@
   "title": "Algorithm Engineer - Search & Recommendation（APAC - Remote)",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002683101",
-  "posted": "2026-10-19",
-  "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Senior Site Reliability Engineer, Spend",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/b3514b7b-67d3-4f48-b4ae-20e3ad49261c",
   "posted": "2026-10-19",
   "ai": false
  },
@@ -1464,14 +1464,6 @@
   "ai": false
  },
  {
-  "company": "Adyen",
-  "title": "Technical Support Engineer (Finance)",
-  "location": "Singapore",
-  "url": "https://job-boards.greenhouse.io/adyen/jobs/8212878",
-  "posted": "2026-09-20",
-  "ai": false
- },
- {
   "company": "Virtu Financial",
   "title": "Electronic Trading Engineer (Retail Routing)",
   "location": "Singapore",
@@ -1492,14 +1484,6 @@
   "title": "Applied AI Engineer",
   "location": "Singapore",
   "url": "https://jobs.ashbyhq.com/openai/8acfba11-707e-4d8e-a860-88643fae24ba",
-  "posted": "2026-09-15",
-  "ai": true
- },
- {
-  "company": "OKX",
-  "title": "Product Director, Localisation & AI Evals",
-  "location": "Hong Kong, Hong Kong SAR; Singapore, Singapore",
-  "url": "https://job-boards.greenhouse.io/okx/jobs/7984217003",
   "posted": "2026-09-15",
   "ai": true
  },
@@ -1582,14 +1566,6 @@
   "url": "https://careers.datadoghq.com/detail/8172864/?gh_jid=8172864",
   "posted": "2026-09-07",
   "ai": false
- },
- {
-  "company": "Airwallex",
-  "title": "Senior Product Manager, AI Risk & Onboarding",
-  "location": "SG - Singapore",
-  "url": "https://jobs.ashbyhq.com/airwallex/6c55b41b-824b-46cd-8590-b9e83eaa5de6",
-  "posted": "2026-09-07",
-  "ai": true
  },
  {
   "company": "Airwallex",
