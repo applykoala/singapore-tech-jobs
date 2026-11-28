@@ -16,6 +16,14 @@
   "ai": false
  },
  {
+  "company": "Binance",
+  "title": "Senior Software Engineer – Developer Experience & Supply Chain Security",
+  "location": "Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5048967101",
+  "posted": "2026-11-27",
+  "ai": false
+ },
+ {
   "company": "Squarepoint Capital",
   "title": "Senior Quant Researcher - Portfolio Optimization",
   "location": "Geneva, Hong Kong, London, Paris, Singapore, Zug",
@@ -99,7 +107,7 @@
   "company": "Twilio",
   "title": "Presales Architect",
   "location": "Remote - Singapore",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8405829",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8405801",
   "posted": "2026-11-24",
   "ai": false
  },
@@ -107,7 +115,7 @@
   "company": "Twilio",
   "title": "Presales Architect",
   "location": "Remote - Singapore",
-  "url": "https://job-boards.greenhouse.io/twilio/jobs/8405801",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8405829",
   "posted": "2026-11-24",
   "ai": false
  },
@@ -945,14 +953,6 @@
  },
  {
   "company": "Binance",
-  "title": "Senior Frontend Engineer - Web3 Wallet",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002553101",
-  "posted": "2026-10-15",
-  "ai": false
- },
- {
-  "company": "Binance",
   "title": "Senior Android Developer - Cryptographic",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002707101",
@@ -964,14 +964,6 @@
   "title": "Senior Algorithmic Trader / Liquidity Researcher",
   "location": "Hong Kong; Singapore; Taiwan",
   "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002369101",
-  "posted": "2026-10-15",
-  "ai": false
- },
- {
-  "company": "Binance",
-  "title": "Blockchain Engineer - Binance Wallet",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002619101",
   "posted": "2026-10-15",
   "ai": false
  },
@@ -1050,16 +1042,16 @@
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore; Taiwan",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
+  "location": "Hong Kong; Singapore",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
   "posted": "2026-10-13",
   "ai": false
  },
  {
   "company": "Binance",
   "title": "Pioneer Talent Program - Applied Data Scientist",
-  "location": "Hong Kong; Singapore",
-  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002575101",
+  "location": "Hong Kong; Singapore; Taiwan",
+  "url": "https://job-boards.eu.greenhouse.io/binance/jobs/5002729101",
   "posted": "2026-10-13",
   "ai": false
  },
